@@ -1,0 +1,1372 @@
+Year-Week,Site_Name,UTM_Source,UTM_Campaign,UTM_Supplier_Id,UTM_Medium,UTM_Ad_Id,UTM_Content,Supplier,Matching_Time,Reg,Distinct_Schools,Accepted,Rejected,Rev,CPA
+202322,edu,,,,,,,Educationdirectory.org,,2,0,,,0.00,
+202322,white,,,,,,,Educationdirectory.org,,1,1,1,0,27.00,27.000000
+202321,white_g,,,SUP0109,,374219,,Educationdirectory.org,,3,1,0,0,0.00,
+202322,edp,,,,,,,Educationdirectory.org,,1,3,3,0,65.00,21.666667
+202322,,,,,,,,Digital Media Solutions,,11316,4,2,2,38.00,19.000000
+202322,white_g,,,,,,,Educationdirectory.org,,5,6,5,2,109.00,21.800000
+202321,edu,,,,,,,Educationdirectory.org,,39,1,0,0,0.00,
+202321,white_g,,,SUP0104,,grant2,,Educationdirectory.org,,5,6,3,0,72.00,24.000000
+202321,white_g,,,SUP0101,,620702930077,,Educationdirectory.org,,2,2,2,0,43.00,21.500000
+202321,white_g,,,,,,,Educationdirectory.org,,7,6,5,1,117.00,23.400000
+202317,white_g,,,,,,,Educationdirectory.org,,7,6,7,2,168.00,24.000000
+202317,white_g,,,SUP0101,,651015491880,,Educationdirectory.org,,1,1,,,0.00,
+202317,white_g,,,SUP0104,,,,Educationdirectory.org,,3,1,1,0,12.00,12.000000
+202317,white_g,,,SUP0104,,grant1,,Educationdirectory.org,,5,2,0,0,0.00,
+202318,,,,,,,,Digital Media Solutions,,27697,8,17,37,338.00,19.882353
+202318,edp,,,,,,,Educationdirectory.org,,2,4,3,0,60.00,20.000000
+202318,edp,,,SUP0101,,624999155494,,Educationdirectory.org,,1,5,0,0,0.00,
+202318,edp,,,SUP0111,,creative1e,,Educationdirectory.org,,1,5,3,0,76.00,25.333333
+202318,edp,,,SUP0111,education,creative1e,,Educationdirectory.org,,6,4,4,4,112.00,28.000000
+202318,Purdue Global,,,SUP0111,edu_grant,creative1g,,Educationdirectory.org,,2,3,0,0,0.00,
+202318,Purdue Global,,,SUP0111,education,creative1e,,Educationdirectory.org,,4,4,1,0,40.00,40.000000
+202318,white_g,,,,,,,Educationdirectory.org,,7,12,3,0,82.00,27.333333
+202318,white_g,,,SUP0104,,grant1,,Educationdirectory.org,,4,2,0,2,0.00,
+202318,white_g,,,SUP0111,,creative1g,,Educationdirectory.org,,1,5,0,0,0.00,
+202318,white_g,,,SUP0111,edu_grant,creative1g,,Educationdirectory.org,,38,20,27,5,614.00,22.740741
+202319,,,,,,,,Digital Media Solutions,,23811,7,12,17,242.00,20.166667
+202319,edp,,,,,,,Educationdirectory.org,,3,6,4,0,105.00,26.250000
+202319,edp,,,SUP0101,,632560918534,,Educationdirectory.org,,1,3,1,2,30.00,30.000000
+202312,,,,,,,,Digital Media Solutions,,11371,4,4,13,76.00,19.000000
+202312,blue_g,,,,,,,Educationdirectory.org,,3,2,,,0.00,
+202312,edp,,,,,,,Educationdirectory.org,,8,13,10,2,221.00,22.100000
+202312,portal,,,,,,,Degree Transfers,2145749,2,8,5,2,145.00,29.000000
+202312,Purdue Global,,,,,,,Educationdirectory.org,,4,2,0,4,0.00,
+202312,white_g,,,,,,,Educationdirectory.org,,16,13,6,2,136.00,22.666667
+202312,white_g,,,SUP0101,,624999155494,,Educationdirectory.org,,1,7,0,0,0.00,
+202312,white_g,,,SUP0104,,,,Educationdirectory.org,,6,12,3,0,41.00,13.666667
+202313,,,,,,,,Digital Media Solutions,,14372,10,16,4,308.00,19.250000
+202313,blue_g,,,,,,,Educationdirectory.org,,1,2,,,0.00,
+202313,edp,,,,,,,Educationdirectory.org,,5,9,5,1,135.00,27.000000
+202313,Purdue Global,,,,,,,Educationdirectory.org,,3,1,1,0,7.00,7.000000
+202252,,,,,,,,Digital Media Solutions,,2803,1,1,0,19.00,19.000000
+202252,edp,,,,,,,Educationdirectory.org,,1,0,,,0.00,
+202252,Purdue Global,,,,,,,Educationdirectory.org,,3,1,,,0.00,
+202301,,,,,,,,Digital Media Solutions,,24278,7,45,7,855.00,19.000000
+202301,edp,,,,,,,Educationdirectory.org,,8,10,12,1,270.00,22.500000
+202301,portal,,,,,,,Degree Transfers,5688316,7,8,1,2,15.00,15.000000
+202301,Purdue Global,,,,,,,Educationdirectory.org,,7,6,4,8,100.00,25.000000
+202301,white_g,,,,,,,Educationdirectory.org,,9,8,6,0,116.00,19.333333
+202301,white_g,,,SUP0101,,585909895103,,Educationdirectory.org,,6,4,7,1,150.00,21.428571
+202301,white_g,,,SUP0104,,,,Educationdirectory.org,,4,5,4,5,54.00,13.500000
+202302,,,,,,,,Digital Media Solutions,,23034,5,10,6,197.00,19.700000
+202302,edp,,,,,,,Educationdirectory.org,,8,16,8,2,162.00,20.250000
+202302,portal,,,,,,,Degree Transfers,3618337,5,7,0,2,0.00,
+202302,Purdue Global,,,SUP0104,,,,Educationdirectory.org,,1,0,,,0.00,
+202306,portal,,,,,,,Degree Transfers,54003,3,0,,,0.00,
+202306,Purdue Global,,,,,,,Educationdirectory.org,,4,8,6,1,112.00,18.666667
+202306,white,,,,,,,Educationdirectory.org,,4,7,1,0,30.00,30.000000
+202306,white_g,,,,,,,Educationdirectory.org,,4,9,6,0,158.00,26.333333
+202306,white_g,,,SUP0101,,585909895103,,Educationdirectory.org,,2,8,4,0,106.00,26.500000
+202306,white_g,,,SUP0104,,,,Educationdirectory.org,,4,7,6,0,114.00,19.000000
+202307,,,,,,,,Digital Media Solutions,,21349,5,6,3,114.00,19.000000
+202307,edp,,,,,,,Educationdirectory.org,,7,8,1,0,20.00,20.000000
+202307,portal,,,,,,,Degree Transfers,4392244,4,6,5,5,144.00,28.800000
+202307,Purdue Global,,,,,,,Educationdirectory.org,,7,12,2,3,44.00,22.000000
+202307,Purdue Global,,,SUP0104,,,,Educationdirectory.org,,1,1,0,0,0.00,
+202307,white,,,,,,,Educationdirectory.org,,1,0,,,0.00,
+202307,white_g,,,,,,,Educationdirectory.org,,6,10,7,3,181.00,25.857143
+202307,white_g,,,SUP0101,,585909895103,,Educationdirectory.org,,4,13,3,0,98.00,32.666667
+202307,white_g,,,SUP0104,,,,Educationdirectory.org,,9,9,5,1,140.00,28.000000
+202308,,,,,,,,Digital Media Solutions,,27776,4,9,4,171.00,19.000000
+202308,edp,,,,,,,Educationdirectory.org,,19,17,9,1,226.00,25.111111
+202315,white_g,,,,,,,Educationdirectory.org,,15,12,11,11,318.00,28.909091
+202315,white_g,,,SUP0101,,607713435568,,Educationdirectory.org,,2,2,2,0,43.00,21.500000
+202315,white_g,,,SUP0101,,651015491880,,Educationdirectory.org,,1,4,0,0,0.00,
+202315,white_g,,,SUP0104,,,,Educationdirectory.org,,7,11,1,0,17.00,17.000000
+202315,white_g,,,SUP0109,,374219,,Educationdirectory.org,,5,7,3,1,88.00,29.333333
+202316,,,,,,,,Digital Media Solutions,,28219,4,8,11,152.00,19.000000
+202316,edp,,,,,,,Educationdirectory.org,,2,5,0,0,0.00,
+202316,Purdue Global,,,,,,,Educationdirectory.org,,7,4,3,0,94.00,31.333333
+202316,white_g,,,,,,,Educationdirectory.org,,13,14,5,5,96.00,19.200000
+202316,white_g,,,SUP0101,,624999155488,,Educationdirectory.org,,1,0,,,0.00,
+202316,white_g,,,SUP0101,,649118698063,,Educationdirectory.org,,1,0,,,0.00,
+202316,white_g,,,SUP0101,,650931252223,,Educationdirectory.org,,1,2,2,0,43.00,21.500000
+202316,white_g,,,SUP0104,,,,Educationdirectory.org,,6,2,3,0,84.00,28.000000
+202317,,,,,,,,Digital Media Solutions,,29719,4,5,13,109.00,21.800000
+202317,edp,,,,,,,Educationdirectory.org,,9,8,2,0,43.00,21.500000
+202317,Purdue Global,,,,,,,Educationdirectory.org,,7,7,6,1,162.00,27.000000
+202304,Purdue Global,,,SUP0104,,,,Educationdirectory.org,,1,3,0,0,0.00,
+202304,white,,,,,,,Educationdirectory.org,,1,1,1,0,30.00,30.000000
+202304,white_g,,,,,,,Educationdirectory.org,,5,5,1,2,20.00,20.000000
+202304,white_g,,,SUP0101,,585909895103,,Educationdirectory.org,,2,4,2,0,48.00,24.000000
+202304,white_g,,,SUP0104,,,,Educationdirectory.org,,12,14,9,0,185.00,20.555556
+202305,,,,,,,,Digital Media Solutions,,21462,9,20,9,396.00,19.800000
+202305,edp,,,,,,,Educationdirectory.org,,8,15,4,2,109.00,27.250000
+202305,Purdue Global,,,,,,,Educationdirectory.org,,11,8,3,2,69.00,23.000000
+202305,white_g,,,,,,,Educationdirectory.org,,8,11,2,0,46.00,23.000000
+202305,white_g,,,SUP0101,,585909895103,,Educationdirectory.org,,2,3,1,1,30.00,30.000000
+202305,white_g,,,SUP0104,,,,Educationdirectory.org,,8,4,3,0,62.00,20.666667
+202306,,,,,,,,Digital Media Solutions,,20432,8,22,5,422.00,19.181818
+202306,edp,,,,,,,Educationdirectory.org,,5,11,3,2,78.00,26.000000
+202313,white_g,,,,,,,Educationdirectory.org,,16,10,6,5,124.00,20.666667
+202313,white_g,,,SUP0101,,607713435568,,Educationdirectory.org,,1,6,0,0,0.00,
+202313,white_g,,,SUP0104,,,,Educationdirectory.org,,6,8,1,1,9.00,9.000000
+202314,,,,,,,,Digital Media Solutions,,24665,9,29,35,569.00,19.620690
+202314,edp,,,,,,,Educationdirectory.org,,7,9,0,0,0.00,
+202314,Purdue Global,,,,,,,Educationdirectory.org,,6,4,3,3,76.00,25.333333
+202314,Purdue Global,,,SUP0104,,,,Educationdirectory.org,,2,3,1,1,30.00,30.000000
+202314,white_g,,,,,,,Educationdirectory.org,,8,9,4,4,103.00,25.750000
+202314,white_g,,,SUP0101,,649118698063,,Educationdirectory.org,,1,5,0,0,0.00,
+202314,white_g,,,SUP0101,,651015491880,,Educationdirectory.org,,1,1,0,0,0.00,
+202314,white_g,,,SUP0101,,652872442234,,Educationdirectory.org,,1,3,2,0,46.00,23.000000
+202314,white_g,,,SUP0104,,,,Educationdirectory.org,,5,13,1,1,30.00,30.000000
+202315,,,,,,,,Digital Media Solutions,,26689,6,13,19,254.00,19.538462
+202315,edp,,,,,,,Educationdirectory.org,,9,10,6,2,149.00,24.833333
+202315,Purdue Global,,,,,,,Educationdirectory.org,,4,4,3,4,84.00,28.000000
+202319,Purdue Global,,,,,,,Educationdirectory.org,,1,2,2,0,42.00,21.000000
+202319,white_g,,,,,,,Educationdirectory.org,,5,8,4,0,134.00,33.500000
+202319,white_g,,,SUP0104,,grant1,,Educationdirectory.org,,5,5,1,1,11.00,11.000000
+202319,white_g,,,SUP0109,,,,Educationdirectory.org,,1,1,,,0.00,
+202319,white_g,,,SUP0109,,374219,,Educationdirectory.org,,1,2,1,0,26.00,26.000000
+202320,,,,,,,,Digital Media Solutions,,25314,5,4,21,76.00,19.000000
+202320,edp,,,,,,,Educationdirectory.org,,7,11,8,8,191.00,23.875000
+202320,white_g,,,,,,,Educationdirectory.org,,7,13,6,2,175.00,29.166667
+202320,white_g,,,SUP0101,,649118698063,,Educationdirectory.org,,1,3,0,0,0.00,
+202320,white_g,,,SUP0101,,650931252223,,Educationdirectory.org,,1,1,,,0.00,
+202320,white_g,,,SUP0104,,grant2,,Educationdirectory.org,,4,3,1,0,19.00,19.000000
+202321,,,,,,,,Digital Media Solutions,,25713,5,4,11,76.00,19.000000
+202321,edp,,,,,,,Educationdirectory.org,,5,13,4,1,70.00,17.500000
+202310,portal,,,,,,,Degree Transfers,11700650,10,10,7,2,191.00,27.285714
+202310,Purdue Global,,,,,,,Educationdirectory.org,,8,16,6,2,144.00,24.000000
+202310,white_g,,,,,,,Educationdirectory.org,,7,12,10,2,265.00,26.500000
+202310,white_g,,,SUP0101,,620702930077,,Educationdirectory.org,,3,10,2,1,16.00,8.000000
+202310,white_g,,,SUP0104,,,,Educationdirectory.org,,5,8,5,0,113.00,22.600000
+202310,white_g,,,SUP0109,,374219,,Educationdirectory.org,,5,13,7,1,169.00,24.142857
+202311,,,,,,,,Digital Media Solutions,,27455,4,11,20,230.00,20.909091
+202311,edp,,,,,,,Educationdirectory.org,,3,10,3,0,71.00,23.666667
+202311,portal,,,,,,,Degree Transfers,7546287,5,6,2,5,56.00,28.000000
+202311,Purdue Global,,,,,,,Educationdirectory.org,,4,4,3,0,39.00,13.000000
+202311,white,,,,,,,Educationdirectory.org,,1,2,2,0,30.00,15.000000
+202311,white_g,,,,,,,Educationdirectory.org,,9,9,6,0,154.00,25.666667
+202311,white_g,,,SUP0104,,,,Educationdirectory.org,,10,11,6,0,126.00,21.000000
+202302,white_g,,,,,,,Educationdirectory.org,,4,9,0,0,0.00,
+202302,white_g,,,SUP0101,,606243851972,,Educationdirectory.org,,1,0,,,0.00,
+202302,white_g,,,SUP0104,,,,Educationdirectory.org,,1,1,0,0,0.00,
+202303,,,,,,,,Digital Media Solutions,,24249,3,6,12,114.00,19.000000
+202303,edp,,,,,,,Educationdirectory.org,,6,16,8,7,209.00,26.125000
+202303,portal,,,,,,,Degree Transfers,3618219,8,3,3,0,87.00,29.000000
+202303,Purdue Global,,,,,,,Educationdirectory.org,,2,5,1,0,20.00,20.000000
+202303,white_g,,,,,,,Educationdirectory.org,,10,8,5,1,109.00,21.800000
+202303,white_g,,,SUP0104,,,,Educationdirectory.org,,7,8,5,0,113.00,22.600000
+202304,,,,,,,,Digital Media Solutions,,22984,5,6,10,122.00,20.333333
+202304,edp,,,,,,,Educationdirectory.org,,7,11,9,6,232.00,25.777778
+202304,edp,,,SUP0104,,,,Educationdirectory.org,,1,4,3,0,44.00,14.666667
+202304,Purdue Global,,,,,,,Educationdirectory.org,,9,9,5,6,88.00,17.600000
+202304,Purdue Global,,,SUP0101,,585909895103,,Educationdirectory.org,,1,2,0,0,0.00,
+202308,portal,,,,,,,Degree Transfers,123723048,102,22,73,33,2213.00,30.315068
+202308,Purdue Global,,,,,,,Educationdirectory.org,,5,8,1,0,20.00,20.000000
+202308,white,,,,,,,Educationdirectory.org,,1,1,0,0,0.00,
+202308,white_g,,,,,,,Educationdirectory.org,,12,13,5,3,114.00,22.800000
+202308,white_g,,,SUP0101,,607713435568,,Educationdirectory.org,,3,7,0,0,0.00,
+202308,white_g,,,SUP0101,,624999155488,,Educationdirectory.org,,1,7,2,1,43.00,21.500000
+202308,white_g,,,SUP0101,,649118698060,,Educationdirectory.org,,1,0,,,0.00,
+202308,white_g,,,SUP0104,,,,Educationdirectory.org,,4,9,2,1,50.00,25.000000
+202308,white_g,,,SUP0109,,374219,,Educationdirectory.org,,1,3,3,0,67.00,22.333333
+202309,,,,,,,,Digital Media Solutions,,25857,10,42,18,834.00,19.857143
+202309,edp,,,,,,,Educationdirectory.org,,9,16,7,1,213.00,30.428571
+202309,portal,,,,,,,Degree Transfers,2988166,2,3,1,2,65.00,65.000000
+202309,Purdue Global,,,,,,,Educationdirectory.org,,9,9,2,4,60.00,30.000000
+202309,Purdue Global,,,SUP0109,,374219,,Educationdirectory.org,,1,5,0,3,0.00,
+202309,white_g,,,,,,,Educationdirectory.org,,3,8,3,0,76.00,25.333333
+202309,white_g,,,SUP0104,,,,Educationdirectory.org,,9,11,0,0,0.00,
+202309,white_g,,,SUP0109,,374219,,Educationdirectory.org,,5,6,4,0,85.00,21.250000
+202310,,,,,,,,Digital Media Solutions,,27668,6,18,11,356.00,19.777778
+202310,edp,,,,,,,Educationdirectory.org,,8,13,5,2,106.00,21.200000
+202317,white_g,,Education,,,,,Educationdirectory.org,,17,8,8,3,183.00,22.875000
+202317,edp,,Grants,,,,,Educationdirectory.org,,20,15,14,5,275.00,19.642857
+202308,white,bing,530299973,SUP0101,edu,85075258899522,1361197235935708,Educationdirectory.org,,7,10,2,1,64.00,32.000000
+202308,white,bing,530299973,SUP0101,edu,85075258899524,1361197235935708,Educationdirectory.org,,9,4,0,0,0.00,
+202306,white,bing,530299973,SUP0101,edu,85075258899522,1361197235935708,Educationdirectory.org,,2,0,,,0.00,
+202306,white,bing,530299973,SUP0101,edu,85075258899524,1361197235935708,Educationdirectory.org,,6,4,3,0,35.00,11.666667
+202307,edp,bing,530299973,SUP0101,edu,85075258899524,1361197235935708,Educationdirectory.org,,1,1,1,0,18.00,18.000000
+202307,Purdue Global,bing,530299973,SUP0101,edu,85075258899524,1361197235935708,Educationdirectory.org,,7,5,1,1,20.00,20.000000
+202307,white,bing,530299973,SUP0101,edu,85075258899522,1361197235935708,Educationdirectory.org,,54,19,17,16,450.00,26.470588
+202307,white,bing,530299973,SUP0101,edu,85075258899524,1361197235935708,Educationdirectory.org,,60,19,30,10,865.00,28.833333
+202306,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,784,62,445,39,10051.00,22.586517
+202307,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,953,63,492,44,11129.00,22.619919
+202308,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,875,65,428,51,10242.00,23.929907
+202309,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,613,59,315,34,7281.00,23.114286
+202304,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,966,51,371,51,8699.00,23.447439
+202305,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,1012,58,497,70,12164.00,24.474849
+202321,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,4,0,,,0.00,
+202312,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,1122,64,567,92,13511.00,23.828924
+202315,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,1203,70,599,136,14335.00,23.931553
+202316,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,1372,47,519,78,12338.00,23.772640
+202252,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,12,7,9,4,207.00,23.000000
+202301,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,43,19,18,1,433.00,24.055556
+202317,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,698,20,121,12,2034.00,16.809917
+202302,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,190,40,97,16,2267.00,23.371134
+202303,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,804,54,429,33,9470.00,22.074592
+202313,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,1031,75,509,80,12328.00,24.220039
+202314,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,995,73,527,87,12484.00,23.688805
+202310,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,556,60,299,36,6921.00,23.147157
+202311,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,811,57,424,65,10069.00,23.747642
+202310,edp,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,2,7,2,4,49.00,24.500000
+202310,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,18,15,11,10,207.00,18.818182
+202310,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,313,53,238,57,5778.00,24.277311
+202311,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,12,16,6,0,156.00,26.000000
+202305,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,4,10,3,5,90.00,30.000000
+202306,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,1,7,0,0,0.00,
+202306,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,4,16,7,4,233.00,33.285714
+202307,edp,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,1,0,,,0.00,
+202307,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,16,9,4,6,69.00,17.250000
+202307,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,179,40,128,24,3095.00,24.179688
+202308,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,31,10,11,16,240.00,21.818182
+202308,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,374,54,204,36,4814.00,23.598039
+202309,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,5,6,4,6,77.00,19.250000
+202309,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,260,46,216,51,5327.00,24.662037
+202315,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,410,58,339,77,7967.00,23.501475
+202316,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,2,1,0,1,0.00,
+202316,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,26,22,24,7,569.00,23.708333
+202317,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,4,4,0,1,0.00,
+202321,white_g,Email,,SUP0109,edu_grant,376908,,Educationdirectory.org,,19,8,5,1,142.00,28.400000
+202321,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,126,22,75,19,1799.00,23.986667
+202322,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,59,13,33,6,741.00,22.454545
+202312,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,1,5,1,2,34.00,34.000000
+202312,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,5,6,6,0,121.00,20.166667
+202313,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,5,6,4,2,100.00,25.000000
+202314,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,4,6,3,1,62.00,20.666667
+202314,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,100,30,81,19,2148.00,26.518519
+202315,edp,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,2,2,1,0,21.00,21.000000
+202315,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,14,8,8,5,167.00,20.875000
+202317,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,10,11,5,2,122.00,24.400000
+202318,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,4,1,0,1,0.00,
+202318,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,4,6,4,0,83.00,20.750000
+202319,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,8,2,3,3,56.00,18.666667
+202319,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,346,44,270,57,6716.00,24.874074
+202320,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,111,28,82,17,2010.00,24.512195
+202320,white_g,Email,,SUP0109,edu_grant,376908,,Educationdirectory.org,,23,16,24,3,574.00,23.916667
+202302,white_g,Email,[],SUP0109,edu_grant,[creative_id],[],Educationdirectory.org,,2,11,0,0,0.00,
+202313,white_g,google,,SUP0101,edu_grant,,,Educationdirectory.org,,1,3,3,0,84.00,28.000000
+202304,Purdue Global,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,72,16,42,36,868.00,20.666667
+202304,Purdue Global,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,17,11,9,7,199.00,22.111111
+202304,Purdue Global,google,15642144919,SUP0101,edu_grant,609863689867,134177226209,Educationdirectory.org,,1,2,0,1,0.00,
+202304,white_g,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,1713,69,1142,286,27848.00,24.385289
+202304,white_g,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,194,31,132,30,3173.00,24.037879
+202304,white_g,google,15642144919,SUP0101,edu_grant,609863689867,134177226209,Educationdirectory.org,,8,10,6,2,93.00,15.500000
+202304,white_g,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,23,21,20,4,516.00,25.800000
+202305,edp,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,60,20,39,15,872.00,22.358974
+202305,edp,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,11,11,8,2,187.00,23.375000
+202305,edp,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,6,6,4,0,103.00,25.750000
+202305,Purdue Global,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,97,16,55,58,1069.00,19.436364
+202305,Purdue Global,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,23,9,7,16,144.00,20.571429
+202305,Purdue Global,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,1,3,1,2,22.00,22.000000
+202305,white_g,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,1893,76,1176,287,28975.00,24.638605
+202305,white_g,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,251,44,157,31,3861.00,24.592357
+202305,white_g,google,15642144919,SUP0101,edu_grant,609863689867,134177226209,Educationdirectory.org,,14,10,4,1,73.00,18.250000
+202305,white_g,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,23,13,16,5,419.00,26.187500
+202306,edp,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,56,19,59,13,1381.00,23.406780
+202306,edp,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,17,15,9,7,201.00,22.333333
+202306,edp,google,15642144919,SUP0101,edu_grant,609863689867,134177226209,Educationdirectory.org,,1,3,2,0,54.00,27.000000
+202306,edp,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,1,3,0,3,0.00,
+202252,edp,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,10,4,3,2,63.00,21.000000
+202252,edp,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,2,3,3,0,53.00,17.666667
+202252,Purdue Global,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,17,4,8,2,153.00,19.125000
+202252,Purdue Global,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,9,2,0,3,0.00,
+202252,white_g,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,203,16,96,15,2370.00,24.687500
+202252,white_g,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,71,13,41,11,954.00,23.268293
+202252,white_g,google,15642144919,SUP0101,edu_grant,609863689867,134177226209,Educationdirectory.org,,2,2,2,0,43.00,21.500000
+202252,white_g,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,11,4,6,2,138.00,23.000000
+202301,edp,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,47,19,29,13,674.00,23.241379
+202301,edp,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,14,13,10,1,196.00,19.600000
+202301,edp,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,6,11,2,2,50.00,25.000000
+202301,Purdue Global,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,133,14,76,73,1589.00,20.907895
+202301,Purdue Global,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,25,9,18,13,314.00,17.444444
+202301,Purdue Global,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,4,4,1,0,7.00,7.000000
+202301,white_g,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,2047,78,1380,294,34446.00,24.960870
+202301,white_g,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,509,62,349,72,8569.00,24.553009
+202301,white_g,google,15642144919,SUP0101,edu_grant,609863689867,134177226209,Educationdirectory.org,,17,12,4,1,82.00,20.500000
+202301,white_g,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,83,26,57,9,1315.00,23.070175
+202302,edp,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,35,18,24,11,566.00,23.583333
+202302,edp,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,16,11,10,8,222.00,22.200000
+202302,edp,google,15642144919,SUP0101,edu_grant,609863689867,134177226209,Educationdirectory.org,,1,0,,,0.00,
+202302,edp,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,3,5,0,0,0.00,
+202302,Purdue Global,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,96,19,71,48,1457.00,20.521127
+202302,Purdue Global,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,11,9,6,7,94.00,15.666667
+202302,Purdue Global,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,3,2,0,1,0.00,
+202306,Purdue Global,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,97,17,73,45,1406.00,19.260274
+202306,Purdue Global,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,20,9,7,7,130.00,18.571429
+202306,Purdue Global,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,1,2,0,1,0.00,
+202306,white_g,google,15642144919,SUP0101,do you have to pay back grants?,585909895103,134177226209,Educationdirectory.org,,1,6,0,0,0.00,
+202306,white_g,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,1749,70,1207,275,29756.00,24.652858
+202306,white_g,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,261,43,200,42,4669.00,23.345000
+202306,white_g,google,15642144919,SUP0101,edu_grant,609863689867,134177226209,Educationdirectory.org,,5,8,4,0,93.00,23.250000
+202306,white_g,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,23,16,5,2,103.00,20.600000
+202307,edp,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,33,20,25,13,569.00,22.760000
+202307,edp,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,10,7,10,5,229.00,22.900000
+202307,edp,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,2,6,0,0,0.00,
+202307,Purdue Global,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,82,19,56,37,961.00,17.160714
+202307,Purdue Global,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,27,15,15,8,316.00,21.066667
+202307,Purdue Global,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,2,2,0,1,0.00,
+202307,white_g,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,1830,72,1211,261,29658.00,24.490504
+202307,white_g,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,249,41,185,53,4504.00,24.345946
+202307,white_g,google,15642144919,SUP0101,edu_grant,609863689867,134177226209,Educationdirectory.org,,6,7,4,3,97.00,24.250000
+202307,white_g,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,9,12,2,0,17.00,8.500000
+202308,edp,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,5,10,6,1,160.00,26.666667
+202308,edp,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,1,1,0,0,0.00,
+202308,edp,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,1,2,0,0,0.00,
+202308,Purdue Global,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,13,9,7,8,164.00,23.428571
+202308,Purdue Global,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,4,11,10,1,227.00,22.700000
+202308,white_g,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,416,49,277,60,6999.00,25.267148
+202308,white_g,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,85,33,39,12,929.00,23.820513
+202308,white_g,google,15642144919,SUP0101,edu_grant,609863689867,134177226209,Educationdirectory.org,,4,7,3,0,84.00,28.000000
+202308,white_g,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,7,9,2,0,57.00,28.500000
+202302,white_g,google,15642144919,SUP0101,ads,,134177226209,Educationdirectory.org,,1,1,0,0,0.00,
+202302,white_g,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,1993,71,1323,284,31967.00,24.162509
+202302,white_g,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,396,50,268,59,6314.00,23.559701
+202302,white_g,google,15642144919,SUP0101,edu_grant,609863689867,134177226209,Educationdirectory.org,,17,11,2,6,29.00,14.500000
+202302,white_g,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,60,28,47,13,1130.00,24.042553
+202303,edp,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,33,16,31,6,731.00,23.580645
+202303,edp,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,6,8,9,0,191.00,21.222222
+202303,edp,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,1,5,0,0,0.00,
+202303,Purdue Global,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,65,19,48,38,932.00,19.416667
+202303,Purdue Global,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,17,9,12,7,209.00,17.416667
+202303,Purdue Global,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,2,2,0,3,0.00,
+202303,white_g,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,1849,66,1261,284,30501.00,24.187946
+202303,white_g,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,176,39,131,28,3182.00,24.290076
+202303,white_g,google,15642144919,SUP0101,edu_grant,609863689867,134177226209,Educationdirectory.org,,9,8,3,1,64.00,21.333333
+202303,white_g,google,15642144919,SUP0101,edu_grant,609928392911,138112893036,Educationdirectory.org,,23,13,11,7,245.00,22.272727
+202304,edp,google,15642144919,SUP0101,edu_grant,585909895103,134177226209,Educationdirectory.org,,56,19,33,10,804.00,24.363636
+202304,edp,google,15642144919,SUP0101,edu_grant,606243851972,138112893036,Educationdirectory.org,,14,10,11,7,277.00,25.181818
+202304,edp,google,15642144919,SUP0101,edu_grant,609863689867,134177226209,Educationdirectory.org,,1,4,3,0,68.00,22.666667
+202302,white_g,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,21,18,18,1,391.00,21.722222
+202302,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,378,53,269,39,6576.00,24.446097
+202302,white_g,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,5,10,4,1,110.00,27.500000
+202302,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,282,45,219,46,5463.00,24.945205
+202303,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,12,6,5,4,133.00,26.600000
+202303,edp,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,3,3,0,0,0.00,
+202303,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,13,13,12,1,282.00,23.500000
+202303,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,17,11,12,6,204.00,17.000000
+202303,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,11,8,9,7,148.00,16.444444
+202303,white_g,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,10,12,10,0,272.00,27.200000
+202303,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,341,46,244,55,5859.00,24.012295
+202303,white_g,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,1,5,0,0,0.00,
+202303,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,273,41,183,61,4348.00,23.759563
+202304,edp,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,1,1,0,0,0.00,
+202304,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,8,8,5,5,98.00,19.600000
+202304,edp,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,2,0,,,0.00,
+202304,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,16,10,9,5,186.00,20.666667
+202306,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,1,4,3,0,63.00,21.000000
+202306,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,14,9,9,8,154.00,17.111111
+202306,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,12,10,9,6,169.00,18.777778
+202306,white_g,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,8,8,4,1,106.00,26.500000
+202306,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,269,46,192,45,4795.00,24.973958
+202306,white_g,google,17636347892,SUP0101,edu_grant,607713435580,141341628227,Educationdirectory.org,,1,0,,,0.00,
+202306,white_g,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,1,5,0,1,0.00,
+202306,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,171,40,117,35,2789.00,23.837607
+202307,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,7,7,4,0,120.00,30.000000
+202307,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,14,9,6,2,160.00,26.666667
+202307,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,12,7,7,8,144.00,20.571429
+202307,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,9,12,7,4,120.00,17.142857
+202307,white_g,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,5,7,3,0,76.00,25.333333
+202307,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,293,47,191,49,4706.00,24.638743
+202307,white_g,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,1,4,1,2,40.00,40.000000
+202307,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,220,40,140,47,3428.00,24.485714
+202308,edp,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,7,12,6,0,139.00,23.166667
+202308,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,14,11,11,4,200.00,18.181818
+202308,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,15,14,15,5,328.00,21.866667
+202308,edp,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,7,8,2,1,60.00,30.000000
+202308,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,1,3,0,0,0.00,
+202313,white_g,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,19,17,9,8,234.00,26.000000
+202313,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,469,52,313,66,7390.00,23.610224
+202313,white_g,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,58,21,44,8,1169.00,26.568182
+202313,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,194,43,153,17,3569.00,23.326797
+202313,white_g,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,41,18,26,7,576.00,22.153846
+202313,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,78,26,48,12,1179.00,24.562500
+202313,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,435,60,306,68,7427.00,24.271242
+202313,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,401,57,335,59,8463.00,25.262687
+202313,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,130,27,130,28,3104.00,23.876923
+202313,white_g,google,17636347892,SUP0101,edu_grant,652840349511,149928081241,Educationdirectory.org,,7,11,6,1,156.00,26.000000
+202313,white_g,google,17636347892,SUP0101,grant,652872442234,141341628147,Educationdirectory.org,,56,29,38,7,994.00,26.157895
+202313,white_g,google,17636347892,SUP0101,grant,652942205690,141341628187,Educationdirectory.org,,16,13,2,5,43.00,21.500000
+202314,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,7,5,3,2,84.00,28.000000
+202314,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,4,6,4,1,79.00,19.750000
+202314,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,2,5,1,2,23.00,23.000000
+202314,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,10,7,9,1,230.00,25.555556
+202314,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,7,3,5,1,128.00,25.600000
+202314,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,8,6,3,2,67.00,22.333333
+202314,edp,google,17636347892,SUP0101,edu_grant,652840349511,149928081241,Educationdirectory.org,,8,8,5,9,102.00,20.400000
+202314,edp,google,17636347892,SUP0101,grant,652872442234,141341628147,Educationdirectory.org,,8,15,7,1,145.00,20.714286
+202314,edp,google,17636347892,SUP0101,grant,652942205690,141341628187,Educationdirectory.org,,8,4,4,0,100.00,25.000000
+202314,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,11,8,8,6,198.00,24.750000
+202314,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,9,9,5,4,125.00,25.000000
+202314,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,2,5,3,0,70.00,23.333333
+202314,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,14,10,10,4,202.00,20.200000
+202314,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,11,8,11,6,219.00,19.909091
+202314,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,11,8,7,7,117.00,16.714286
+202314,Purdue Global,google,17636347892,SUP0101,edu_grant,652840349511,149928081241,Educationdirectory.org,,8,4,2,4,46.00,23.000000
+202314,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,285,42,198,42,4885.00,24.671717
+202314,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,161,41,139,31,3805.00,27.374101
+202314,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,67,34,52,19,1381.00,26.557692
+202314,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,266,45,172,43,4382.00,25.476744
+202314,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,194,40,134,20,3510.00,26.194030
+202314,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,134,34,93,27,2508.00,26.967742
+202314,white_g,google,17636347892,SUP0101,edu_grant,652840349511,149928081241,Educationdirectory.org,,95,26,69,17,1792.00,25.971014
+202314,white_g,google,17636347892,SUP0101,grant,652872442234,141341628147,Educationdirectory.org,,647,56,405,119,10287.00,25.400000
+202314,white_g,google,17636347892,SUP0101,grant,652942205690,141341628187,Educationdirectory.org,,260,43,176,44,4271.00,24.267045
+202315,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,9,8,14,1,359.00,25.642857
+202315,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,8,4,4,1,98.00,24.500000
+202315,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,4,8,3,0,68.00,22.666667
+202315,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,23,20,17,5,406.00,23.882353
+202315,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,16,8,7,5,160.00,22.857143
+202315,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,22,12,10,6,263.00,26.300000
+202310,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,13,14,5,7,101.00,20.200000
+202310,edp,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,1,2,2,0,36.00,18.000000
+202310,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,6,8,2,3,50.00,25.000000
+202310,edp,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,16,16,17,6,430.00,25.294118
+202310,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,1,2,0,0,0.00,
+202310,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,17,14,19,9,423.00,22.263158
+202310,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,2,7,0,3,0.00,
+202310,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,19,10,13,14,303.00,23.307692
+202310,Purdue Global,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,1,5,2,1,50.00,25.000000
+202310,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,27,14,15,19,348.00,23.200000
+202310,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,12,9,11,6,228.00,20.727273
+202310,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,5,9,1,6,24.00,24.000000
+202310,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,51,20,38,29,753.00,19.815789
+202310,white_g,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,27,18,31,8,758.00,24.451613
+202310,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,463,52,327,87,7860.00,24.036697
+202310,white_g,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,44,21,29,7,753.00,25.965517
+202310,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,508,65,403,101,9738.00,24.163772
+202310,white_g,google,17636347892,SUP0101,edu_grant,620758130810,146852360068,Educationdirectory.org,,1,1,,,0.00,
+202310,white_g,google,17636347892,SUP0101,edu_grant,649118147404,149928081241,Educationdirectory.org,,1,3,0,0,0.00,
+202310,white_g,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,381,49,255,74,6063.00,23.776471
+202310,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,75,25,52,12,1211.00,23.288462
+202310,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,823,63,516,127,12727.00,24.664729
+202311,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,4,6,4,1,96.00,24.000000
+202311,edp,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,3,6,2,0,63.00,31.500000
+202311,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,6,9,4,5,79.00,19.750000
+202311,edp,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,5,9,9,0,223.00,24.777778
+202311,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,4,7,0,1,0.00,
+202311,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,13,15,10,2,214.00,21.400000
+202311,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,16,11,4,2,72.00,18.000000
+202311,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,3,1,,,0.00,
+202311,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,1,6,0,1,0.00,
+202311,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,16,11,10,5,171.00,17.100000
+202311,Purdue Global,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,3,8,3,1,64.00,21.333333
+202311,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,4,3,2,2,40.00,20.000000
+202311,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,6,6,3,5,57.00,19.000000
+202311,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,11,11,9,8,166.00,18.444444
+202311,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,16,10,10,11,172.00,17.200000
+202311,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,13,13,16,6,308.00,19.250000
+202311,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,3,6,3,2,62.00,20.666667
+202252,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,3,1,,,0.00,
+202252,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,2,1,0,2,0.00,
+202252,white_g,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,4,4,3,0,79.00,26.333333
+202252,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,30,8,17,3,386.00,22.705882
+202252,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,16,5,6,1,141.00,23.500000
+202301,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,10,10,10,2,232.00,23.200000
+202301,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,9,9,10,6,227.00,22.700000
+202301,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,1,2,1,1,22.00,22.000000
+202301,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,26,11,4,19,57.00,14.250000
+202301,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,19,10,10,11,195.00,19.500000
+202301,white_g,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,22,19,17,7,442.00,26.000000
+202301,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,347,52,219,46,5415.00,24.726027
+202301,white_g,google,17636347892,SUP0101,edu_grant,607713435580,141341628227,Educationdirectory.org,,1,4,1,0,10.00,10.000000
+202301,white_g,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,7,13,2,0,50.00,25.000000
+202301,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,229,41,161,57,3872.00,24.049689
+202302,edp,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,1,5,0,0,0.00,
+202302,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,9,8,1,2,8.00,8.000000
+202302,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,5,6,3,5,84.00,28.000000
+202302,edp,google,17636347892,SUP0101,edu_grant,620758130810,146852360068,Educationdirectory.org,,1,6,0,0,0.00,
+202302,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,1,4,1,0,20.00,20.000000
+202302,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,20,12,19,10,398.00,20.947368
+202302,Purdue Global,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,1,2,,,0.00,
+202302,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,10,12,5,7,84.00,16.800000
+202315,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,34,9,21,19,469.00,22.333333
+202315,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,21,10,6,9,128.00,21.333333
+202315,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,7,3,3,4,76.00,25.333333
+202315,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,17,8,8,10,149.00,18.625000
+202315,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,27,6,6,8,136.00,22.666667
+202315,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,17,6,9,10,203.00,22.555556
+202315,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,600,55,395,104,10134.00,25.655696
+202315,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,329,44,225,45,5842.00,25.964444
+202315,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,116,27,86,17,2201.00,25.593023
+202315,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,585,59,398,121,10026.00,25.190955
+202315,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,474,56,300,69,7917.00,26.390000
+202315,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,342,49,223,70,6082.00,27.273543
+202315,white_g,google,17636347892,SUP0101,grant,652872442234,141341628147,Educationdirectory.org,,3,1,0,2,0.00,
+202316,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,15,8,10,8,265.00,26.500000
+202316,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,13,15,5,3,88.00,17.600000
+202316,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,4,1,1,1,30.00,30.000000
+202316,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,7,6,8,2,180.00,22.500000
+202316,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,11,7,3,0,85.00,28.333333
+202316,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,11,8,7,4,187.00,26.714286
+202316,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,25,9,14,12,300.00,21.428571
+202316,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,16,5,7,6,144.00,20.571429
+202316,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,7,6,2,4,62.00,31.000000
+202316,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,23,8,14,10,283.00,20.214286
+202316,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,10,9,8,4,169.00,21.125000
+202316,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,23,7,15,7,335.00,22.333333
+202316,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,507,57,380,83,9619.00,25.313158
+202316,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,231,38,176,32,4349.00,24.710227
+202316,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,207,42,130,35,3369.00,25.915385
+202316,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,484,53,360,77,9274.00,25.761111
+202316,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,302,43,187,35,4877.00,26.080214
+202316,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,444,43,283,73,7119.00,25.155477
+202317,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,15,9,7,1,153.00,21.857143
+202317,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,9,9,7,2,207.00,29.571429
+202317,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,3,3,1,1,30.00,30.000000
+202317,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,16,9,8,3,213.00,26.625000
+202317,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,11,9,7,3,200.00,28.571429
+202317,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,19,7,7,3,174.00,24.857143
+202317,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,34,9,9,6,203.00,22.555556
+202317,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,20,7,9,4,186.00,20.666667
+202304,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,2,3,1,2,8.00,8.000000
+202304,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,18,11,13,9,285.00,21.923077
+202304,Purdue Global,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,2,0,,,0.00,
+202304,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,15,7,6,14,117.00,19.500000
+202304,white_g,google,17636347892,SUP0101,edu_grant,607644834618,146852360068,Educationdirectory.org,,1,2,0,2,0.00,
+202304,white_g,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,6,6,7,1,150.00,21.428571
+202304,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,381,40,268,78,6418.00,23.947761
+202304,white_g,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,3,5,0,1,0.00,
+202304,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,273,41,204,52,4846.00,23.754902
+202304,white_g,google,17636347892,SUP0101,edu_grant,620758130810,146852360068,Educationdirectory.org,,1,3,2,1,50.00,25.000000
+202305,edp,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,1,1,1,0,30.00,30.000000
+202305,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,19,11,7,1,156.00,22.285714
+202305,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,16,9,15,5,340.00,22.666667
+202305,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,28,10,16,9,338.00,21.125000
+202305,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,29,9,13,16,283.00,21.769231
+202305,white_g,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,15,12,14,7,307.00,21.928571
+202305,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,358,42,218,63,5250.00,24.082569
+202305,white_g,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,5,8,2,0,42.00,21.000000
+202305,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,301,53,205,41,4780.00,23.317073
+202305,white_g,google,17636347892,SUP0101,edu_grant,620758130810,146852360068,Educationdirectory.org,,1,0,,,0.00,
+202306,edp,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,1,0,,,0.00,
+202306,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,6,8,6,1,164.00,27.333333
+202306,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,13,11,9,1,201.00,22.333333
+202308,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,2,7,5,0,79.00,15.800000
+202308,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,34,13,28,27,557.00,19.892857
+202308,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,21,12,12,8,279.00,23.250000
+202308,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,14,11,3,5,60.00,20.000000
+202308,white_g,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,41,19,35,4,885.00,25.285714
+202308,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,520,52,336,91,7987.00,23.770833
+202308,white_g,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,14,19,2,5,50.00,25.000000
+202308,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,449,49,304,81,7375.00,24.259868
+202308,white_g,google,17636347892,SUP0101,edu_grant,649118147404,149928081241,Educationdirectory.org,,3,10,1,1,40.00,40.000000
+202308,white_g,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,166,35,65,21,1672.00,25.723077
+202308,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,16,12,6,5,158.00,26.333333
+202309,edp,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,2,1,1,0,17.00,17.000000
+202309,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,35,13,22,8,489.00,22.227273
+202309,edp,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,1,4,2,1,64.00,32.000000
+202309,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,31,16,18,6,383.00,21.277778
+202309,edp,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,13,9,3,1,52.00,17.333333
+202309,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,4,6,6,1,157.00,26.166667
+202309,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,3,9,1,1,40.00,40.000000
+202309,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,1,2,0,0,0.00,
+202309,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,38,15,22,28,419.00,19.045455
+202309,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,29,12,27,10,537.00,19.888889
+202309,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,21,11,15,10,336.00,22.400000
+202309,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,3,7,2,4,27.00,13.500000
+202309,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,4,6,4,2,50.00,12.500000
+202309,white_g,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,11,15,8,0,188.00,23.500000
+202309,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,844,62,524,155,12773.00,24.375954
+202309,white_g,google,17636347892,SUP0101,edu_grant,607713435580,141341628227,Educationdirectory.org,,2,7,2,0,46.00,23.000000
+202309,white_g,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,16,11,9,4,240.00,26.666667
+202309,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,542,60,368,102,9030.00,24.538043
+202309,white_g,google,17636347892,SUP0101,edu_grant,620758130810,146852360068,Educationdirectory.org,,3,5,2,3,30.00,15.000000
+202309,white_g,google,17636347892,SUP0101,edu_grant,649118147404,149928081241,Educationdirectory.org,,8,8,4,2,97.00,24.250000
+202309,white_g,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,361,48,303,69,7544.00,24.897690
+202309,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,43,17,27,8,658.00,24.370370
+202309,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,56,25,46,22,1213.00,26.369565
+202320,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,1,2,0,0,0.00,
+202311,white_g,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,31,19,14,6,314.00,22.428571
+202311,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,326,50,215,54,5288.00,24.595349
+202311,white_g,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,55,20,38,10,957.00,25.184211
+202311,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,169,37,132,30,3324.00,25.181818
+202311,white_g,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,126,38,86,27,2181.00,25.360465
+202311,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,116,31,84,19,1935.00,23.035714
+202311,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,352,45,227,63,5322.00,23.444934
+202311,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,340,47,257,48,6186.00,24.070039
+202311,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,88,26,68,17,1521.00,22.367647
+202312,edp,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,1,2,0,2,0.00,
+202312,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,16,4,4,1,78.00,19.500000
+202312,edp,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,2,6,1,0,30.00,30.000000
+202312,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,10,14,4,4,75.00,18.750000
+202312,edp,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,1,4,0,0,0.00,
+202312,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,6,8,2,4,22.00,11.000000
+202312,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,22,11,12,10,302.00,25.166667
+202312,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,8,8,6,0,145.00,24.166667
+202312,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,3,3,2,0,50.00,25.000000
+202312,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,27,11,14,8,309.00,22.071429
+202312,Purdue Global,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,3,8,4,3,99.00,24.750000
+202312,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,11,6,3,5,45.00,15.000000
+202312,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,7,4,3,3,56.00,18.666667
+202312,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,23,13,18,10,321.00,17.833333
+202312,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,30,9,29,15,575.00,19.827586
+202312,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,7,6,4,1,73.00,18.250000
+202312,white_g,google,17636347892,SUP0101,edu_grant,607713435556,141341628187,Educationdirectory.org,,23,20,18,5,407.00,22.611111
+202312,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,469,46,305,93,7457.00,24.449180
+202312,white_g,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,34,22,42,2,1061.00,25.261905
+202312,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,207,42,161,36,4048.00,25.142857
+202312,white_g,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,48,23,30,6,697.00,23.233333
+202312,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,93,30,66,17,1659.00,25.136364
+202312,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,492,55,358,76,8582.00,23.972067
+202312,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,430,47,280,83,6548.00,23.385714
+202312,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,141,38,101,25,2365.00,23.415842
+202313,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,19,11,12,4,256.00,21.333333
+202313,edp,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,1,2,1,0,30.00,30.000000
+202313,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,10,11,8,3,185.00,23.125000
+202313,edp,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,7,8,3,0,56.00,18.666667
+202313,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,6,12,0,0,0.00,
+202313,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,9,8,8,4,226.00,28.250000
+202313,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,11,9,10,0,226.00,22.600000
+202313,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,8,8,5,9,106.00,21.200000
+202313,edp,google,17636347892,SUP0101,grant,652872442234,141341628147,Educationdirectory.org,,1,6,2,0,37.00,18.500000
+202313,edp,google,17636347892,SUP0101,grant,652942205690,141341628187,Educationdirectory.org,,1,2,1,1,6.00,6.000000
+202313,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,34,11,29,19,638.00,22.000000
+202313,Purdue Global,google,17636347892,SUP0101,edu_grant,620632782405,141341628147,Educationdirectory.org,,5,5,5,4,87.00,17.400000
+202313,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,12,8,6,7,117.00,19.500000
+202313,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698060,149928081241,Educationdirectory.org,,4,4,4,2,96.00,24.000000
+202313,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,8,4,2,5,31.00,15.500000
+202313,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,34,11,27,17,569.00,21.074074
+202313,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,31,16,21,21,391.00,18.619048
+202313,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,18,6,7,13,119.00,17.000000
+202317,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,7,7,3,5,102.00,34.000000
+202317,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,31,10,10,9,216.00,21.600000
+202317,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,12,7,7,2,125.00,17.857143
+202317,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,37,8,12,13,245.00,20.416667
+202317,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,591,48,337,87,8429.00,25.011869
+202317,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,222,32,127,35,3079.00,24.244094
+202317,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,100,26,64,16,1619.00,25.296875
+202317,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,535,45,301,84,6958.00,23.116279
+202317,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,266,33,178,52,4245.00,23.848315
+202317,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,478,42,323,75,7751.00,23.996904
+202318,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,5,5,4,1,67.00,16.750000
+202318,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,1,5,0,0,0.00,
+202318,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,3,0,,,0.00,
+202318,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,2,0,,,0.00,
+202318,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,1,0,,,0.00,
+202318,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,11,5,2,3,46.00,23.000000
+202318,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,3,0,,,0.00,
+202318,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,5,2,2,0,46.00,23.000000
+202318,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,7,3,1,1,13.00,13.000000
+202318,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,9,7,2,2,62.00,31.000000
+202318,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,102,24,68,21,1734.00,25.500000
+202318,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,45,13,23,0,522.00,22.695652
+202318,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,30,17,17,3,350.00,20.588235
+202318,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,96,27,60,17,1447.00,24.116667
+202318,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,62,20,34,5,837.00,24.617647
+202318,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,88,27,57,5,1391.00,24.403509
+202315,white_g,google,17688909278,SUP0101,edu_grant,608965270997,138308182973,Educationdirectory.org,,1,1,0,0,0.00,
+202252,white_g,google,17688909278,SUP0101,edu_grant,608965270997,138308182973,Educationdirectory.org,,2,1,,,0.00,
+202252,white_g,google,17688909278,SUP0101,edu_grant,621590999880,136430520610,Educationdirectory.org,,2,1,,,0.00,
+202313,white_g,google,17688909278,SUP0101,edu_grant,621590999880,136430520610,Educationdirectory.org,,3,3,2,0,26.00,13.000000
+202314,white_g,google,17688909278,SUP0101,edu_grant,608965270997,138308182973,Educationdirectory.org,,2,2,2,1,52.00,26.000000
+202313,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,192,34,99,19,2090.00,21.111111
+202313,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,159,32,123,22,2829.00,23.000000
+202313,white_g,google,18463616520,SUP0101,edu_grant,651018359955,142099046299,Educationdirectory.org,,14,13,14,7,332.00,23.714286
+202313,white_g,google,18463616520,SUP0101,edu_grant,652990247988,142099046299,Educationdirectory.org,,7,11,8,0,185.00,23.125000
+202314,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,8,10,10,0,206.00,20.600000
+202314,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,4,8,0,1,0.00,
+202314,edp,google,18463616520,SUP0101,edu_grant,652990247988,142099046299,Educationdirectory.org,,2,6,1,1,22.00,22.000000
+202314,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,6,6,6,5,111.00,18.500000
+202314,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,6,6,5,6,78.00,15.600000
+202314,Purdue Global,google,18463616520,SUP0101,edu_grant,652990247988,142099046299,Educationdirectory.org,,4,5,2,1,26.00,13.000000
+202314,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,188,49,143,30,3636.00,25.426573
+202314,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,122,33,82,20,1924.00,23.463415
+202314,white_g,google,18463616520,SUP0101,edu_grant,652990247988,142099046299,Educationdirectory.org,,87,30,77,19,1957.00,25.415584
+202315,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,8,6,2,1,60.00,30.000000
+202315,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,10,8,6,2,146.00,24.333333
+202252,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,1,1,,,0.00,
+202252,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,21,8,9,3,172.00,19.111111
+202252,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,9,5,6,0,123.00,20.500000
+202301,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,3,7,2,0,27.00,13.500000
+202301,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,9,10,5,6,91.00,18.200000
+202301,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,6,7,3,2,57.00,19.000000
+202301,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,253,39,149,32,3622.00,24.308725
+202301,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,87,28,42,15,975.00,23.214286
+202302,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,3,5,0,0,0.00,
+202302,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,3,2,2,0,50.00,25.000000
+202302,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,3,7,1,0,20.00,20.000000
+202306,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,7,8,3,4,62.00,20.666667
+202306,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,78,26,19,8,474.00,24.947368
+202306,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,154,37,103,28,2604.00,25.281553
+202307,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,1,6,3,0,58.00,19.333333
+202307,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,3,6,0,0,0.00,
+202307,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,1,4,0,0,0.00,
+202307,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,4,3,3,0,53.00,17.666667
+202307,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,35,21,16,4,336.00,21.000000
+202307,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,85,31,54,6,1332.00,24.666667
+202308,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,2,8,5,1,132.00,26.400000
+202308,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,8,6,8,1,189.00,23.625000
+202302,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,164,36,80,16,1914.00,23.925000
+202302,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,98,31,60,16,1436.00,23.933333
+202303,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,6,5,3,1,39.00,13.000000
+202303,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,15,11,4,4,95.00,23.750000
+202303,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,6,4,2,2,17.00,8.500000
+202303,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,12,10,6,3,116.00,19.333333
+202303,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,132,36,97,25,2240.00,23.092784
+202303,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,167,37,114,21,2751.00,24.131579
+202304,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,6,6,2,1,46.00,23.000000
+202304,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,5,4,2,2,50.00,25.000000
+202315,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,10,5,2,2,54.00,27.000000
+202315,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,12,6,8,7,192.00,24.000000
+202315,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,243,42,152,36,3687.00,24.256579
+202315,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,132,34,72,18,1789.00,24.847222
+202316,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,6,7,3,2,67.00,22.333333
+202316,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,11,13,4,3,79.00,19.750000
+202316,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,12,6,8,4,121.00,15.125000
+202316,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,3,6,0,0,0.00,
+202316,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,388,47,249,72,6117.00,24.566265
+202316,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,91,22,67,16,1740.00,25.970149
+202317,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,5,5,3,0,76.00,25.333333
+202317,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,8,6,1,3,8.00,8.000000
+202317,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,12,6,5,5,118.00,23.600000
+202317,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,5,5,5,3,110.00,22.000000
+202317,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,184,27,105,36,2468.00,23.504762
+202317,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,93,26,63,24,1563.00,24.809524
+202310,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,8,11,10,4,271.00,27.100000
+202310,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,2,5,3,0,56.00,18.666667
+202310,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,16,10,6,13,121.00,20.166667
+202310,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,129,33,67,21,1489.00,22.223881
+202310,white_g,google,18463616520,SUP0101,edu_grant,624999155491,142099046299,Educationdirectory.org,,1,2,,,0.00,
+202310,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,140,35,108,30,2757.00,25.527778
+202311,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,9,9,0,0,0.00,
+202311,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,17,14,8,8,193.00,24.125000
+202311,edp,google,18463616520,SUP0101,edu_grant,651018359955,142099046299,Educationdirectory.org,,1,6,2,1,38.00,19.000000
+202311,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,9,7,6,7,83.00,13.833333
+202311,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,10,10,2,9,29.00,14.500000
+202311,Purdue Global,google,18463616520,SUP0101,edu_grant,651018359955,142099046299,Educationdirectory.org,,1,3,1,0,20.00,20.000000
+202311,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,213,45,160,34,3815.00,23.843750
+202311,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,213,45,151,41,3741.00,24.774834
+202311,white_g,google,18463616520,SUP0101,edu_grant,651018359955,142099046299,Educationdirectory.org,,15,12,17,7,466.00,27.411765
+202312,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,5,4,2,0,60.00,30.000000
+202312,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,6,12,5,1,70.00,14.000000
+202312,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,12,9,4,13,64.00,16.000000
+202312,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,6,7,7,2,190.00,27.142857
+202312,Purdue Global,google,18463616520,SUP0101,edu_grant,651018359955,142099046299,Educationdirectory.org,,1,2,1,1,7.00,7.000000
+202312,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,258,45,161,41,3774.00,23.440994
+202312,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,162,43,110,29,2782.00,25.290909
+202312,white_g,google,18463616520,SUP0101,edu_grant,651018359955,142099046299,Educationdirectory.org,,16,13,3,5,40.00,13.333333
+202313,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,7,9,4,1,97.00,24.250000
+202313,edp,google,18463616520,SUP0101,edu_grant,651018359955,142099046299,Educationdirectory.org,,1,5,3,0,86.00,28.666667
+202313,edp,google,18463616520,SUP0101,edu_grant,652990247988,142099046299,Educationdirectory.org,,1,4,3,0,76.00,25.333333
+202313,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,7,9,5,2,87.00,17.400000
+202313,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,13,11,7,3,123.00,17.571429
+202308,Purdue Global,google,18463616520,SUP0101,edu_grant,,142099046299,Educationdirectory.org,,2,5,3,1,74.00,24.666667
+202308,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,5,14,3,2,64.00,21.333333
+202308,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,11,10,5,6,114.00,22.800000
+202308,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,204,38,87,13,1989.00,22.862069
+202308,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,228,36,134,30,3461.00,25.828358
+202309,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,10,6,5,2,120.00,24.000000
+202309,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,6,10,7,2,203.00,29.000000
+202309,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,8,7,8,2,142.00,17.750000
+202309,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,8,7,2,8,26.00,13.000000
+202309,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,155,38,92,31,2201.00,23.923913
+202309,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,168,39,108,32,2680.00,24.814815
+202304,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,18,11,10,11,207.00,20.700000
+202304,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,14,7,4,3,92.00,23.000000
+202304,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,266,34,135,32,3104.00,22.992593
+202304,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,220,32,178,39,4181.00,23.488764
+202305,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,2,2,2,0,50.00,25.000000
+202305,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,7,6,1,4,30.00,30.000000
+202305,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,11,10,8,6,146.00,18.250000
+202305,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,20,9,7,11,107.00,15.285714
+202305,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,137,35,52,13,1307.00,25.134615
+202305,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,234,40,169,48,4215.00,24.940828
+202306,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,2,11,1,2,22.00,22.000000
+202306,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,2,4,2,2,48.00,24.000000
+202304,Purdue Global,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,5,9,4,0,107.00,26.750000
+202304,Purdue Global,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,8,7,3,1,72.00,24.000000
+202305,edp,google,18796324068,SUP0101,edu,632560918531,148291378452,Educationdirectory.org,,2,6,1,0,9.00,9.000000
+202305,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,35,16,20,3,494.00,24.700000
+202305,edp,google,18796324068,SUP0101,edu,632560918537,148291378052,Educationdirectory.org,,2,3,1,2,9.00,9.000000
+202305,edp,google,18796324068,SUP0101,edu,632560918540,148291378012,Educationdirectory.org,,3,0,,,0.00,
+202305,edp,google,18796324068,SUP0101,edu,632560918543,148291378452,Educationdirectory.org,,1,4,0,0,0.00,
+202305,edp,google,18796324068,SUP0101,edu,632560918549,148291378012,Educationdirectory.org,,1,7,0,0,0.00,
+202305,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,40,18,22,5,477.00,21.681818
+202305,edp,google,18796324068,SUP0101,edu,632560918558,148291378252,Educationdirectory.org,,2,1,1,0,30.00,30.000000
+202305,edp,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,3,8,3,0,45.00,15.000000
+202305,Purdue Global,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,1,3,0,3,0.00,
+202305,Purdue Global,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,1,0,,,0.00,
+202306,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,29,16,12,0,325.00,27.083333
+202306,edp,google,18796324068,SUP0101,edu,632560918537,148291378052,Educationdirectory.org,,2,7,2,0,22.00,11.000000
+202306,edp,google,18796324068,SUP0101,edu,632560918540,148291378012,Educationdirectory.org,,2,5,3,0,76.00,25.333333
+202306,edp,google,18796324068,SUP0101,edu,632560918549,148291378012,Educationdirectory.org,,3,2,0,0,0.00,
+202306,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,28,21,17,0,442.00,26.000000
+202306,edp,google,18796324068,SUP0101,edu,632560918558,148291378252,Educationdirectory.org,,1,0,,,0.00,
+202306,edp,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,4,8,3,0,84.00,28.000000
+202306,edp,google,18796324068,SUP0101,edu,632560918684,148291378292,Educationdirectory.org,,1,0,,,0.00,
+202317,Purdue Global,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,1,0,,,0.00,
+202252,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,1,2,2,0,37.00,18.500000
+202301,edp,google,18796324068,SUP0101,edu,632560918549,148291378012,Educationdirectory.org,,2,1,0,0,0.00,
+202301,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,9,10,3,0,94.00,31.333333
+202301,edp,google,18796324068,SUP0101,edu,632560918558,148291378252,Educationdirectory.org,,3,6,3,1,68.00,22.666667
+202301,edp,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,10,12,11,0,193.00,17.545455
+202301,edp,google,18796324068,SUP0101,edu,632560918684,148291378292,Educationdirectory.org,,1,2,2,0,37.00,18.500000
+202302,edp,google,18796324068,SUP0101,edu,632560918531,148291378452,Educationdirectory.org,,1,1,1,0,30.00,30.000000
+202302,edp,google,18796324068,SUP0101,edu,632560918540,148291378012,Educationdirectory.org,,5,8,3,2,57.00,19.000000
+202302,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,1,4,0,0,0.00,
+202302,edp,google,18796324068,SUP0101,edu,632560918558,148291378252,Educationdirectory.org,,1,4,0,0,0.00,
+202302,edp,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,15,12,9,2,208.00,23.111111
+202302,Purdue Global,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,1,1,1,0,30.00,30.000000
+202314,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,14,17,1,3,30.00,30.000000
+202314,edp,google,18796324068,SUP0101,edu,632560918537,148291378052,Educationdirectory.org,,1,4,0,0,0.00,
+202314,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,32,26,18,2,417.00,23.166667
+202314,edp,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,1,6,0,0,0.00,
+202314,edp,google,18796324068,SUP0101,edu,648955918998,149079977409,Educationdirectory.org,,3,5,1,1,7.00,7.000000
+202314,Purdue Global,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,1,0,,,0.00,
+202314,Purdue Global,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,1,2,0,0,0.00,
+202315,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,29,21,27,6,750.00,27.777778
+202315,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,24,24,8,0,204.00,25.500000
+202315,edp,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,1,4,0,0,0.00,
+202315,edp,google,18796324068,SUP0101,edu,632560918684,148291378292,Educationdirectory.org,,1,3,2,1,70.00,35.000000
+202315,edp,google,18796324068,SUP0101,edu,648955918998,149079977409,Educationdirectory.org,,3,8,5,0,113.00,22.600000
+202315,Purdue Global,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,2,1,,,0.00,
+202316,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,45,25,20,4,469.00,23.450000
+202316,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,18,19,9,1,234.00,26.000000
+202316,edp,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,1,0,,,0.00,
+202316,edp,google,18796324068,SUP0101,edu,648955918998,149079977409,Educationdirectory.org,,2,8,3,0,71.00,23.666667
+202316,Purdue Global,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,1,4,3,0,43.00,14.333333
+202316,Purdue Global,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,1,6,0,0,0.00,
+202317,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,31,13,12,4,256.00,21.333333
+202317,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,31,15,17,4,383.00,22.529412
+202317,edp,google,18796324068,SUP0101,edu,632560918684,148291378292,Educationdirectory.org,,1,2,0,0,0.00,
+202306,Purdue Global,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,1,3,2,1,54.00,27.000000
+202306,Purdue Global,google,18796324068,SUP0101,edu,632560918537,148291378052,Educationdirectory.org,,1,3,0,0,0.00,
+202306,Purdue Global,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,1,3,2,1,27.00,13.500000
+202307,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,5,11,5,0,124.00,24.800000
+202307,edp,google,18796324068,SUP0101,edu,632560918549,148291378012,Educationdirectory.org,,1,5,3,0,68.00,22.666667
+202307,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,3,10,3,2,74.00,24.666667
+202307,edp,google,18796324068,SUP0101,edu,632560918555,148291378252,Educationdirectory.org,,1,1,0,0,0.00,
+202307,edp,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,6,6,5,1,117.00,23.400000
+202307,edp,google,18796324068,SUP0101,edu,632560918684,148291378292,Educationdirectory.org,,1,4,2,0,42.00,21.000000
+202308,edp,google,18796324068,SUP0101,edu,632560918531,148291378452,Educationdirectory.org,,1,4,3,0,53.00,17.666667
+202308,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,9,10,3,1,90.00,30.000000
+202308,edp,google,18796324068,SUP0101,edu,632560918540,148291378012,Educationdirectory.org,,1,2,,,0.00,
+202308,edp,google,18796324068,SUP0101,edu,632560918549,148291378012,Educationdirectory.org,,1,3,2,0,25.00,12.500000
+202303,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,38,17,24,2,571.00,23.791667
+202303,edp,google,18796324068,SUP0101,edu,632560918540,148291378012,Educationdirectory.org,,8,7,2,0,22.00,11.000000
+202303,edp,google,18796324068,SUP0101,edu,632560918546,148291378052,Educationdirectory.org,,2,4,4,2,72.00,18.000000
+202303,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,91,25,58,6,1546.00,26.655172
+202303,edp,google,18796324068,SUP0101,edu,632560918555,148291378252,Educationdirectory.org,,1,1,,,0.00,
+202303,edp,google,18796324068,SUP0101,edu,632560918558,148291378252,Educationdirectory.org,,3,5,1,0,13.00,13.000000
+202303,edp,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,14,10,8,1,176.00,22.000000
+202303,Purdue Global,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,3,6,1,0,20.00,20.000000
+202303,Purdue Global,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,5,7,6,2,141.00,23.500000
+202303,Purdue Global,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,1,1,0,1,0.00,
+202303,white_g,google,18796324068,SUP0101,edu,632560918549,148291378012,Educationdirectory.org,,1,5,0,0,0.00,
+202303,white_g,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,2,8,0,0,0.00,
+202304,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,58,24,33,7,909.00,27.545455
+202304,edp,google,18796324068,SUP0101,edu,632560918537,148291378052,Educationdirectory.org,,4,6,3,1,80.00,26.666667
+202304,edp,google,18796324068,SUP0101,edu,632560918540,148291378012,Educationdirectory.org,,3,4,4,1,96.00,24.000000
+202304,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,62,26,26,10,659.00,25.346154
+202304,edp,google,18796324068,SUP0101,edu,632560918558,148291378252,Educationdirectory.org,,4,2,3,0,80.00,26.666667
+202304,edp,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,12,6,6,2,119.00,19.833333
+202308,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,11,11,4,2,88.00,22.000000
+202308,edp,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,5,7,4,0,73.00,18.250000
+202308,edp,google,18796324068,SUP0101,edu,648955918998,149079977409,Educationdirectory.org,,4,4,0,0,0.00,
+202308,Purdue Global,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,1,5,0,0,0.00,
+202308,Purdue Global,google,18796324068,SUP0101,edu,648955918998,149079977409,Educationdirectory.org,,1,5,1,2,24.00,24.000000
+202309,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,5,11,5,4,133.00,26.600000
+202309,edp,google,18796324068,SUP0101,edu,632560918537,148291378052,Educationdirectory.org,,1,4,2,1,46.00,23.000000
+202309,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,24,14,5,0,117.00,23.400000
+202309,edp,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,5,3,3,0,45.00,15.000000
+202309,edp,google,18796324068,SUP0101,edu,648955918998,149079977409,Educationdirectory.org,,3,11,2,1,51.00,25.500000
+202309,Purdue Global,google,18796324068,SUP0101,edu,632560918537,148291378052,Educationdirectory.org,,1,0,,,0.00,
+202312,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,21,19,4,1,126.00,31.500000
+202312,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,67,27,26,7,704.00,27.076923
+202312,edp,google,18796324068,SUP0101,edu,648955918998,149079977409,Educationdirectory.org,,7,10,2,2,38.00,19.000000
+202312,edp,google,18796324068,SUP0101,edu,651122444573,149079977409,Educationdirectory.org,,1,5,0,0,0.00,
+202312,Purdue Global,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,1,4,0,0,0.00,
+202313,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,6,15,5,0,126.00,25.200000
+202313,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,44,24,25,3,569.00,22.760000
+202310,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,10,17,5,1,109.00,21.800000
+202310,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,22,20,19,1,464.00,24.421053
+202310,edp,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,2,6,1,0,24.00,24.000000
+202310,edp,google,18796324068,SUP0101,edu,648955918998,149079977409,Educationdirectory.org,,5,7,1,0,34.00,34.000000
+202310,Purdue Global,google,18796324068,SUP0101,edu,648955918998,149079977409,Educationdirectory.org,,2,0,,,0.00,
+202311,edp,google,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,20,18,12,3,301.00,25.083333
+202311,edp,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,33,23,25,5,584.00,23.360000
+202311,edp,google,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,1,6,0,0,0.00,
+202311,edp,google,18796324068,SUP0101,edu,648955918998,149079977409,Educationdirectory.org,,18,13,12,4,324.00,27.000000
+202311,Purdue Global,google,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,1,3,3,0,28.00,9.333333
+202311,Purdue Global,google,18796324068,SUP0101,edu,648955918998,149079977409,Educationdirectory.org,,1,4,1,0,20.00,20.000000
+202310,Purdue Global,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,2,5,2,2,50.00,25.000000
+202310,Purdue Global,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,1,8,2,1,50.00,25.000000
+202310,white,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,3,12,3,0,72.00,24.000000
+202310,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,2,9,6,0,149.00,24.833333
+202310,white,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,5,12,2,0,30.00,15.000000
+202310,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,12,13,6,3,82.00,13.666667
+202310,white,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,4,7,1,1,22.00,22.000000
+202310,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,2,7,0,0,0.00,
+202310,white,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,7,5,3,0,76.00,25.333333
+202311,edp,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,1,7,3,0,76.00,25.333333
+202311,edp,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,2,4,4,0,99.00,24.750000
+202311,edp,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,1,8,0,0,0.00,
+202311,Purdue Global,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,1,0,,,0.00,
+202311,Purdue Global,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,1,0,,,0.00,
+202311,white,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,1,3,0,0,0.00,
+202311,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,9,13,11,2,246.00,22.363636
+202311,white,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,10,12,6,5,151.00,25.166667
+202311,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,16,19,11,5,210.00,19.090909
+202311,white,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,6,5,0,0,0.00,
+202311,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,2,10,0,0,0.00,
+202311,white,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,8,14,4,2,82.00,20.500000
+202306,Purdue Global,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,3,0,,,0.00,
+202306,Purdue Global,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,1,5,1,0,24.00,24.000000
+202306,white,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,1,7,0,0,0.00,
+202306,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,24,19,22,4,606.00,27.545455
+202306,white,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,7,12,7,1,172.00,24.571429
+202306,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,4,6,1,5,30.00,30.000000
+202306,white,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,4,9,5,1,140.00,28.000000
+202306,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,7,10,1,2,40.00,40.000000
+202306,white,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,1,2,0,0,0.00,
+202306,white,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,3,10,1,1,10.00,10.000000
+202307,edp,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,1,0,,,0.00,
+202307,Purdue Global,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,1,2,0,2,0.00,
+202307,white,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,2,3,2,0,54.00,27.000000
+202307,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,26,18,27,4,663.00,24.555556
+202307,white,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,5,9,2,2,70.00,35.000000
+202307,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,10,16,8,3,223.00,27.875000
+202307,white,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,2,5,1,0,20.00,20.000000
+202307,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,5,13,2,2,56.00,28.000000
+202307,white,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,1,3,0,0,0.00,
+202307,white,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,1,8,0,0,0.00,
+202302,white,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,4,11,5,1,95.00,19.000000
+202302,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,5,13,1,4,7.00,7.000000
+202302,white,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,7,13,3,1,63.00,21.000000
+202302,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,18,17,10,3,262.00,26.200000
+202302,white,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,3,8,5,1,141.00,28.200000
+202302,white,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,1,7,1,0,24.00,24.000000
+202303,edp,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,5,7,3,0,83.00,27.666667
+202303,edp,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,1,1,0,0,0.00,
+202303,edp,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,1,4,0,0,0.00,
+202303,edp,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,1,9,0,0,0.00,
+202303,Purdue Global,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,1,6,2,0,37.00,18.500000
+202303,Purdue Global,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,1,5,1,1,30.00,30.000000
+202303,Purdue Global,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,4,4,1,2,20.00,20.000000
+202303,white,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,6,12,3,0,50.00,16.666667
+202303,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,53,26,31,5,663.00,21.387097
+202303,white,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,3,7,0,0,0.00,
+202303,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,1,4,0,0,0.00,
+202303,white,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,3,6,1,0,30.00,30.000000
+202303,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,20,15,15,11,409.00,27.266667
+202303,white,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,1,7,3,0,77.00,25.666667
+202303,white,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,1,5,0,0,0.00,
+202303,white_g,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,2,2,2,0,30.00,15.000000
+202304,edp,google,19113255320,SUP0101,edu,638684611642,144964042998,Educationdirectory.org,,1,2,1,1,10.00,10.000000
+202304,edp,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,1,2,0,0,0.00,
+202304,edp,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,5,7,0,0,0.00,
+202317,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,3,8,0,1,0.00,
+202317,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,1,3,3,0,56.00,18.666667
+202317,white,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,3,2,2,0,43.00,21.500000
+202321,Purdue Global,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,1,0,,,0.00,
+202304,Purdue Global,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,1,2,1,1,24.00,24.000000
+202304,Purdue Global,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,1,3,1,2,20.00,20.000000
+202304,Purdue Global,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,3,6,2,1,50.00,25.000000
+202304,white,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,8,11,7,1,199.00,28.428571
+202304,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,23,15,25,5,610.00,24.400000
+202304,white,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,6,9,8,4,220.00,27.500000
+202304,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,3,7,3,0,86.00,28.666667
+202304,white,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,1,4,0,0,0.00,
+202304,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,14,12,14,2,351.00,25.071429
+202304,white,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,3,5,4,1,104.00,26.000000
+202304,white,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,10,8,7,4,199.00,28.428571
+202305,edp,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,1,0,,,0.00,
+202305,edp,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,1,0,,,0.00,
+202305,Purdue Global,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,1,2,0,0,0.00,
+202305,white,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,4,10,4,0,113.00,28.250000
+202305,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,27,14,16,1,377.00,23.562500
+202305,white,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,7,6,3,0,74.00,24.666667
+202305,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,8,12,4,1,111.00,27.750000
+202305,white,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,5,9,0,0,0.00,
+202305,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,21,16,9,0,245.00,27.222222
+202305,white,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,7,9,5,1,123.00,24.600000
+202306,edp,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,2,0,,,0.00,
+202306,edp,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,1,7,0,0,0.00,
+202313,white,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,1,4,0,0,0.00,
+202313,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,14,14,7,1,173.00,24.714286
+202313,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,2,3,0,0,0.00,
+202314,edp,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,2,7,0,1,0.00,
+202314,edp,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,1,6,0,0,0.00,
+202314,edp,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,1,1,,,0.00,
+202314,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,18,11,9,1,264.00,29.333333
+202314,white,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,3,7,1,2,32.00,32.000000
+202314,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,7,9,6,1,147.00,24.500000
+202314,white,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,4,7,6,0,143.00,23.833333
+202314,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,5,9,5,4,150.00,30.000000
+202314,white,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,1,0,,,0.00,
+202314,white,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,1,6,0,0,0.00,
+202315,edp,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,1,6,1,2,24.00,24.000000
+202315,edp,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,1,3,0,0,0.00,
+202315,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,10,9,8,1,172.00,21.500000
+202315,white,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,2,3,2,1,52.00,26.000000
+202315,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,9,9,4,1,93.00,23.250000
+202315,white,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,3,5,2,0,39.00,19.500000
+202315,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,1,3,0,0,0.00,
+202315,white,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,2,0,,,0.00,
+202315,white,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,3,6,0,5,0.00,
+202316,edp,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,1,4,0,0,0.00,
+202316,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,2,3,0,0,0.00,
+202316,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,2,3,3,0,76.00,25.333333
+202316,white,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,1,2,0,0,0.00,
+202316,white,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,2,0,,,0.00,
+202317,edp,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,3,1,,,0.00,
+202301,edp,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,1,1,0,1,0.00,
+202301,edp,google,19113255320,SUP0101,edu,638684611642,144964042998,Educationdirectory.org,,1,6,0,0,0.00,
+202301,edp,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,1,5,0,0,0.00,
+202301,edp,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,1,3,0,0,0.00,
+202301,Purdue Global,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,1,4,0,3,0.00,
+202301,Purdue Global,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,1,3,0,0,0.00,
+202301,white,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,9,8,4,0,67.00,16.750000
+202301,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,6,10,1,0,30.00,30.000000
+202301,white,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,7,8,4,1,106.00,26.500000
+202301,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,2,6,2,0,60.00,30.000000
+202301,white,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,7,9,4,0,133.00,33.250000
+202301,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,10,7,11,2,235.00,21.363636
+202301,white,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,12,13,3,2,88.00,29.333333
+202301,white_g,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,1,3,2,1,43.00,21.500000
+202302,edp,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,1,2,0,0,0.00,
+202302,edp,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,1,10,3,0,79.00,26.333333
+202302,edp,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,1,0,,,0.00,
+202302,edp,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,5,11,4,1,118.00,29.500000
+202302,edp,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,2,7,2,1,52.00,26.000000
+202302,Purdue Global,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,1,2,2,0,28.00,14.000000
+202302,Purdue Global,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,2,3,2,1,31.00,15.500000
+202302,Purdue Global,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,1,3,0,1,0.00,
+202302,Purdue Global,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,1,0,,,0.00,
+202302,white,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,3,6,5,1,94.00,18.800000
+202302,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,14,10,8,2,172.00,21.500000
+202312,edp,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,1,5,0,0,0.00,
+202312,edp,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,1,4,1,2,7.00,7.000000
+202312,Purdue Global,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,1,1,1,1,15.00,15.000000
+202312,Purdue Global,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,1,2,0,2,0.00,
+202312,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,12,18,6,0,145.00,24.166667
+202312,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,10,16,0,2,0.00,
+202312,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,4,11,6,2,123.00,20.500000
+202312,white,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,3,13,2,0,46.00,23.000000
+202313,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,7,7,3,0,68.00,22.666667
+202308,Purdue Global,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,1,2,0,0,0.00,
+202308,white,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,5,6,3,0,59.00,19.666667
+202308,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,13,12,8,5,199.00,24.875000
+202308,white,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,2,7,0,0,0.00,
+202308,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,10,15,8,4,238.00,29.750000
+202308,white,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,2,8,1,1,30.00,30.000000
+202308,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,5,9,3,2,80.00,26.666667
+202308,white,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,2,4,0,0,0.00,
+202308,white,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,1,4,0,0,0.00,
+202309,edp,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,1,5,0,0,0.00,
+202309,edp,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,1,5,2,1,44.00,22.000000
+202309,white,google,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,2,7,1,1,20.00,20.000000
+202309,white,google,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,1,4,3,0,64.00,21.333333
+202309,white,google,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,2,9,6,0,152.00,25.333333
+202309,white,google,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,7,12,5,2,76.00,15.200000
+202309,white,google,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,3,6,6,1,151.00,25.166667
+202309,white,google,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,6,9,2,1,52.00,26.000000
+202309,white,google,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,3,9,3,0,103.00,34.333333
+202309,white,google,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,2,3,2,1,80.00,40.000000
+202301,edp,google,19363550822,SUP0101,edu,642518572707,144728400396,Educationdirectory.org,,1,2,1,0,30.00,30.000000
+202301,Purdue Global,google,19363550822,SUP0101,edu,642518572707,144728400396,Educationdirectory.org,,1,5,1,0,20.00,20.000000
+202302,white,google,19566156122,SUP0101,edu,638684611645,143876372126,Educationdirectory.org,,7,9,4,0,113.00,28.250000
+202302,white,google,19566156122,SUP0101,edu,638753895296,143876372046,Educationdirectory.org,,2,7,0,0,0.00,
+202302,white,google,19566156122,SUP0101,edu,638753895299,143876372046,Educationdirectory.org,,1,3,0,0,0.00,
+202302,white_g,google,19566156122,SUP0101,edu,640797622681,143876372286,Educationdirectory.org,,1,0,,,0.00,
+202303,edp,google,19566156122,SUP0101,edu,638684611639,143876372126,Educationdirectory.org,,1,8,0,0,0.00,
+202303,edp,google,19566156122,SUP0101,edu,638684611645,143876372126,Educationdirectory.org,,1,6,0,0,0.00,
+202303,Purdue Global,google,19566156122,SUP0101,edu,640797622558,143876372286,Educationdirectory.org,,2,0,,,0.00,
+202303,white,google,19566156122,SUP0101,edu,638684611645,143876372126,Educationdirectory.org,,5,8,0,0,0.00,
+202303,white,google,19566156122,SUP0101,edu,638753895299,143876372046,Educationdirectory.org,,1,2,,,0.00,
+202303,white,google,19566156122,SUP0101,edu,640797622558,143876372286,Educationdirectory.org,,1,6,0,1,0.00,
+202303,white,google,19566156122,SUP0101,edu,640797622681,143876372286,Educationdirectory.org,,1,4,0,0,0.00,
+202317,edp,google,19727330564,SUP0101,edu,649064479580,151937976888,Educationdirectory.org,,1,2,2,0,43.00,21.500000
+202310,edp,google,19727330564,SUP0101,edu,649064479580,151937976888,Educationdirectory.org,,4,8,3,0,41.00,13.666667
+202311,edp,google,19727330564,SUP0101,edu,649064479574,151937976928,Educationdirectory.org,,3,6,1,0,8.00,8.000000
+202311,edp,google,19727330564,SUP0101,edu,649064479580,151937976888,Educationdirectory.org,,12,10,7,6,177.00,25.285714
+202311,Purdue Global,google,19727330564,SUP0101,edu,649064479580,151937976888,Educationdirectory.org,,1,3,0,1,0.00,
+202315,edp,google,19727330564,SUP0101,edu,649064479580,151937976888,Educationdirectory.org,,2,8,0,0,0.00,
+202309,edp,google,19727330564,SUP0101,edu,649064479574,151937976928,Educationdirectory.org,,1,2,0,0,0.00,
+202309,edp,google,19727330564,SUP0101,edu,649064479580,151937976888,Educationdirectory.org,,1,1,0,0,0.00,
+202309,Purdue Global,google,19727330564,SUP0101,edu,649064479580,151937976888,Educationdirectory.org,,1,5,1,0,20.00,20.000000
+202312,edp,google,19727330564,SUP0101,edu,649064479574,151937976928,Educationdirectory.org,,2,0,,,0.00,
+202312,edp,google,19727330564,SUP0101,edu,649064479577,151937976848,Educationdirectory.org,,1,5,0,0,0.00,
+202312,edp,google,19727330564,SUP0101,edu,649064479580,151937976888,Educationdirectory.org,,10,11,8,0,173.00,21.625000
+202312,edp,google,19727330564,SUP0101,edu,649064479586,151937976888,Educationdirectory.org,,1,3,0,0,0.00,
+202312,Purdue Global,google,19727330564,SUP0101,edu,649064479580,151937976888,Educationdirectory.org,,1,0,,,0.00,
+202313,edp,google,19727330564,SUP0101,edu,649064479571,151937976928,Educationdirectory.org,,1,8,3,0,95.00,31.666667
+202313,edp,google,19727330564,SUP0101,edu,649064479574,151937976928,Educationdirectory.org,,2,3,0,0,0.00,
+202313,edp,google,19727330564,SUP0101,edu,649064479580,151937976888,Educationdirectory.org,,9,8,5,1,130.00,26.000000
+202313,edp,google,19727330564,SUP0101,edu,649064479583,151937976848,Educationdirectory.org,,1,3,0,0,0.00,
+202312,edp,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,14,16,11,7,236.00,21.454545
+202312,edp,google,19743484261,SUP0101,edu,649522342057,147228770835,Educationdirectory.org,,9,7,7,4,163.00,23.285714
+202312,edp,google,19743484261,SUP0101,education,,147228770835,Educationdirectory.org,,6,12,4,2,78.00,19.500000
+202312,Purdue Global,google,19743484261,SUP0101,education,,147228770835,Educationdirectory.org,,2,1,1,0,8.00,8.000000
+202313,edp,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,13,11,10,2,214.00,21.400000
+202313,edp,google,19743484261,SUP0101,edu,649522342057,147228770835,Educationdirectory.org,,4,6,1,0,6.00,6.000000
+202313,edp,google,19743484261,SUP0101,edu,652873189345,147228770835,Educationdirectory.org,,1,0,,,0.00,
+202313,edp,google,19743484261,SUP0101,education,,147228770835,Educationdirectory.org,,2,4,2,1,35.00,17.500000
+202310,edp,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,18,12,13,3,281.00,21.615385
+202310,edp,google,19743484261,SUP0101,edu,649522342057,147228770835,Educationdirectory.org,,9,7,2,0,22.00,11.000000
+202310,edp,google,19743484261,SUP0101,education,,147228770835,Educationdirectory.org,,7,8,7,2,149.00,21.285714
+202310,Purdue Global,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,3,6,1,2,20.00,20.000000
+202310,Purdue Global,google,19743484261,SUP0101,edu,649522342057,147228770835,Educationdirectory.org,,1,1,1,0,13.00,13.000000
+202310,Purdue Global,google,19743484261,SUP0101,education,,147228770835,Educationdirectory.org,,1,4,0,3,0.00,
+202311,edp,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,28,16,14,5,254.00,18.142857
+202311,edp,google,19743484261,SUP0101,edu,649522342057,147228770835,Educationdirectory.org,,10,9,7,1,165.00,23.571429
+202311,edp,google,19743484261,SUP0101,education,,147228770835,Educationdirectory.org,,4,8,5,2,108.00,21.600000
+202311,Purdue Global,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,3,2,1,1,30.00,30.000000
+202319,edp,google,19743484261,SUP0101,edu,652873189345,147228770835,Educationdirectory.org,,1,1,,,0.00,
+202317,Purdue Global,google,19743484261,SUP0101,edu,652873189345,147228770835,Educationdirectory.org,,4,1,0,1,0.00,
+202317,Purdue Global,google,19743484261,SUP0101,education,,147228770835,Educationdirectory.org,,5,4,1,0,30.00,30.000000
+202318,edp,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,2,0,,,0.00,
+202318,edp,google,19743484261,SUP0101,edu,652873189345,147228770835,Educationdirectory.org,,8,9,3,1,53.00,17.666667
+202318,edp,google,19743484261,SUP0101,education,,147228770835,Educationdirectory.org,,1,0,,,0.00,
+202318,Purdue Global,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,1,2,0,0,0.00,
+202318,Purdue Global,google,19743484261,SUP0101,edu,652873189345,147228770835,Educationdirectory.org,,1,1,1,0,11.00,11.000000
+202315,white_g,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,1,3,0,0,0.00,
+202316,edp,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,7,9,8,2,153.00,19.125000
+202316,edp,google,19743484261,SUP0101,edu,652873189345,147228770835,Educationdirectory.org,,5,5,1,0,30.00,30.000000
+202316,edp,google,19743484261,SUP0101,education,,147228770835,Educationdirectory.org,,3,4,0,0,0.00,
+202316,Purdue Global,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,3,3,0,3,0.00,
+202316,Purdue Global,google,19743484261,SUP0101,edu,652873189345,147228770835,Educationdirectory.org,,4,8,0,0,0.00,
+202317,edp,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,9,10,3,1,106.00,35.333333
+202317,edp,google,19743484261,SUP0101,edu,652873189345,147228770835,Educationdirectory.org,,19,13,11,1,321.00,29.181818
+202317,edp,google,19743484261,SUP0101,education,,147228770835,Educationdirectory.org,,14,10,10,2,238.00,23.800000
+202309,edp,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,12,13,4,3,100.00,25.000000
+202309,edp,google,19743484261,SUP0101,edu,649522342057,147228770835,Educationdirectory.org,,3,7,3,0,90.00,30.000000
+202309,edp,google,19743484261,SUP0101,education,,147228770835,Educationdirectory.org,,8,9,8,3,145.00,18.125000
+202309,Purdue Global,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,1,5,0,3,0.00,
+202309,Purdue Global,google,19743484261,SUP0101,education,,147228770835,Educationdirectory.org,,1,0,,,0.00,
+202314,edp,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,3,8,3,0,81.00,27.000000
+202314,edp,google,19743484261,SUP0101,edu,652873189345,147228770835,Educationdirectory.org,,3,5,3,0,104.00,34.666667
+202315,edp,google,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,5,6,0,0,0.00,
+202315,edp,google,19743484261,SUP0101,edu,652873189345,147228770835,Educationdirectory.org,,7,10,6,0,158.00,26.333333
+202315,edp,google,19743484261,SUP0101,education,,147228770835,Educationdirectory.org,,3,7,0,0,0.00,
+202317,white,google,20003200744,SUP0101,edu,638684611645,146854527303,Educationdirectory.org,,11,11,8,3,152.00,19.000000
+202317,white,google,20003200744,SUP0101,edu,640797622555,146854527343,Educationdirectory.org,,1,2,0,0,0.00,
+202316,white,google,20003200744,SUP0101,edu,638684611645,146854527303,Educationdirectory.org,,1,2,0,2,0.00,
+202316,white,google,20003200744,SUP0101,edu,640797622555,146854527343,Educationdirectory.org,,2,5,4,0,95.00,23.750000
+202316,white,google,20003200744,SUP0101,edu,640797622558,146854527343,Educationdirectory.org,,1,0,,,0.00,
+202317,edp,google,20003200744,SUP0101,edu,638753895299,146854527103,Educationdirectory.org,,1,5,0,0,0.00,
+202319,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,894,56,522,178,9681.00,18.545977
+202320,white_g,Path,,SUP0104,job_grant,grant2,,Educationdirectory.org,,864,43,501,134,9075.00,18.113772
+202321,white_g,Path,,SUP0104,job_grant,grant2,,Educationdirectory.org,,861,46,448,91,7674.00,17.129464
+202317,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,606,38,158,13,2523.00,15.968354
+202318,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,1213,57,641,201,11399.00,17.783151
+202318,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,5,4,2,3,55.00,27.500000
+202318,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,8,6,3,1,76.00,25.333333
+202318,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,1,2,2,0,44.00,22.000000
+202318,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,7,3,1,3,30.00,30.000000
+202318,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,2,3,2,1,46.00,23.000000
+202318,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,3,7,2,1,49.00,24.500000
+202318,Purdue Global,search,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,10,2,2,4,43.00,21.500000
+202318,Purdue Global,search,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,11,2,2,2,43.00,21.500000
+202318,Purdue Global,search,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,2,1,0,1,0.00,
+202318,Purdue Global,search,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,15,1,1,7,30.00,30.000000
+202318,Purdue Global,search,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,7,2,1,1,30.00,30.000000
+202318,Purdue Global,search,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,7,3,1,1,0.00,0.000000
+202318,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,284,39,175,55,4391.00,25.091429
+202318,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,129,31,81,18,2162.00,26.691358
+202318,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,53,26,42,12,1080.00,25.714286
+202318,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,249,41,173,45,4605.00,26.618497
+202318,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,167,41,140,22,3759.00,26.850000
+202318,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,129,34,86,18,2173.00,25.267442
+202318,white_g,search,17636347892,SUP0101,edu_grant,656942504284,145439391781,Educationdirectory.org,,1,5,0,0,0.00,
+202319,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,16,12,10,4,216.00,21.600000
+202319,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,8,7,8,5,176.00,22.000000
+202319,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,4,6,3,2,91.00,30.333333
+202319,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,10,9,12,2,332.00,27.666667
+202319,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,8,6,6,3,153.00,25.500000
+202319,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,1,7,3,0,94.00,31.333333
+202319,Purdue Global,search,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,11,2,4,2,103.00,25.750000
+202319,Purdue Global,search,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,11,2,1,3,13.00,13.000000
+202319,Purdue Global,search,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,10,1,1,5,30.00,30.000000
+202319,Purdue Global,search,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,8,3,1,0,30.00,30.000000
+202319,Purdue Global,search,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,3,2,0,0,0.00,
+202319,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,399,45,255,62,6566.00,25.749020
+202319,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,202,30,157,32,4170.00,26.560510
+202319,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,95,24,74,15,1879.00,25.391892
+202319,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,424,46,287,71,7401.00,25.787456
+202319,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,236,34,170,63,4278.00,25.164706
+202319,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,179,34,130,30,3373.00,25.946154
+202319,white_g,search,17636347892,SUP0101,edu_grant,656942504284,145439391781,Educationdirectory.org,,5,6,3,1,94.00,31.333333
+202320,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,13,11,8,3,214.00,26.750000
+202320,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,11,6,4,0,101.00,25.250000
+202320,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,5,1,1,3,30.00,30.000000
+202320,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,14,10,8,2,200.00,25.000000
+202320,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,10,8,4,1,97.00,24.250000
+202320,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,7,5,5,2,115.00,23.000000
+202320,Purdue Global,search,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,1,0,,,0.00,
+202320,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,516,46,314,78,7948.00,25.312102
+202320,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,273,38,209,46,5435.00,26.004785
+202320,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,222,35,122,39,3078.00,25.229508
+202320,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,496,44,306,74,7768.00,25.385621
+202320,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,316,36,195,56,4946.00,25.364103
+202320,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,283,42,169,42,4401.00,26.041420
+202320,white_g,search,17636347892,SUP0101,edu_grant,656942504284,145439391781,Educationdirectory.org,,4,5,3,0,66.00,22.000000
+202321,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,7,5,4,2,92.00,23.000000
+202321,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,6,5,1,1,22.00,22.000000
+202321,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,2,1,0,1,0.00,
+202321,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,6,6,3,0,79.00,26.333333
+202321,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,5,2,1,0,8.00,8.000000
+202321,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,7,10,5,1,125.00,25.000000
+202322,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,72,20,57,3,1224.00,21.473684
+202322,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,40,17,25,4,537.00,21.480000
+202322,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,48,16,37,10,765.00,20.675676
+202321,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,228,29,126,23,2995.00,23.769841
+202321,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187,Educationdirectory.org,,236,30,120,29,2747.00,22.891667
+202321,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,344,34,180,29,4358.00,24.211111
+202321,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,175,28,97,26,2456.00,25.319588
+202322,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,35,14,22,2,402.00,18.272727
+202322,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187,Educationdirectory.org,,58,12,30,5,703.00,23.433333
+202322,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,62,16,41,11,913.00,22.268293
+202322,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,3,2,2,0,39.00,19.500000
+202322,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,2,0,,,0.00,
+202322,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147,Educationdirectory.org,,2,2,2,0,46.00,23.000000
+202322,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241,Educationdirectory.org,,2,2,2,0,39.00,19.500000
+202321,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241,Educationdirectory.org,,137,24,92,29,2286.00,24.847826
+202321,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147,Educationdirectory.org,,308,32,166,36,3734.00,22.493976
+202321,white_g,search,17688909278,SUP0101,edu_grant,608965270997,138308182973,Educationdirectory.org,,1,2,0,2,0.00,
+202321,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,415,35,224,50,5192.00,23.178571
+202321,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,12,12,15,3,327.00,21.800000
+202322,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,3,3,3,1,61.00,20.333333
+202322,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,8,4,4,0,65.00,16.250000
+202322,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,186,26,87,17,1782.00,20.482759
+202317,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,6,5,6,2,97.00,16.166667
+202317,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,4,0,,,0.00,
+202317,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,62,13,18,3,387.00,21.500000
+202317,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,44,11,29,4,629.00,21.689655
+202318,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,9,7,4,3,92.00,23.000000
+202318,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,9,11,10,2,170.00,17.000000
+202318,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,11,10,0,4,0.00,
+202318,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,5,4,1,0,30.00,30.000000
+202318,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,265,49,154,46,3928.00,25.506494
+202318,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,174,33,115,28,2805.00,24.391304
+202317,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,3,0,,,0.00,
+202317,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,2,3,2,1,31.00,15.500000
+202319,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,8,7,6,1,150.00,25.000000
+202319,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,3,5,3,0,94.00,31.333333
+202319,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,7,1,0,1,0.00,
+202319,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,3,1,,,0.00,
+202319,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,349,41,207,72,5334.00,25.768116
+202319,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,102,28,64,17,1694.00,26.468750
+202320,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,3,3,0,2,0.00,
+202320,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,3,3,1,0,30.00,30.000000
+202320,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,361,44,210,43,5456.00,25.980952
+202320,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299,Educationdirectory.org,,83,28,53,13,1327.00,25.037736
+202321,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299,Educationdirectory.org,,17,10,6,1,141.00,23.500000
+202319,edp,search,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,51,23,31,9,868.00,28.000000
+202319,edp,search,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,33,24,12,3,324.00,27.000000
+202319,edp,search,18796324068,SUP0101,edu,648955918998,149079977409,Educationdirectory.org,,3,7,3,0,94.00,31.333333
+202319,Purdue Global,search,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,1,1,0,0,0.00,
+202320,edp,search,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,52,25,23,7,588.00,25.565217
+202320,edp,search,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,45,27,22,3,628.00,28.545455
+202321,edp,search,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,37,14,14,3,332.00,23.714286
+202321,edp,search,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,38,18,14,5,367.00,26.214286
+202318,edp,search,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,37,31,12,1,377.00,31.416667
+202318,edp,search,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,25,20,19,4,532.00,28.000000
+202318,Purdue Global,search,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,1,1,0,0,0.00,
+202318,Purdue Global,search,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,1,1,,,0.00,
+202322,edp,search,18796324068,SUP0101,edu,632560918681,148291378292,Educationdirectory.org,,1,1,,,0.00,
+202322,edp,search,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,15,6,6,2,138.00,23.000000
+202322,edp,search,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,17,12,8,0,133.00,16.625000
+202317,edp,search,18796324068,SUP0101,edu,632560918534,148291378212,Educationdirectory.org,,14,10,13,0,294.00,22.615385
+202317,edp,search,18796324068,SUP0101,edu,632560918552,148291378212,Educationdirectory.org,,6,5,4,2,121.00,30.250000
+202319,edp,search,19113255320,SUP0101,edu,638684611642,144964042998,Educationdirectory.org,,1,7,0,0,0.00,
+202319,edp,search,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,1,1,0,1,0.00,
+202319,edp,search,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,1,7,0,0,0.00,
+202319,edp,search,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,1,2,0,0,0.00,
+202319,edp,search,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,1,0,,,0.00,
+202319,Purdue Global,search,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,1,1,0,1,0.00,
+202319,white,search,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,8,9,6,1,197.00,32.833333
+202319,white,search,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,2,4,4,0,106.00,26.500000
+202319,white,search,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,3,9,1,2,40.00,40.000000
+202319,white,search,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,1,3,0,0,0.00,
+202319,white,search,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,4,8,4,2,106.00,26.500000
+202320,edp,search,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,1,5,2,1,62.00,31.000000
+202320,Purdue Global,search,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,4,0,,,0.00,
+202320,Purdue Global,search,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,2,2,2,0,30.00,15.000000
+202320,Purdue Global,search,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,1,1,1,0,30.00,30.000000
+202320,white,search,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,17,15,12,0,322.00,26.833333
+202320,white,search,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,4,6,3,0,71.00,23.666667
+202320,white,search,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,2,8,0,0,0.00,
+202320,white,search,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,1,0,,,0.00,
+202320,white,search,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,7,8,6,0,147.00,24.500000
+202321,edp,search,19113255320,SUP0101,edu,638684611642,144964042998,Educationdirectory.org,,1,0,,,0.00,
+202321,edp,search,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,2,1,0,2,0.00,
+202318,white,search,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,1,1,1,0,30.00,30.000000
+202318,white,search,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,1,4,0,0,0.00,
+202318,white,search,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,1,4,1,1,24.00,24.000000
+202318,white,search,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,1,3,3,0,67.00,22.333333
+202321,Purdue Global,search,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,1,1,1,0,13.00,13.000000
+202321,edp,search,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,2,1,1,0,30.00,30.000000
+202322,white,search,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,2,2,2,0,51.00,25.500000
+202322,white,search,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,3,4,0,0,0.00,
+202322,white,search,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,2,4,0,0,0.00,
+202321,Purdue Global,search,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,1,0,,,0.00,
+202321,white,search,19113255320,SUP0101,edu,638684611639,144964042998,Educationdirectory.org,,1,2,1,0,34.00,34.000000
+202321,white,search,19113255320,SUP0101,edu,640797622681,145155623460,Educationdirectory.org,,5,6,5,1,160.00,32.000000
+202321,white,search,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,2,2,2,0,21.00,10.500000
+202321,white,search,19113255320,SUP0101,edu,640797622555,145155623460,Educationdirectory.org,,2,2,0,0,0.00,
+202321,white,search,19113255320,SUP0101,edu,638753895302,142702195103,Educationdirectory.org,,4,8,3,0,38.00,12.666667
+202321,white,search,19113255320,SUP0101,edu,638753895299,142702195103,Educationdirectory.org,,5,5,2,2,52.00,26.000000
+202321,white,search,19113255320,SUP0101,edu,638753895296,142702195103,Educationdirectory.org,,2,3,3,0,81.00,27.000000
+202321,white,search,19113255320,SUP0101,edu,638684611645,144964042998,Educationdirectory.org,,18,13,9,1,158.00,17.555556
+202321,Purdue Global,search,19113255320,SUP0101,edu,640797622558,145155623460,Educationdirectory.org,,1,1,1,0,30.00,30.000000
+202318,Purdue Global,search,19727330564,SUP0101,edu,649064479580,151937976888,Educationdirectory.org,,1,2,0,0,0.00,
+202318,edp,search,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,10,9,6,2,136.00,22.666667
+202318,edp,search,19743484261,SUP0101,edu,652873189345,147228770835,Educationdirectory.org,,15,15,11,3,259.00,23.545455
+202318,Purdue Global,search,19743484261,SUP0101,edu,649484051649,147228770835,Educationdirectory.org,,1,1,1,0,30.00,30.000000
+202318,Purdue Global,search,19743484261,SUP0101,edu,652873189345,147228770835,Educationdirectory.org,,3,2,2,0,43.00,21.500000
+202319,edp,search,19743484261,SUP0101,edu,649484051649,147228770835,Educationdirectory.org,,3,7,1,1,24.00,24.000000
+202319,edp,search,19743484261,SUP0101,edu,649484051652,147228770835,Educationdirectory.org,,9,9,6,1,137.00,22.833333
+202319,edp,search,19743484261,SUP0101,edu,652873189345,147228770835,Educationdirectory.org,,15,16,9,2,233.00,25.888889
+202319,Purdue Global,search,19743484261,SUP0101,edu,649484051649,147228770835,Educationdirectory.org,,3,0,,,0.00,
+202320,edp,search,19743484261,SUP0101,edu,652873189345,147228770835,Educationdirectory.org,,5,4,1,4,30.00,30.000000
+202317,white,search,20003200744,SUP0101,edu,638684611645,146854527303,Educationdirectory.org,,4,4,3,0,67.00,22.333333
+202317,white,search,20003200744,SUP0101,edu,638753895302,146854527103,Educationdirectory.org,,1,1,1,0,30.00,30.000000
+202318,white,search,20003200744,SUP0101,edu,638684611645,146854527303,Educationdirectory.org,,2,5,3,0,51.00,17.000000
+202318,white,search,20003200744,SUP0101,edu,638753895296,146854527103,Educationdirectory.org,,1,3,0,0,0.00,
+202318,white,search,20003200744,SUP0101,edu,638753895299,146854527103,Educationdirectory.org,,1,2,0,0,0.00,
+202318,white_g,search,20058834687,SUP0101,edu_grant,656902265424,145439163541,Educationdirectory.org,,15,9,2,5,51.00,25.500000
+202321,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833,Educationdirectory.org,,69,15,15,4,427.00,28.466667
+202322,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833,Educationdirectory.org,,30,13,9,6,195.00,21.666667
+202322,edp,search,20058834687,SUP0101,education,658212984871,150404594833,Educationdirectory.org,,1,0,,,0.00,
+202319,Purdue Global,search,20058834687,SUP0101,edu_grant,658212984868,150404594833,Educationdirectory.org,,1,0,,,0.00,
+202319,white_g,search,20058834687,SUP0101,edu_grant,656902265424,145439163541,Educationdirectory.org,,8,9,5,1,147.00,29.400000
+202319,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833,Educationdirectory.org,,7,4,2,0,52.00,26.000000
+202320,edp,search,20058834687,SUP0101,education,658212984871,150404594833,Educationdirectory.org,,2,3,0,1,0.00,
+202320,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833,Educationdirectory.org,,46,16,25,12,578.00,23.120000
+202322,white_g,search,20187299899,SUP0101,edu_grant,607713435568,148862626705,Educationdirectory.org,,4,4,5,0,102.00,20.400000
+202322,white_g,search,20187299899,SUP0101,edu_grant,620702930077,148862626745,Educationdirectory.org,,13,9,8,0,190.00,23.750000
+202322,white_g,search,20187299899,SUP0101,edu_grant,649118698063,148862627185,Educationdirectory.org,,93,16,50,10,1035.00,20.700000
+202322,white_g,search,20187299899,SUP0101,edu_grant,650026762788,148862626705,Educationdirectory.org,,4,8,0,0,0.00,
+202322,white_g,search,20187299899,SUP0101,edu_grant,650931252223,148862626745,Educationdirectory.org,,24,16,8,3,184.00,23.000000
+202322,white_g,search,20187299899,SUP0101,edu_grant,651015491880,148862627185,Educationdirectory.org,,301,33,185,16,3808.00,20.583784
+202321,edp,search,20187299899,SUP0101,edu_grant,649118698063,148862627185,Educationdirectory.org,,6,5,3,1,63.00,21.000000
+202322,white_g,search,20187299899,SUP0101,edu_grant,656942504284,148862626985,Educationdirectory.org,,4,5,4,0,81.00,20.250000
+202321,white_g,search,20187299899,SUP0101,edu_grant,607713435568,148862626705,Educationdirectory.org,,10,6,7,5,172.00,24.571429
+202321,white_g,search,20187299899,SUP0101,edu_grant,620702930077,148862626745,Educationdirectory.org,,32,12,20,3,473.00,23.650000
+202322,edp,search,20187299899,SUP0101,edu_grant,651015491880,148862627185,Educationdirectory.org,,7,6,2,1,24.00,12.000000
+202322,edp,search,20187299899,SUP0101,edu_grant,650931252223,148862626745,Educationdirectory.org,,1,0,,,0.00,
+202322,edp,search,20187299899,SUP0101,edu_grant,649118698063,148862627185,Educationdirectory.org,,3,1,0,0,0.00,
+202321,edp,search,20187299899,SUP0101,edu_grant,650931252223,148862626745,Educationdirectory.org,,2,0,,,0.00,
+202321,edp,search,20187299899,SUP0101,edu_grant,651015491880,148862627185,Educationdirectory.org,,7,5,3,1,60.00,20.000000
+202321,white_g,search,20187299899,SUP0101,edu_grant,649118698063,148862627185,Educationdirectory.org,,296,31,180,38,4258.00,23.655556
+202321,white_g,search,20187299899,SUP0101,edu_grant,650026762788,148862626705,Educationdirectory.org,,9,6,6,1,151.00,25.166667
+202321,white_g,search,20187299899,SUP0101,edu_grant,650931252223,148862626745,Educationdirectory.org,,56,16,23,5,480.00,20.869565
+202321,white_g,search,20187299899,SUP0101,edu_grant,656942504284,148862626985,Educationdirectory.org,,7,8,5,0,125.00,25.000000
+202321,white_g,search,20187299899,SUP0101,edu_grant,651015491880,148862627185,Educationdirectory.org,,371,34,181,35,4046.00,22.353591
+202322,edp,social,,SUP0110,education,,,Educationdirectory.org,,17,8,21,0,397.00,18.904762
+202321,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,69,23,67,8,1721.00,25.686567
+202321,edp,social,,SUP0110,education,,,Educationdirectory.org,,88,17,99,9,2451.00,24.757576
+202322,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,27,7,17,4,394.00,23.176471
+202319,edp,social,,SUP0110,education,,,Educationdirectory.org,,1,1,1,0,30.00,30.000000
+202319,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,1,3,1,0,11.00,11.000000
+202320,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,1,1,0,0,0.00,
+202321,white_g,social,28,SUP0110,edu_grant,,,Educationdirectory.org,,2,4,3,0,64.00,21.333333
+202321,edp,social,28,SUP0110,education,,,Educationdirectory.org,,2,5,3,2,84.00,28.000000
+202322,white_g,social,35,SUP0110,edu_grant,,,Educationdirectory.org,,5,5,2,1,28.00,14.000000
+202321,edp,social,35,SUP0110,education,,,Educationdirectory.org,,36,18,38,12,1025.00,26.973684
+202321,white_g,social,35,SUP0110,edu_grant,,,Educationdirectory.org,,13,9,14,3,284.00,20.285714
+202322,edp,social,35,SUP0110,education,,,Educationdirectory.org,,5,10,10,0,198.00,19.800000
+202321,edp,social,38,SUP0110,education,,,Educationdirectory.org,,14,11,20,3,581.00,29.050000
+202321,white_g,social,38,SUP0110,edu_grant,,,Educationdirectory.org,,4,7,2,0,35.00,17.500000
+202320,edp,social,adhtest,SUP0110,education,,,Educationdirectory.org,,1,1,1,0,30.00,30.000000
+202320,white_g,social,adhtest,SUP0110,edu_grant,,,Educationdirectory.org,,1,4,1,0,30.00,30.000000
+202320,white_g,social,CustomVar5,SUP0110,edu_grant,,,Educationdirectory.org,,1,2,0,0,0.00,
+202321,white_g,social,search_mbL_highconverting||mbLhighconvert_school||medical billing and coding school online_b,SUP0110,edu_grant,,,Educationdirectory.org,,1,1,2,0,53.00,26.500000
+202321,edp,social,search_mbL_highconverting||mbLhighconvert_training||accredited medical billing and coding training online_b,SUP0110,education,,,Educationdirectory.org,,2,6,0,0,0.00,
+202321,edp,social,search_mbL_highintent||mbLhighintent_healthcare||best online degree programs for healthcare_b,SUP0110,education,,,Educationdirectory.org,,2,2,1,2,9.00,9.000000
+202322,edp,social,search_mbL_highintent||mbLhighintent_healthcare||best online degree programs for healthcare_b,SUP0110,education,,,Educationdirectory.org,,1,2,2,0,46.00,23.000000

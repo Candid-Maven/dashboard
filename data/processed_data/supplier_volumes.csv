@@ -1,0 +1,515 @@
+Supplier,List ID,Count,Year-Week
+Lido Labs,14504,103,2023-02
+Lido Labs,14504,239,2023-03
+Lido Labs,14504,194,2023-04
+Lido Labs,14504,118,2023-05
+Lido Labs,14504,242,2023-06
+Lido Labs,14504,95,2023-07
+Lido Labs,14504,64,2023-08
+Lido Labs,14504,53,2023-09
+Lido Labs,14504,88,2023-10
+Lido Labs,14504,139,2023-11
+Lido Labs,14504,74,2023-12
+Lido Labs,14504,50,2023-13
+Lido Labs,14504,129,2023-14
+Lido Labs,14504,273,2023-15
+Lido Labs,14504,94,2023-16
+Lido Labs,14504,117,2023-17
+Lido Labs,14504,110,2023-18
+Lido Labs,14504,207,2023-19
+Colossus Media,21753,1869,2023-02
+Colossus Media,21754,662,2023-02
+Colossus Media,21753,6553,2023-03
+Colossus Media,21754,1351,2023-03
+Colossus Media,21753,6768,2023-04
+Colossus Media,21754,1254,2023-04
+Colossus Media,21753,6414,2023-05
+Colossus Media,21754,1277,2023-05
+Colossus Media,21753,6816,2023-06
+Colossus Media,21754,1054,2023-06
+Colossus Media,21753,5425,2023-07
+Colossus Media,21754,1259,2023-07
+Colossus Media,21753,5465,2023-08
+Colossus Media,21754,1248,2023-08
+Colossus Media,21753,3337,2023-09
+Colossus Media,21754,1075,2023-09
+Colossus Media,21753,4839,2023-10
+Colossus Media,21754,1095,2023-10
+Colossus Media,21753,4972,2023-11
+Colossus Media,21754,930,2023-11
+Colossus Media,21753,4714,2023-12
+Colossus Media,21754,690,2023-12
+Colossus Media,21753,4534,2023-13
+Colossus Media,21754,552,2023-13
+Colossus Media,21753,5000,2023-14
+Colossus Media,21753,5000,2023-15
+Colossus Media,21753,5000,2023-16
+Colossus Media,21753,5000,2023-17
+Colossus Media,21753,5000,2023-18
+Colossus Media,21753,5000,2023-19
+Digital Media Solutions,24179,138,2023-02
+Digital Media Solutions,24180,523,2023-02
+Digital Media Solutions,24181,490,2023-02
+Digital Media Solutions,24182,3,2023-02
+Digital Media Solutions,24179,318,2023-03
+Digital Media Solutions,24180,1549,2023-03
+Digital Media Solutions,24181,1172,2023-03
+Digital Media Solutions,24182,2,2023-03
+Digital Media Solutions,24179,241,2023-04
+Digital Media Solutions,24180,1800,2023-04
+Digital Media Solutions,24181,1149,2023-04
+Digital Media Solutions,24182,1,2023-04
+Digital Media Solutions,24179,225,2023-05
+Digital Media Solutions,24180,1517,2023-05
+Digital Media Solutions,24181,972,2023-05
+Digital Media Solutions,24179,155,2023-06
+Digital Media Solutions,24180,1319,2023-06
+Digital Media Solutions,24181,677,2023-06
+Digital Media Solutions,24182,1,2023-06
+Digital Media Solutions,24179,130,2023-07
+Digital Media Solutions,24180,1435,2023-07
+Digital Media Solutions,24181,590,2023-07
+Digital Media Solutions,24182,2,2023-07
+Digital Media Solutions,24179,138,2023-08
+Digital Media Solutions,24180,1365,2023-08
+Digital Media Solutions,24181,478,2023-08
+Digital Media Solutions,24179,126,2023-09
+Digital Media Solutions,24180,1174,2023-09
+Digital Media Solutions,24181,489,2023-09
+Digital Media Solutions,24182,1,2023-09
+Digital Media Solutions,24179,117,2023-10
+Digital Media Solutions,24180,1207,2023-10
+Digital Media Solutions,24181,381,2023-10
+Digital Media Solutions,24182,3,2023-10
+Digital Media Solutions,24179,196,2023-11
+Digital Media Solutions,24180,1509,2023-11
+Digital Media Solutions,24181,556,2023-11
+Digital Media Solutions,24182,1,2023-11
+Digital Media Solutions,24179,117,2023-12
+Digital Media Solutions,24180,784,2023-12
+Digital Media Solutions,24181,416,2023-12
+Digital Media Solutions,24179,144,2023-13
+Digital Media Solutions,24180,1204,2023-13
+Digital Media Solutions,24181,503,2023-13
+Digital Media Solutions,24179,176,2023-14
+Digital Media Solutions,24180,1732,2023-14
+Digital Media Solutions,24181,634,2023-14
+Digital Media Solutions,24179,137,2023-15
+Digital Media Solutions,24180,1256,2023-15
+Digital Media Solutions,24181,601,2023-15
+Digital Media Solutions,24179,131,2023-16
+Digital Media Solutions,24180,1164,2023-16
+Digital Media Solutions,24181,602,2023-16
+Digital Media Solutions,24179,190,2023-17
+Digital Media Solutions,24180,1571,2023-17
+Digital Media Solutions,24181,476,2023-17
+Digital Media Solutions,24182,39,2023-17
+Digital Media Solutions,24179,111,2023-18
+Digital Media Solutions,24180,804,2023-18
+Digital Media Solutions,24182,125,2023-18
+Digital Media Solutions,24179,136,2023-19
+Digital Media Solutions,24180,795,2023-19
+Digital Media Solutions,24182,189,2023-19
+Shift 44,83531,911,2023-02
+Shift 44,83531,2396,2023-03
+Shift 44,83532,500,2023-03
+Shift 44,83531,2370,2023-04
+Shift 44,83532,494,2023-04
+Shift 44,83531,3997,2023-05
+Shift 44,83532,514,2023-05
+Shift 44,83531,4375,2023-06
+Shift 44,83532,1009,2023-06
+Shift 44,83531,4086,2023-07
+Shift 44,83532,1023,2023-07
+Shift 44,83531,3979,2023-08
+Shift 44,83532,1019,2023-08
+Shift 44,83531,3000,2023-09
+Shift 44,83532,641,2023-09
+Shift 44,83531,2859,2023-10
+Shift 44,83532,200,2023-10
+Shift 44,83531,3000,2023-11
+Shift 44,83532,200,2023-11
+Shift 44,83531,3000,2023-12
+Shift 44,83532,200,2023-12
+Shift 44,83531,341,2023-13
+Shift 44,83532,200,2023-13
+Shift 44,83531,3000,2023-14
+Shift 44,83532,200,2023-14
+Shift 44,83531,3000,2023-15
+Shift 44,83532,200,2023-15
+Shift 44,83531,3000,2023-16
+Shift 44,83532,200,2023-16
+Shift 44,83531,2000,2023-17
+Shift 44,83532,200,2023-17
+Shift 44,83531,2999,2023-18
+Shift 44,83532,200,2023-18
+Shift 44,83531,3000,2023-19
+Shift 44,83532,200,2023-19
+SilverTAP,54001,10441,2023-02
+SilverTAP,54006,12169,2023-02
+SilverTAP,54001,25181,2023-03
+SilverTAP,54006,29379,2023-03
+SilverTAP,54001,14838,2023-04
+SilverTAP,54006,26533,2023-04
+SilverTAP,54001,8322,2023-05
+SilverTAP,54006,22870,2023-05
+SilverTAP,54001,11807,2023-06
+SilverTAP,54006,19995,2023-06
+SilverTAP,54001,12117,2023-07
+SilverTAP,54006,19357,2023-07
+SilverTAP,54001,12751,2023-08
+SilverTAP,54006,18763,2023-08
+SilverTAP,54001,9559,2023-09
+SilverTAP,54006,15780,2023-09
+SilverTAP,54001,5677,2023-10
+SilverTAP,54006,15855,2023-10
+SilverTAP,54001,5577,2023-11
+SilverTAP,54006,15150,2023-11
+SilverTAP,54001,7271,2023-12
+SilverTAP,54006,18799,2023-12
+SilverTAP,54001,8357,2023-13
+SilverTAP,54006,19000,2023-13
+SilverTAP,54001,9371,2023-14
+SilverTAP,54006,17469,2023-14
+SilverTAP,54001,9710,2023-15
+SilverTAP,54006,18425,2023-15
+SilverTAP,54001,11749,2023-16
+SilverTAP,54006,21202,2023-16
+SilverTAP,54001,12565,2023-17
+SilverTAP,54006,25352,2023-17
+SilverTAP,54001,11584,2023-18
+SilverTAP,54006,21334,2023-18
+SilverTAP,54001,7276,2023-19
+SilverTAP,54006,16771,2023-19
+Apptness,54101,5481,2023-02
+Apptness,54102,5685,2023-02
+Apptness,54103,4062,2023-02
+Apptness,54101,14047,2023-03
+Apptness,54102,13924,2023-03
+Apptness,54103,8329,2023-03
+Apptness,54101,14354,2023-04
+Apptness,54102,14056,2023-04
+Apptness,54103,8667,2023-04
+Apptness,54101,12190,2023-05
+Apptness,54102,11683,2023-05
+Apptness,54103,7727,2023-05
+Apptness,54101,13337,2023-06
+Apptness,54102,13190,2023-06
+Apptness,54103,8042,2023-06
+Apptness,54101,13248,2023-07
+Apptness,54102,12881,2023-07
+Apptness,54103,8032,2023-07
+Apptness,54101,14425,2023-08
+Apptness,54102,14592,2023-08
+Apptness,54103,7897,2023-08
+Apptness,54101,14374,2023-09
+Apptness,54102,14445,2023-09
+Apptness,54103,8451,2023-09
+Apptness,54101,13712,2023-10
+Apptness,54102,13358,2023-10
+Apptness,54103,7687,2023-10
+Apptness,54101,13692,2023-11
+Apptness,54102,14254,2023-11
+Apptness,54103,8182,2023-11
+Apptness,54101,14670,2023-12
+Apptness,54102,14464,2023-12
+Apptness,54103,7729,2023-12
+Apptness,54101,13974,2023-13
+Apptness,54102,13904,2023-13
+Apptness,54103,7402,2023-13
+Apptness,54101,11616,2023-14
+Apptness,54102,11273,2023-14
+Apptness,54103,6986,2023-14
+Apptness,54101,12753,2023-15
+Apptness,54102,12537,2023-15
+Apptness,54103,5945,2023-15
+Apptness,54101,13797,2023-16
+Apptness,54102,13598,2023-16
+Apptness,54103,7140,2023-16
+Apptness,54101,17204,2023-17
+Apptness,54102,16635,2023-17
+Apptness,54103,8876,2023-17
+Apptness,54101,17439,2023-18
+Apptness,54102,17126,2023-18
+Apptness,54103,9722,2023-18
+Apptness,54101,15623,2023-19
+Apptness,54102,15090,2023-19
+Apptness,54103,5000,2023-19
+Voltron Interactive,54401,1287,2023-02
+Voltron Interactive,54403,4715,2023-02
+Voltron Interactive,54401,1233,2023-03
+Voltron Interactive,54403,9728,2023-03
+Voltron Interactive,54401,1427,2023-04
+Voltron Interactive,54402,2,2023-04
+Voltron Interactive,54403,7987,2023-04
+Voltron Interactive,54401,1304,2023-05
+Voltron Interactive,54402,7,2023-05
+Voltron Interactive,54403,5979,2023-05
+Voltron Interactive,54401,573,2023-06
+Voltron Interactive,54402,12,2023-06
+Voltron Interactive,54403,1144,2023-06
+Voltron Interactive,54401,1045,2023-07
+Voltron Interactive,54402,1,2023-07
+Voltron Interactive,54403,2831,2023-07
+Voltron Interactive,54401,656,2023-08
+Voltron Interactive,54402,1,2023-08
+Voltron Interactive,54403,2906,2023-08
+Voltron Interactive,54401,701,2023-09
+Voltron Interactive,54402,4,2023-09
+Voltron Interactive,54403,1609,2023-09
+Voltron Interactive,54401,692,2023-10
+Voltron Interactive,54402,5,2023-10
+Voltron Interactive,54403,1244,2023-10
+Voltron Interactive,54401,676,2023-11
+Voltron Interactive,54402,4,2023-11
+Voltron Interactive,54403,1002,2023-11
+Voltron Interactive,54401,739,2023-12
+Voltron Interactive,54402,7,2023-12
+Voltron Interactive,54403,1067,2023-12
+Voltron Interactive,54401,824,2023-13
+Voltron Interactive,54402,5,2023-13
+Voltron Interactive,54403,1028,2023-13
+Voltron Interactive,54401,614,2023-14
+Voltron Interactive,54402,5,2023-14
+Voltron Interactive,54403,1096,2023-14
+Voltron Interactive,54401,605,2023-15
+Voltron Interactive,54402,6,2023-15
+Voltron Interactive,54403,1001,2023-15
+Voltron Interactive,54401,748,2023-16
+Voltron Interactive,54402,10,2023-16
+Voltron Interactive,54403,1242,2023-16
+Voltron Interactive,54401,1237,2023-17
+Voltron Interactive,54402,6,2023-17
+Voltron Interactive,54403,1699,2023-17
+Voltron Interactive,54401,813,2023-18
+Voltron Interactive,54402,6,2023-18
+Voltron Interactive,54403,1276,2023-18
+Voltron Interactive,54401,981,2023-19
+Voltron Interactive,54402,5,2023-19
+Voltron Interactive,54403,960,2023-19
+Connexus Digital,54661,3245,2023-02
+Connexus Digital,54662,5933,2023-02
+Connexus Digital,54663,2149,2023-02
+Connexus Digital,54661,7914,2023-03
+Connexus Digital,54662,12315,2023-03
+Connexus Digital,54663,3629,2023-03
+Connexus Digital,54661,8029,2023-04
+Connexus Digital,54662,12682,2023-04
+Connexus Digital,54663,3689,2023-04
+Connexus Digital,54661,7130,2023-05
+Connexus Digital,54662,12219,2023-05
+Connexus Digital,54663,2868,2023-05
+Connexus Digital,54661,5262,2023-06
+Connexus Digital,54662,9314,2023-06
+Connexus Digital,54663,1630,2023-06
+Connexus Digital,54661,4352,2023-07
+Connexus Digital,54662,8889,2023-07
+Connexus Digital,54663,2311,2023-07
+Connexus Digital,54661,4186,2023-08
+Connexus Digital,54662,8225,2023-08
+Connexus Digital,54663,1847,2023-08
+Connexus Digital,54661,3826,2023-09
+Connexus Digital,54662,6023,2023-09
+Connexus Digital,54663,892,2023-09
+Connexus Digital,54661,3320,2023-10
+Connexus Digital,54662,4857,2023-10
+Connexus Digital,54663,887,2023-10
+Connexus Digital,54661,637,2023-11
+Connexus Digital,54662,4502,2023-11
+Connexus Digital,54663,871,2023-11
+Connexus Digital,54662,5049,2023-12
+Connexus Digital,54663,1026,2023-12
+Connexus Digital,54662,1545,2023-13
+Connexus Digital,54663,1158,2023-13
+Connexus Digital,54661,1845,2023-14
+Connexus Digital,54662,3158,2023-14
+Connexus Digital,54663,825,2023-14
+Connexus Digital,54661,2615,2023-15
+Connexus Digital,54662,5357,2023-15
+Connexus Digital,54663,961,2023-15
+Connexus Digital,54661,3921,2023-16
+Connexus Digital,54662,5879,2023-16
+Connexus Digital,54663,1171,2023-16
+Connexus Digital,54661,4249,2023-17
+Connexus Digital,54662,6747,2023-17
+Connexus Digital,54663,1268,2023-17
+Connexus Digital,54661,3583,2023-18
+Connexus Digital,54662,7120,2023-18
+Connexus Digital,54663,1203,2023-18
+Connexus Digital,54661,2656,2023-19
+Connexus Digital,54662,4166,2023-19
+Connexus Digital,54663,516,2023-19
+Jobcase,54771,1348,2023-02
+Jobcase,54772,2457,2023-02
+Jobcase,54773,4384,2023-02
+Jobcase,54771,3908,2023-03
+Jobcase,54772,6080,2023-03
+Jobcase,54773,9777,2023-03
+Jobcase,54771,3248,2023-04
+Jobcase,54772,4051,2023-04
+Jobcase,54773,8992,2023-04
+Jobcase,54771,2727,2023-05
+Jobcase,54772,3684,2023-05
+Jobcase,54773,7133,2023-05
+Jobcase,54771,3178,2023-06
+Jobcase,54772,4097,2023-06
+Jobcase,54773,6005,2023-06
+Jobcase,54771,3139,2023-07
+Jobcase,54772,3958,2023-07
+Jobcase,54773,7019,2023-07
+Jobcase,54771,3066,2023-08
+Jobcase,54772,3922,2023-08
+Jobcase,54773,6117,2023-08
+Jobcase,54771,3167,2023-09
+Jobcase,54772,4293,2023-09
+Jobcase,54773,6213,2023-09
+Jobcase,54771,3250,2023-10
+Jobcase,54772,4427,2023-10
+Jobcase,54773,6226,2023-10
+Jobcase,54771,3353,2023-11
+Jobcase,54772,4730,2023-11
+Jobcase,54773,7577,2023-11
+Jobcase,54771,3254,2023-12
+Jobcase,54772,4475,2023-12
+Jobcase,54773,7849,2023-12
+Jobcase,54771,2833,2023-13
+Jobcase,54772,3741,2023-13
+Jobcase,54773,5993,2023-13
+Jobcase,54771,2553,2023-14
+Jobcase,54772,4226,2023-14
+Jobcase,54773,4449,2023-14
+Jobcase,54771,1827,2023-15
+Jobcase,54772,2412,2023-15
+Jobcase,54773,4756,2023-15
+Jobcase,54771,423,2023-16
+Jobcase,54772,628,2023-16
+Jobcase,54773,3895,2023-16
+Jobcase,54771,379,2023-17
+Jobcase,54772,637,2023-17
+Jobcase,54773,4525,2023-17
+Jobcase,54771,419,2023-18
+Jobcase,54772,725,2023-18
+Jobcase,54773,5534,2023-18
+Jobcase,54771,387,2023-19
+Jobcase,54772,363,2023-19
+Jobcase,54773,5892,2023-19
+Jobble,54801,40,2023-02
+Jobble,54801,22,2023-03
+Jobble,54801,35,2023-04
+Jobble,54801,70,2023-05
+Jobble,54801,98,2023-06
+Jobble,54801,159,2023-07
+Jobble,54801,161,2023-08
+Jobble,54801,58,2023-09
+Jobble,54801,13,2023-10
+Jobble,54801,30,2023-16
+Jobble,54801,81,2023-17
+Jobble,54801,92,2023-18
+Jobble,54801,96,2023-19
+brightfire,54901,1191,2023-02
+brightfire,54902,1444,2023-02
+brightfire,54901,2709,2023-03
+brightfire,54902,4250,2023-03
+brightfire,54901,2640,2023-04
+brightfire,54902,4275,2023-04
+brightfire,54901,2325,2023-05
+brightfire,54902,3964,2023-05
+brightfire,54901,2206,2023-06
+brightfire,54902,3599,2023-06
+brightfire,54901,2050,2023-07
+brightfire,54902,3440,2023-07
+brightfire,54901,2229,2023-08
+brightfire,54902,3606,2023-08
+brightfire,54901,2393,2023-09
+brightfire,54902,3880,2023-09
+brightfire,54901,2300,2023-10
+brightfire,54902,3868,2023-10
+brightfire,54901,2287,2023-11
+brightfire,54902,3619,2023-11
+brightfire,54901,2552,2023-12
+brightfire,54902,3823,2023-12
+brightfire,54901,2508,2023-13
+brightfire,54902,3958,2023-13
+brightfire,54901,2111,2023-14
+brightfire,54902,3391,2023-14
+brightfire,54901,2199,2023-15
+brightfire,54902,3522,2023-15
+brightfire,54901,2717,2023-16
+brightfire,54902,4180,2023-16
+brightfire,54901,2885,2023-17
+brightfire,54902,4156,2023-17
+brightfire,54901,2585,2023-18
+brightfire,54902,4071,2023-18
+brightfire,54901,2236,2023-19
+brightfire,54902,3760,2023-19
+EducationDirectory,55011,209,2023-02
+EducationDirectory,55011,826,2023-03
+EducationDirectory,55011,1022,2023-04
+EducationDirectory,55011,997,2023-05
+EducationDirectory,55011,652,2023-06
+EducationDirectory,55011,916,2023-07
+EducationDirectory,55011,715,2023-08
+EducationDirectory,55011,592,2023-09
+EducationDirectory,55011,595,2023-10
+EducationDirectory,55011,558,2023-11
+EducationDirectory,55011,775,2023-12
+EducationDirectory,55011,821,2023-13
+EducationDirectory,55011,795,2023-14
+EducationDirectory,55011,997,2023-15
+EducationDirectory,55011,1295,2023-16
+EducationDirectory,55011,2434,2023-17
+EducationDirectory,55011,8716,2023-18
+EducationDirectory,55011,1862,2023-19
+Fluent Co,55501,9096,2023-02
+Fluent Co,55501,12625,2023-03
+Fluent Co,55501,14810,2023-04
+Fluent Co,55501,21000,2023-05
+Fluent Co,55501,20000,2023-06
+Fluent Co,55501,17500,2023-07
+Fluent Co,55501,500,2023-08
+Fluent Co,55501,12500,2023-10
+Fluent Co,55501,1108,2023-11
+FinUnited,557001,2309,2023-02
+FinUnited,557002,1782,2023-02
+FinUnited,557001,5883,2023-03
+FinUnited,557002,4023,2023-03
+FinUnited,557001,3794,2023-04
+FinUnited,557002,2483,2023-04
+FinUnited,557001,3303,2023-05
+FinUnited,557002,1866,2023-05
+FinUnited,557001,2635,2023-06
+FinUnited,557002,1814,2023-06
+FinUnited,557001,2606,2023-07
+FinUnited,557002,2039,2023-07
+FinUnited,557001,2838,2023-08
+FinUnited,557002,2696,2023-08
+FinUnited,557001,3296,2023-09
+FinUnited,557002,2208,2023-09
+FinUnited,557001,3242,2023-10
+FinUnited,557002,2223,2023-10
+FinUnited,557001,2832,2023-11
+FinUnited,557002,2617,2023-11
+FinUnited,557001,1334,2023-12
+FinUnited,557002,3316,2023-12
+FinUnited,557003,882,2023-12
+FinUnited,557001,1820,2023-13
+FinUnited,557002,1593,2023-13
+FinUnited,557003,1340,2023-13
+FinUnited,557001,1784,2023-14
+FinUnited,557002,1632,2023-14
+FinUnited,557003,262,2023-14
+FinUnited,557001,1886,2023-15
+FinUnited,557002,1876,2023-15
+FinUnited,557003,242,2023-15
+FinUnited,557001,1997,2023-16
+FinUnited,557002,1823,2023-16
+FinUnited,557003,124,2023-16
+FinUnited,557001,1562,2023-17
+FinUnited,557002,1507,2023-17
+FinUnited,557003,127,2023-17
+FinUnited,557001,1212,2023-18
+FinUnited,557002,2516,2023-18
+FinUnited,557003,134,2023-18
+FinUnited,557001,1309,2023-19
+FinUnited,557002,1552,2023-19
+FinUnited,557003,65,2023-19

@@ -1,0 +1,20 @@
+frontend:
+  phases:
+    preBuild:
+      commands:
+      - python3 --version
+      - pip3 install --user --upgrade pip
+      - pip3 install --user -r requirements.txt
+    build:
+      commands:
+      - python3 application.py
+      # postBuild:
+      #   commands:
+      #   - python3 utils/supplier_fetch.py fetch_data # Fetch supplier data
+      #   - python3 utils/revenue_fetch.py fetch_data # Fetch revenue data
+      #   - python3 utils/supplier_fetch.py clean_data # Clean supplier data
+      #   - python3 utils/revenue_fetch.py clean_data # Fetch revenue dat
+  artifacts:
+    baseDirectory: ./
+    files:
+    - '**/*'
