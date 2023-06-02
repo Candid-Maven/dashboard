@@ -1,0 +1,80 @@
+:root {
+  --background-color: #ffffff;
+  --box-shadow-color: #000039;
+  --passive-color: #16161680;
+  --action-color: #2541b2;
+  --good-color: #00913A;
+  --caution-color: #FFA700;
+  --bad-color: #FF0000;
+  --border-radius: 8px;
+}
+
+* {
+  font-family: 'Lato', sans-serif !important;
+  color: var(--action-color);
+}
+
+.drop-down-grid {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border:#FFA700;
+  padding: 1em;
+}
+.drop-down{
+  min-width: 30vw;
+}
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+h1 {
+  color: var(--action-color);
+}
+h2 {
+  color: var(--action-color);
+  font-size: 3rem;
+}
+
+.bfn {
+  background: var(--background-color);
+  box-shadow: 0px 0px 30px var(--box-shadow-color);
+  border-radius: var(--border-radius);
+}
+
+.line-chart {
+  box-shadow: 0px 0px 30px var(--box-shadow-color);
+  border-radius: var(--border-radius);
+  box-sizing: border-box;
+}
+
+.bfn-grid{
+  box-shadow: 0px 0px 30px var(--box-shadow-color);
+  border-radius: var(--border-radius);
+  box-sizing: border-box;
+  text-align: center;
+  max-height: 30vh;  
+}
+
+.basic-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(40vw, 1fr));
+  margin-left: 3vw;
+  margin-right: 3vw;
+  padding-top: 1rem;
+}
+
+.bfn-basic-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+  grid-gap: 1rem;
+  min-width: 35vw;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}

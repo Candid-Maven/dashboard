@@ -1,0 +1,67 @@
+# .github/workflows/fetch.yml
+
+name: Daily Cron Job
+
+on:
+  schedule:
+#     - cron: "*/15 * * * *" # Runs every 15 minutes
+    - cron: "0 11 * * *" # Runs at 04:00 PDT (11:00 UTC)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          node-version: 16 # Specify Node.js 16 as the version
+
+      - name: Set up python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install OpenVPN
+        run: |
+          sudo apt-get update
+          sudo apt install -y openvpn openvpn-systemd-resolved
+  
+      - name: OpenVPN-Connect
+        uses: kota65535/github-openvpn-connect-action@v2.0.2
+        with:
+          config_file: .github/vpn/client.ovpn
+          username: ${{ secrets.OVPN_USERNAME }}
+          password: ${{ secrets.OVPN_PASSWORD }}
+          client_key: ${{ secrets.USER_KEY }}
+          tls_auth_key: ${{ secrets.TLS_KEY }}
+          auth_user_pass_file: up.txt
+          additional_params: |
+            --data-ciphers "AES-256-CBC"
+            --ca "${{ secrets.CA_CRT }}"
+            --key "${{ secrets.CLIENT_KEY }}"
+            --tls-auth "${{ secrets.TLS_AUTH_KEY }}" 1
+        
+      - name: Fetch all
+        id: fetch-all
+        run: python ${{ github.workspace }}/utils/fetch_batch.py
+
+      - name: Commit files
+        run: |
+          datetime=$(date +'%Y-%m-%d %H:%M:%S')
+          commit_message="Data fetched on $datetime"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || git commit -a -m "$commit_message" --allow-empty
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main

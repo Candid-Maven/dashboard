@@ -1,0 +1,1406 @@
+Month,Date,Site_Name,UTM_Source,UTM_Campaign,UTM_Supplier_Id,UTM_Medium,UTM_Ad_Id,UTM_Content,Supplier,Matching_Time,Reg,Distinct_Schools,Accepted,Rejected,Rev,CPA
+5,2023-05-27,,,,,,,,Digital Media Solutions,,2973,4,1.0,1.0,19.0,19.0
+5,2023-05-27,white_g,,,SUP0109,,374219,,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-28,,,,,,,,Digital Media Solutions,,2907,3,0.0,1.0,0.0,
+5,2023-05-28,edp,,,,,,,Educationdirectory.org,,1,3,3.0,0.0,65.0,21.666667
+5,2023-05-28,white,,,,,,,Educationdirectory.org,,1,1,1.0,0.0,27.0,27.0
+5,2023-05-28,white_g,,,,,,,Educationdirectory.org,,1,4,3.0,0.0,66.0,22.0
+5,2023-05-29,,,,,,,,Digital Media Solutions,,4086,2,2.0,1.0,38.0,19.0
+5,2023-05-29,edu,,,,,,,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-29,white_g,,,,,,,Educationdirectory.org,,2,3,0.0,0.0,0.0,
+5,2023-05-30,,,,,,,,Digital Media Solutions,,4323,3,0.0,0.0,0.0,
+5,2023-05-30,edu,,,,,,,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-30,white_g,,,,,,,Educationdirectory.org,,2,2,2.0,2.0,43.0,21.5
+5,2023-05-20,white_g,,,,,,,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+5,2023-05-20,white_g,,,SUP0101,,650931252223,,Educationdirectory.org,,1,1,,,0.0,
+5,2023-05-20,white_g,,,SUP0104,,grant2,,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-21,,,,,,,,Digital Media Solutions,,3200,2,0.0,0.0,0.0,
+5,2023-05-21,white_g,,,SUP0101,,620702930077,,Educationdirectory.org,,2,2,2.0,0.0,43.0,21.5
+5,2023-05-21,white_g,,,SUP0104,,grant2,,Educationdirectory.org,,3,6,3.0,0.0,72.0,24.0
+5,2023-05-22,,,,,,,,Digital Media Solutions,,3663,5,1.0,2.0,19.0,19.0
+5,2023-05-22,edp,,,,,,,Educationdirectory.org,,2,6,2.0,0.0,35.0,17.5
+5,2023-05-22,edu,,,,,,,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-22,white_g,,,,,,,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-23,,,,,,,,Digital Media Solutions,,3980,4,1.0,0.0,19.0,19.0
+5,2023-05-23,edp,,,,,,,Educationdirectory.org,,2,10,0.0,1.0,0.0,
+5,2023-05-23,edu,,,,,,,Educationdirectory.org,,3,0,,,0.0,
+5,2023-05-23,white_g,,,,,,,Educationdirectory.org,,1,2,0.0,1.0,0.0,
+5,2023-05-23,white_g,,,SUP0109,,374219,,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-08,,,,,,,,Digital Media Solutions,,3348,7,4.0,2.0,76.0,19.0
+5,2023-05-08,white_g,,,,,,,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-09,,,,,,,,Digital Media Solutions,,3506,6,2.0,3.0,45.0,22.5
+5,2023-05-09,edp,,,,,,,Educationdirectory.org,,1,1,1.0,0.0,13.0,13.0
+5,2023-05-09,white_g,,,,,,,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+5,2023-05-09,white_g,,,SUP0104,,grant1,,Educationdirectory.org,,2,4,0.0,0.0,0.0,
+5,2023-05-10,,,,,,,,Digital Media Solutions,,3458,5,0.0,5.0,0.0,
+5,2023-05-10,edp,,,SUP0101,,632560918534,,Educationdirectory.org,,1,3,1.0,2.0,30.0,30.0
+5,2023-05-10,Purdue Global,,,,,,,Educationdirectory.org,,1,2,2.0,0.0,42.0,21.0
+5,2023-05-11,,,,,,,,Digital Media Solutions,,3698,4,3.0,1.0,57.0,19.0
+5,2023-05-11,edp,,,,,,,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-16,,,,,,,,Digital Media Solutions,,3148,4,1.0,2.0,19.0,19.0
+4,2023-04-17,,,,,,,,Digital Media Solutions,,4358,4,1.0,3.0,19.0,19.0
+4,2023-04-17,white_g,,,,,,,Educationdirectory.org,,4,12,1.0,2.0,14.0,14.0
+4,2023-04-18,,,,,,,,Digital Media Solutions,,4232,4,2.0,2.0,38.0,19.0
+4,2023-04-18,Purdue Global,,,,,,,Educationdirectory.org,,2,1,,,0.0,
+4,2023-04-18,white_g,,,,,,,Educationdirectory.org,,2,3,2.0,2.0,46.0,23.0
+4,2023-04-18,white_g,,,SUP0104,,,,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-19,,,,,,,,Digital Media Solutions,,4457,3,2.0,2.0,38.0,19.0
+4,2023-04-19,edp,,,,,,,Educationdirectory.org,,2,5,0.0,0.0,0.0,
+4,2023-04-19,Purdue Global,,,,,,,Educationdirectory.org,,2,3,3.0,0.0,94.0,31.333333
+4,2023-04-19,white_g,,,SUP0101,,649118698063,,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-19,white_g,,,SUP0104,,,,Educationdirectory.org,,2,1,,,0.0,
+4,2023-04-27,,,,,,,,Digital Media Solutions,,5068,4,1.0,2.0,19.0,19.0
+4,2023-04-27,Purdue Global,,,,,,,Educationdirectory.org,,3,3,3.0,0.0,68.0,22.666667
+4,2023-04-27,white_g,,,,,,,Educationdirectory.org,,1,4,2.0,0.0,64.0,32.0
+4,2023-04-27,white_g,,,SUP0104,,grant1,,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-28,,,,,,,,Digital Media Solutions,,4304,3,0.0,5.0,0.0,
+4,2023-04-28,white_g,,,SUP0104,,grant1,,Educationdirectory.org,,3,1,0.0,0.0,0.0,
+4,2023-04-29,,,,,,,,Digital Media Solutions,,3683,3,0.0,1.0,0.0,
+4,2023-04-29,edp,,,,,,,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+4,2023-04-29,white_g,,,,,,,Educationdirectory.org,,2,2,2.0,0.0,31.0,15.5
+4,2023-04-29,white_g,,,SUP0104,,grant1,,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+4,2023-04-30,,,,,,,,Digital Media Solutions,,3532,3,0.0,2.0,0.0,
+4,2023-04-30,edp,,,,,,,Educationdirectory.org,,1,2,2.0,0.0,47.0,23.5
+5,2023-05-16,,,,,,,,Digital Media Solutions,,3611,4,1.0,4.0,19.0,19.0
+5,2023-05-16,edp,,,,,,,Educationdirectory.org,,2,5,0.0,6.0,0.0,
+5,2023-05-16,white_g,,,,,,,Educationdirectory.org,,2,5,4.0,1.0,109.0,27.25
+5,2023-05-16,white_g,,,SUP0104,,grant2,,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-17,,,,,,,,Digital Media Solutions,,4239,2,0.0,4.0,0.0,
+5,2023-05-17,edp,,,,,,,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-17,white_g,,,,,,,Educationdirectory.org,,1,7,0.0,0.0,0.0,
+5,2023-05-18,,,,,,,,Digital Media Solutions,,4080,4,1.0,2.0,19.0,19.0
+5,2023-05-18,edp,,,,,,,Educationdirectory.org,,1,2,2.0,1.0,64.0,32.0
+5,2023-05-18,white_g,,,,,,,Educationdirectory.org,,2,5,2.0,1.0,66.0,33.0
+5,2023-05-19,,,,,,,,Digital Media Solutions,,3308,3,1.0,4.0,19.0,19.0
+5,2023-05-19,edp,,,,,,,Educationdirectory.org,,1,7,3.0,0.0,51.0,17.0
+5,2023-05-19,white_g,,,SUP0104,,grant2,,Educationdirectory.org,,2,1,1.0,0.0,19.0,19.0
+5,2023-05-20,,,,,,,,Digital Media Solutions,,3141,4,0.0,1.0,0.0,
+4,2023-04-24,,,,,,,,Digital Media Solutions,,4563,4,2.0,2.0,52.0,26.0
+4,2023-04-24,edp,,,,,,,Educationdirectory.org,,6,6,2.0,0.0,43.0,21.5
+4,2023-04-24,white_g,,,,,,,Educationdirectory.org,,2,3,1.0,1.0,30.0,30.0
+4,2023-04-24,white_g,,,SUP0104,,,,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-25,,,,,,,,Digital Media Solutions,,4758,4,1.0,1.0,19.0,19.0
+4,2023-04-25,Purdue Global,,,,,,,Educationdirectory.org,,1,5,3.0,0.0,94.0,31.333333
+4,2023-04-25,white_g,,,,,,,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-26,,,,,,,,Digital Media Solutions,,4122,2,0.0,0.0,0.0,
+4,2023-04-26,edp,,,,,,,Educationdirectory.org,,2,6,0.0,0.0,0.0,
+4,2023-04-26,Purdue Global,,,,,,,Educationdirectory.org,,2,6,0.0,0.0,0.0,
+4,2023-04-26,white_g,,,,,,,Educationdirectory.org,,1,4,2.0,1.0,43.0,21.5
+4,2023-04-26,white_g,,,SUP0101,,651015491880,,Educationdirectory.org,,1,1,,,0.0,
+4,2023-04-26,white_g,,,SUP0104,,,,Educationdirectory.org,,2,1,1.0,0.0,12.0,12.0
+5,2023-05-11,white_g,,,SUP0104,,grant1,,Educationdirectory.org,,1,2,1.0,1.0,11.0,11.0
+5,2023-05-11,white_g,,,SUP0109,,,,Educationdirectory.org,,1,1,,,0.0,
+5,2023-05-12,,,,,,,,Digital Media Solutions,,3410,3,1.0,2.0,19.0,19.0
+5,2023-05-12,edp,,,,,,,Educationdirectory.org,,1,6,3.0,0.0,92.0,30.666667
+5,2023-05-12,white_g,,,,,,,Educationdirectory.org,,2,6,3.0,0.0,104.0,34.666667
+5,2023-05-12,white_g,,,SUP0104,,grant1,,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-12,white_g,,,SUP0109,,374219,,Educationdirectory.org,,1,2,1.0,0.0,26.0,26.0
+5,2023-05-13,,,,,,,,Digital Media Solutions,,3245,4,0.0,2.0,0.0,
+5,2023-05-14,,,,,,,,Digital Media Solutions,,3130,3,1.0,3.0,19.0,19.0
+5,2023-05-14,white_g,,,SUP0101,,649118698063,,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+5,2023-05-15,,,,,,,,Digital Media Solutions,,3805,5,0.0,3.0,0.0,
+5,2023-05-15,edp,,,,,,,Educationdirectory.org,,2,9,2.0,1.0,46.0,23.0
+5,2023-05-15,white_g,,,,,,,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+5,2023-05-24,,,,,,,,Digital Media Solutions,,4174,5,1.0,3.0,19.0,19.0
+5,2023-05-24,edu,,,,,,,Educationdirectory.org,,8,0,,,0.0,
+5,2023-05-24,white_g,,,SUP0104,,grant2,,Educationdirectory.org,,2,0,,,0.0,
+5,2023-05-24,white_g,,,SUP0109,,374219,,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-25,,,,,,,,Digital Media Solutions,,4085,4,0.0,1.0,0.0,
+5,2023-05-25,edu,,,,,,,Educationdirectory.org,,13,1,0.0,0.0,0.0,
+5,2023-05-25,white_g,,,,,,,Educationdirectory.org,,2,4,4.0,0.0,98.0,24.5
+5,2023-05-26,,,,,,,,Digital Media Solutions,,3638,5,0.0,4.0,0.0,
+5,2023-05-26,edp,,,,,,,Educationdirectory.org,,1,6,2.0,0.0,35.0,17.5
+5,2023-05-26,edu,,,,,,,Educationdirectory.org,,14,0,,,0.0,
+5,2023-05-26,white_g,,,,,,,Educationdirectory.org,,3,1,1.0,0.0,19.0,19.0
+5,2023-05-03,white_g,,,,,,,Educationdirectory.org,,2,2,2.0,0.0,52.0,26.0
+5,2023-05-04,,,,,,,,Digital Media Solutions,,3637,7,2.0,8.0,38.0,19.0
+5,2023-05-04,white_g,,,,,,,Educationdirectory.org,,1,4,0.0,0.0,0.0,
+5,2023-05-04,white_g,,,SUP0104,,grant1,,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-05,,,,,,,,Digital Media Solutions,,3273,7,0.0,6.0,0.0,
+5,2023-05-06,,,,,,,,Digital Media Solutions,,3221,7,0.0,4.0,0.0,
+5,2023-05-06,white_g,,,,,,,Educationdirectory.org,,2,1,1.0,0.0,30.0,30.0
+5,2023-05-06,white_g,,,SUP0104,,grant1,,Educationdirectory.org,,2,2,0.0,2.0,0.0,
+5,2023-05-07,,,,,,,,Digital Media Solutions,,3146,5,2.0,2.0,45.0,22.5
+5,2023-05-07,white_g,,,,,,,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-07,white_g,,,SUP0104,,grant1,,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-20,,,,,,,,Digital Media Solutions,,4707,4,1.0,0.0,19.0,19.0
+4,2023-04-20,white_g,,,,,,,Educationdirectory.org,,4,6,2.0,1.0,36.0,18.0
+4,2023-04-20,white_g,,,SUP0101,,624999155488,,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-20,white_g,,,SUP0104,,,,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+4,2023-04-21,,,,,,,,Digital Media Solutions,,3742,3,0.0,1.0,0.0,
+4,2023-04-21,white_g,,,,,,,Educationdirectory.org,,2,1,0.0,0.0,0.0,
+4,2023-04-21,white_g,,,SUP0101,,650931252223,,Educationdirectory.org,,1,2,2.0,0.0,43.0,21.5
+4,2023-04-21,white_g,,,SUP0104,,,,Educationdirectory.org,,1,2,2.0,0.0,54.0,27.0
+4,2023-04-22,,,,,,,,Digital Media Solutions,,3575,3,1.0,1.0,19.0,19.0
+4,2023-04-22,Purdue Global,,,,,,,Educationdirectory.org,,3,3,0.0,0.0,0.0,
+4,2023-04-22,white_g,,,,,,,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+4,2023-04-22,white_g,,,SUP0104,,,,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-23,,,,,,,,Digital Media Solutions,,3221,3,1.0,2.0,19.0,19.0
+4,2023-04-23,Purdue Global,,,,,,,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+4,2023-04-30,white_g,,,,,,,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-01,,,,,,,,Digital Media Solutions,,4633,8,6.0,8.0,122.0,20.333333
+5,2023-05-01,edp,,,SUP0111,,creative1e,,Educationdirectory.org,,1,5,3.0,0.0,76.0,25.333333
+5,2023-05-01,edp,,,SUP0111,education,creative1e,,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-01,Purdue Global,,,SUP0111,edu_grant,creative1g,,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+5,2023-05-01,Purdue Global,,,SUP0111,education,creative1e,,Educationdirectory.org,,2,2,1.0,0.0,40.0,40.0
+5,2023-05-01,white_g,,,,,,,Educationdirectory.org,,1,11,0.0,0.0,0.0,
+5,2023-05-01,white_g,,,SUP0104,,grant1,,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-01,white_g,,,SUP0111,,creative1g,,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+5,2023-05-01,white_g,,,SUP0111,edu_grant,creative1g,,Educationdirectory.org,,16,13,18.0,4.0,386.0,21.444444
+5,2023-05-02,,,,,,,,Digital Media Solutions,,4796,8,7.0,5.0,133.0,19.0
+5,2023-05-02,edp,,,,,,,Educationdirectory.org,,1,2,1.0,0.0,13.0,13.0
+5,2023-05-02,edp,,,SUP0101,,624999155494,,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+5,2023-05-02,edp,,,SUP0111,education,creative1e,,Educationdirectory.org,,5,4,4.0,4.0,112.0,28.0
+5,2023-05-02,Purdue Global,,,SUP0111,edu_grant,creative1g,,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+5,2023-05-02,Purdue Global,,,SUP0111,education,creative1e,,Educationdirectory.org,,2,2,0.0,0.0,0.0,
+5,2023-05-02,white_g,,,SUP0111,edu_grant,creative1g,,Educationdirectory.org,,22,15,9.0,1.0,228.0,25.333333
+5,2023-05-03,,,,,,,,Digital Media Solutions,,4605,7,2.0,4.0,45.0,22.5
+4,2023-04-26,white_g,,Education,,,,,Educationdirectory.org,,7,7,5.0,3.0,115.0,23.0
+4,2023-04-27,white_g,,Education,,,,,Educationdirectory.org,,10,7,3.0,0.0,68.0,22.666667
+4,2023-04-27,edp,,Grants,,,,,Educationdirectory.org,,2,4,3.0,2.0,78.0,26.0
+4,2023-04-26,edp,,Grants,,,,,Educationdirectory.org,,18,14,11.0,3.0,197.0,17.909091
+4,2023-04-23,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,220,16,26.0,2.0,452.0,17.384615
+4,2023-04-24,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,193,11,39.0,5.0,657.0,16.846154
+4,2023-04-25,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,163,12,32.0,1.0,556.0,17.375
+4,2023-04-26,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,122,8,24.0,4.0,369.0,15.375
+4,2023-04-16,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,210,38,95.0,14.0,2421.0,25.484211
+4,2023-04-17,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,184,24,94.0,17.0,2254.0,23.978723
+4,2023-04-18,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,219,18,99.0,10.0,2384.0,24.080808
+4,2023-04-19,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,162,11,88.0,11.0,2113.0,24.011364
+4,2023-04-20,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,197,13,68.0,20.0,1765.0,25.955882
+4,2023-04-21,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,183,13,43.0,2.0,832.0,19.348837
+4,2023-04-22,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,217,10,32.0,4.0,569.0,17.78125
+5,2023-05-25,white_g,connexusdigital,,SUP0104,job_grant,,,Educationdirectory.org,,4,0,,,0.0,
+5,2023-05-24,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,21,10,11.0,3.0,298.0,27.090909
+5,2023-05-25,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,10,11,11.0,1.0,296.0,26.909091
+5,2023-05-25,white_g,Email,,SUP0109,edu_grant,376908,,Educationdirectory.org,,2,1,0.0,0.0,0.0,
+5,2023-05-26,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,10,6,1.0,0.0,7.0,7.0
+5,2023-05-26,white_g,Email,,SUP0109,edu_grant,376908,,Educationdirectory.org,,5,3,0.0,1.0,0.0,
+4,2023-04-24,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,1,5,0.0,1.0,0.0,
+4,2023-04-25,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,3,4,0.0,1.0,0.0,
+4,2023-04-25,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,3,8,3.0,0.0,76.0,25.333333
+4,2023-04-26,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,4,7,2.0,1.0,46.0,23.0
+5,2023-05-08,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,5,9,4.0,0.0,100.0,25.0
+5,2023-05-09,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,2,2,2.0,0.0,43.0,21.5
+5,2023-05-09,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,121,28,79.0,13.0,1903.0,24.088608
+5,2023-05-10,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,17,15,15.0,0.0,378.0,25.2
+5,2023-05-11,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,3,2,1.0,2.0,13.0,13.0
+5,2023-05-27,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,26,9,13.0,0.0,235.0,18.076923
+5,2023-05-28,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,25,8,12.0,0.0,247.0,20.583333
+5,2023-05-29,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,27,8,15.0,6.0,376.0,25.066667
+5,2023-05-30,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,7,5,6.0,0.0,118.0,19.666667
+5,2023-05-20,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,31,13,24.0,3.0,581.0,24.208333
+5,2023-05-20,white_g,Email,,SUP0109,edu_grant,376908,,Educationdirectory.org,,3,3,3.0,1.0,89.0,29.666667
+5,2023-05-21,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,26,11,11.0,10.0,260.0,23.636364
+5,2023-05-22,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,21,12,19.0,4.0,485.0,25.526316
+5,2023-05-22,white_g,Email,,SUP0109,edu_grant,376908,,Educationdirectory.org,,6,4,3.0,0.0,82.0,27.333333
+5,2023-05-23,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,12,10,9.0,1.0,218.0,24.222222
+5,2023-05-23,white_g,Email,,SUP0109,edu_grant,376908,,Educationdirectory.org,,6,3,2.0,0.0,60.0,30.0
+4,2023-04-27,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,2,4,0.0,0.0,0.0,
+4,2023-04-29,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+4,2023-04-30,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,1,1,1.0,0.0,7.0,7.0
+5,2023-05-16,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,23,16,15.0,4.0,401.0,26.733333
+5,2023-05-17,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,8,6,7.0,1.0,130.0,18.571429
+5,2023-05-18,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,12,14,10.0,2.0,217.0,21.7
+5,2023-05-19,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,9,11,5.0,0.0,144.0,28.8
+5,2023-05-19,white_g,Email,,SUP0109,edu_grant,376908,,Educationdirectory.org,,20,14,21.0,2.0,485.0,23.095238
+4,2023-04-20,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,1,1,,,0.0,
+4,2023-04-20,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,5,3,4.0,2.0,102.0,25.5
+4,2023-04-21,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,3,4,3.0,0.0,76.0,25.333333
+4,2023-04-16,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+4,2023-04-16,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,5,7,7.0,0.0,196.0,28.0
+4,2023-04-17,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,7,13,4.0,2.0,86.0,21.5
+4,2023-04-18,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,3,8,3.0,2.0,49.0,16.333333
+4,2023-04-19,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,3,12,3.0,1.0,60.0,20.0
+5,2023-05-11,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,155,36,127.0,34.0,3152.0,24.818898
+5,2023-05-12,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,3,1,0.0,1.0,0.0,
+5,2023-05-12,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,38,17,32.0,10.0,869.0,27.15625
+5,2023-05-13,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,8,10,12.0,0.0,274.0,22.833333
+5,2023-05-14,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,9,6,14.0,1.0,368.0,26.285714
+5,2023-05-15,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,19,12,7.0,6.0,169.0,24.142857
+5,2023-05-05,Purdue Global,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,4,1,0.0,1.0,0.0,
+5,2023-05-05,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,1,4,3.0,0.0,76.0,25.333333
+5,2023-05-06,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,2,2,0.0,0.0,0.0,
+5,2023-05-07,white_g,Email,,SUP0109,edu_grant,374219,,Educationdirectory.org,,2,9,1.0,0.0,40.0,40.0
+4,2023-04-30,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,5,2,0.0,2.0,0.0,
+4,2023-04-30,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,3,0,,,0.0,
+4,2023-04-30,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,1,1.0,0.0,22.0,22.0
+4,2023-04-30,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,6,1,0.0,0.0,0.0,
+4,2023-04-30,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,6,2,2.0,0.0,62.0,31.0
+4,2023-04-30,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,30,7,13.0,3.0,322.0,24.769231
+4,2023-04-30,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,17,4,7.0,0.0,161.0,23.0
+4,2023-04-30,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,15,5,7.0,1.0,151.0,21.571429
+4,2023-04-30,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,31,8,7.0,3.0,151.0,21.571429
+4,2023-04-30,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,26,4,9.0,2.0,174.0,19.333333
+4,2023-04-30,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,43,10,26.0,2.0,589.0,22.653846
+5,2023-05-01,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,3,3,2.0,0.0,20.0,10.0
+5,2023-05-01,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+5,2023-05-01,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-01,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,5,4,2.0,1.0,46.0,23.0
+5,2023-05-01,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,1,1.0,0.0,24.0,24.0
+5,2023-05-01,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,2,1.0,1.0,13.0,13.0
+5,2023-05-01,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,2,6,0.0,2.0,0.0,
+5,2023-05-01,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,69,21,51.0,18.0,1288.0,25.254902
+5,2023-05-01,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,22,10,13.0,0.0,267.0,20.538462
+5,2023-05-01,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,14,14,10.0,2.0,199.0,19.9
+5,2023-05-01,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,56,23,42.0,11.0,1007.0,23.97619
+5,2023-05-01,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,33,20,23.0,3.0,607.0,26.391304
+5,2023-05-01,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,44,24,30.0,3.0,772.0,25.733333
+5,2023-05-02,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+5,2023-05-02,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-02,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-02,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-02,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,3,6,4.0,0.0,124.0,31.0
+5,2023-05-02,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,6,9,3.0,0.0,94.0,31.333333
+5,2023-05-02,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+5,2023-05-02,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,9,11,11.0,3.0,289.0,26.272727
+5,2023-05-02,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,3,5,2.0,0.0,56.0,28.0
+5,2023-05-02,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+4,2023-04-23,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,2,1.0,1.0,40.0,40.0
+4,2023-04-23,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+4,2023-04-23,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,2,1.0,1.0,24.0,24.0
+4,2023-04-23,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+4,2023-04-23,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,72,18,51.0,10.0,1252.0,24.54902
+4,2023-04-23,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,17,12,12.0,5.0,279.0,23.25
+4,2023-04-23,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,6,9,0.0,0.0,0.0,
+4,2023-04-23,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,64,20,42.0,8.0,1013.0,24.119048
+4,2023-04-23,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,38,17,30.0,7.0,775.0,25.833333
+4,2023-04-23,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,77,20,59.0,17.0,1584.0,26.847458
+4,2023-04-24,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,7,5,3.0,1.0,76.0,25.333333
+4,2023-04-24,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+4,2023-04-24,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,1,0.0,2.0,0.0,
+4,2023-04-24,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+4,2023-04-24,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,5,3,4.0,2.0,79.0,19.75
+4,2023-04-24,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,6,5,1.0,3.0,22.0,22.0
+4,2023-04-24,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-24,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,4,1,0.0,1.0,0.0,
+4,2023-04-24,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,6,3,1.0,6.0,24.0,24.0
+4,2023-04-24,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,122,19,64.0,20.0,1480.0,23.125
+4,2023-04-24,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,33,16,24.0,4.0,580.0,24.166667
+4,2023-04-24,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,3,6,3.0,0.0,87.0,29.0
+4,2023-04-24,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,83,20,55.0,17.0,1303.0,23.690909
+4,2023-04-24,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,40,17,29.0,15.0,703.0,24.241379
+4,2023-04-24,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,82,19,53.0,18.0,1260.0,23.773585
+4,2023-04-25,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-25,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,2,5,3.0,0.0,101.0,33.666667
+4,2023-04-25,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,8,1.0,1.0,30.0,30.0
+4,2023-04-25,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,4,2.0,2.0,60.0,30.0
+4,2023-04-25,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,8,6,3.0,1.0,95.0,31.666667
+4,2023-04-25,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,7,3,2.0,3.0,46.0,23.0
+4,2023-04-25,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,2,1,0.0,0.0,0.0,
+4,2023-04-25,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,2,0.0,2.0,0.0,
+4,2023-04-25,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,2,1.0,0.0,30.0,30.0
+4,2023-04-25,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,9,5,4.0,3.0,78.0,19.5
+4,2023-04-25,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,127,28,78.0,15.0,2024.0,25.948718
+4,2023-04-25,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,37,14,17.0,2.0,435.0,25.588235
+4,2023-04-25,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,7,12,7.0,0.0,152.0,21.714286
+4,2023-04-25,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,90,25,42.0,10.0,891.0,21.214286
+4,2023-04-25,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,44,14,20.0,3.0,473.0,23.65
+4,2023-04-25,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,102,23,69.0,18.0,1627.0,23.57971
+4,2023-04-26,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,6,0.0,0.0,0.0,
+4,2023-04-26,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,3,3,0.0,2.0,0.0,
+4,2023-04-26,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,5,2,4.0,0.0,115.0,28.75
+4,2023-04-26,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,5,7,4.0,1.0,110.0,27.5
+4,2023-04-26,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-26,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-26,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,9,7,6.0,3.0,133.0,22.166667
+4,2023-04-26,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,2,4,0.0,4.0,0.0,
+4,2023-04-26,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,8,7,4.0,2.0,98.0,24.5
+4,2023-04-26,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,3,3,1.0,0.0,13.0,13.0
+4,2023-04-26,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,2,0.0,2.0,0.0,
+4,2023-04-26,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,86,20,59.0,15.0,1557.0,26.389831
+4,2023-04-26,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,58,21,28.0,11.0,712.0,25.428571
+4,2023-04-26,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,25,12,17.0,7.0,459.0,27.0
+4,2023-04-26,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,109,26,59.0,24.0,1451.0,24.59322
+4,2023-04-26,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,45,14,28.0,8.0,630.0,22.5
+4,2023-04-26,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,58,21,40.0,6.0,934.0,23.35
+4,2023-04-27,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+4,2023-04-27,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,3,1,1.0,0.0,30.0,30.0
+4,2023-04-27,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+4,2023-04-27,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,6,4,1.0,0.0,30.0,30.0
+4,2023-04-27,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-27,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,4,0.0,0.0,0.0,
+4,2023-04-27,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,3,5,6.0,1.0,118.0,19.666667
+4,2023-04-27,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,3,1.0,1.0,7.0,7.0
+4,2023-04-27,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-27,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,91,23,41.0,14.0,1086.0,26.487805
+4,2023-04-27,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,37,14,21.0,10.0,536.0,25.52381
+4,2023-04-27,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,29,11,18.0,4.0,460.0,25.555556
+4,2023-04-27,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,66,19,31.0,12.0,765.0,24.677419
+4,2023-04-27,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,38,16,35.0,10.0,890.0,25.428571
+4,2023-04-27,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,48,16,39.0,8.0,997.0,25.564103
+4,2023-04-28,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,3,2.0,0.0,46.0,23.0
+4,2023-04-28,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,3,3,4.0,0.0,106.0,26.5
+4,2023-04-28,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,1,1.0,0.0,8.0,8.0
+4,2023-04-28,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,3,3,0.0,0.0,0.0,
+4,2023-04-28,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,4,1,1.0,0.0,7.0,7.0
+4,2023-04-28,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-28,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,7,3,0.0,2.0,0.0,
+4,2023-04-28,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,2,2.0,0.0,29.0,14.5
+4,2023-04-28,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,7,4,3.0,1.0,68.0,22.666667
+4,2023-04-28,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,47,18,27.0,11.0,624.0,23.111111
+4,2023-04-28,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,16,11,11.0,1.0,231.0,21.0
+4,2023-04-28,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,25,16,16.0,5.0,389.0,24.3125
+4,2023-04-28,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,70,22,42.0,11.0,919.0,21.880952
+4,2023-04-28,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,42,15,29.0,8.0,595.0,20.517241
+4,2023-04-28,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,58,15,48.0,7.0,1020.0,21.25
+4,2023-04-29,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,2,2.0,0.0,31.0,15.5
+4,2023-04-29,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+4,2023-04-29,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+4,2023-04-29,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,2,0,,,0.0,
+4,2023-04-29,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,10,4,3.0,0.0,51.0,17.0
+4,2023-04-29,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+4,2023-04-29,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,2,2,2.0,0.0,62.0,31.0
+4,2023-04-29,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,7,0,,,0.0,
+4,2023-04-29,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,1,1.0,0.0,22.0,22.0
+4,2023-04-29,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,11,3,4.0,0.0,75.0,18.75
+4,2023-04-29,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,46,13,17.0,2.0,406.0,23.882353
+4,2023-04-29,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,24,12,14.0,2.0,306.0,21.857143
+4,2023-04-29,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,5,6,3.0,0.0,72.0,24.0
+4,2023-04-29,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,53,9,30.0,2.0,616.0,20.533333
+4,2023-04-29,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,19,7,7.0,1.0,179.0,25.571429
+4,2023-04-29,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,53,10,15.0,1.0,329.0,21.933333
+4,2023-04-30,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,2,2.0,0.0,47.0,23.5
+4,2023-04-30,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,0,,,0.0,
+4,2023-04-30,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,0,,,0.0,
+4,2023-04-30,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-15,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+4,2023-04-19,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,36,14,24.0,5.0,564.0,23.5
+4,2023-04-19,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,75,26,47.0,11.0,1070.0,22.765957
+4,2023-04-20,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+4,2023-04-20,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,3,2,1.0,0.0,30.0,30.0
+4,2023-04-20,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,3,2.0,2.0,46.0,23.0
+4,2023-04-20,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,4,0.0,0.0,0.0,
+4,2023-04-20,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+4,2023-04-20,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,4,1,0.0,1.0,0.0,
+4,2023-04-20,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,3,4,2.0,1.0,21.0,10.5
+4,2023-04-20,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,2,4,0.0,1.0,0.0,
+4,2023-04-20,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,9,5,5.0,4.0,78.0,15.6
+4,2023-04-20,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,2,2.0,0.0,46.0,23.0
+4,2023-04-20,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,3,4,3.0,1.0,66.0,22.0
+4,2023-04-20,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,66,28,68.0,14.0,1673.0,24.602941
+4,2023-04-20,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,41,17,28.0,4.0,683.0,24.392857
+4,2023-04-20,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,29,14,18.0,6.0,465.0,25.833333
+4,2023-04-20,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,71,23,60.0,17.0,1446.0,24.1
+4,2023-04-20,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,52,22,30.0,5.0,813.0,27.1
+4,2023-04-20,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,72,19,48.0,13.0,1070.0,22.291667
+4,2023-04-21,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,3,2.0,1.0,56.0,28.0
+4,2023-04-21,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-21,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,5,0.0,0.0,0.0,
+4,2023-04-21,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,2,3,2.0,0.0,47.0,23.5
+4,2023-04-21,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,3,4,2.0,3.0,52.0,26.0
+4,2023-04-21,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,2,2.0,0.0,54.0,27.0
+4,2023-04-21,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,3,4,2.0,3.0,29.0,14.5
+4,2023-04-21,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,1,,,0.0,
+4,2023-04-21,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,2,2,1.0,0.0,30.0,30.0
+4,2023-04-21,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,67,26,50.0,10.0,1212.0,24.24
+4,2023-04-21,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,17,16,13.0,3.0,292.0,22.461538
+4,2023-04-21,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,24,16,15.0,5.0,351.0,23.4
+4,2023-04-21,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,75,21,67.0,11.0,1631.0,24.343284
+4,2023-04-21,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,45,16,33.0,7.0,829.0,25.121212
+4,2023-04-21,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,73,18,42.0,12.0,1120.0,26.666667
+4,2023-04-22,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,3,1.0,2.0,25.0,25.0
+4,2023-04-22,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,3,1,1.0,0.0,30.0,30.0
+4,2023-04-22,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+4,2023-04-22,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,1,,,0.0,
+4,2023-04-22,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+4,2023-04-22,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,3,2.0,1.0,54.0,27.0
+4,2023-04-22,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,4,4,3.0,1.0,63.0,21.0
+4,2023-04-22,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,70,22,47.0,9.0,1232.0,26.212766
+4,2023-04-22,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,26,13,21.0,4.0,513.0,24.428571
+4,2023-04-22,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,23,11,12.0,3.0,347.0,28.916667
+4,2023-04-22,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,47,15,34.0,6.0,912.0,26.823529
+4,2023-04-22,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,34,16,24.0,3.0,578.0,24.083333
+4,2023-04-22,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,56,17,37.0,18.0,979.0,26.459459
+4,2023-04-23,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+4,2023-04-23,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+4,2023-04-23,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,1,1.0,0.0,30.0,30.0
+4,2023-04-23,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,2,1,0.0,0.0,0.0,
+4,2023-04-23,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,4,3,2.0,0.0,54.0,27.0
+4,2023-04-23,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,2,2.0,0.0,46.0,23.0
+4,2023-04-16,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,5,4,5.0,2.0,140.0,28.0
+4,2023-04-16,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,1,,,0.0,
+4,2023-04-16,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,3,5,6.0,0.0,134.0,22.333333
+4,2023-04-16,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,6,7,1.0,0.0,30.0,30.0
+4,2023-04-16,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,8,4,3.0,6.0,69.0,23.0
+4,2023-04-16,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,3,3,0.0,2.0,0.0,
+4,2023-04-16,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-16,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,5,2,2.0,0.0,70.0,35.0
+4,2023-04-16,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,2,5,4.0,2.0,108.0,27.0
+4,2023-04-16,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,63,20,45.0,11.0,1151.0,25.577778
+4,2023-04-16,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,43,16,31.0,1.0,838.0,27.032258
+4,2023-04-16,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,23,14,12.0,5.0,284.0,23.666667
+4,2023-04-16,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,81,21,59.0,15.0,1646.0,27.898305
+4,2023-04-16,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,49,18,24.0,4.0,701.0,29.208333
+4,2023-04-16,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,33,13,21.0,7.0,648.0,30.857143
+4,2023-04-17,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+4,2023-04-17,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+4,2023-04-17,edp,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+4,2023-04-17,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+4,2023-04-17,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,2,1.0,1.0,14.0,14.0
+4,2023-04-17,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+4,2023-04-17,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+4,2023-04-17,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,4,1.0,3.0,9.0,9.0
+4,2023-04-17,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,3,6,0.0,0.0,0.0,
+4,2023-04-17,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,4,3,0.0,1.0,0.0,
+4,2023-04-17,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,86,26,73.0,15.0,1878.0,25.726027
+4,2023-04-17,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,28,18,35.0,11.0,832.0,23.771429
+4,2023-04-17,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,30,15,22.0,6.0,613.0,27.863636
+4,2023-04-17,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,63,21,48.0,17.0,1240.0,25.833333
+4,2023-04-17,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,53,20,36.0,7.0,964.0,26.777778
+4,2023-04-17,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,83,27,44.0,7.0,1158.0,26.318182
+4,2023-04-18,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,7,2.0,1.0,44.0,22.0
+4,2023-04-18,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,5,14,3.0,0.0,48.0,16.0
+4,2023-04-18,edp,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+4,2023-04-18,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-18,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,7,2.0,1.0,64.0,32.0
+4,2023-04-18,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,3,4,5.0,1.0,89.0,17.8
+4,2023-04-18,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,4,2,2.0,1.0,39.0,19.5
+4,2023-04-18,Purdue Global,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,2,4,2.0,2.0,62.0,31.0
+4,2023-04-18,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,3,5,3.0,0.0,76.0,25.333333
+4,2023-04-18,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,4,2.0,1.0,46.0,23.0
+4,2023-04-18,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,5,5,4.0,2.0,68.0,17.0
+4,2023-04-18,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,76,25,61.0,8.0,1701.0,27.885246
+4,2023-04-18,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,46,20,30.0,5.0,760.0,25.333333
+4,2023-04-18,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,33,21,25.0,5.0,598.0,23.92
+4,2023-04-18,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,67,27,42.0,4.0,1188.0,28.285714
+4,2023-04-18,white_g,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,33,18,16.0,4.0,428.0,26.75
+4,2023-04-18,white_g,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,52,22,44.0,5.0,1074.0,24.409091
+4,2023-04-19,edp,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,3,0.0,0.0,0.0,
+4,2023-04-19,edp,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,2,2,1.0,2.0,10.0,10.0
+4,2023-04-19,edp,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,2,2.0,0.0,55.0,27.5
+4,2023-04-19,edp,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,3,3,3.0,1.0,76.0,25.333333
+4,2023-04-19,Purdue Global,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,4,5,3.0,0.0,76.0,25.333333
+4,2023-04-19,Purdue Global,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,3,1,0.0,1.0,0.0,
+4,2023-04-19,Purdue Global,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,1,1.0,0.0,21.0,21.0
+4,2023-04-19,Purdue Global,google,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,3,5,2.0,2.0,23.0,11.5
+4,2023-04-19,Purdue Global,google,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,3,1,,,0.0,
+4,2023-04-19,white_g,google,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,79,24,36.0,16.0,772.0,21.444444
+4,2023-04-19,white_g,google,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,30,22,18.0,4.0,431.0,23.944444
+4,2023-04-19,white_g,google,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,45,23,26.0,5.0,711.0,27.346154
+4,2023-04-19,white_g,google,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,80,24,50.0,7.0,1211.0,24.22
+4,2023-04-16,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,5,0.0,0.0,0.0,
+4,2023-04-16,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,6,7,1.0,0.0,23.0,23.0
+4,2023-04-16,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,1,,,0.0,
+4,2023-04-16,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,16,10,5.0,3.0,162.0,32.4
+4,2023-04-16,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,33,16,17.0,3.0,428.0,25.176471
+4,2023-04-17,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-17,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,3,9,3.0,0.0,56.0,18.666667
+4,2023-04-17,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,4,2.0,1.0,37.0,18.5
+4,2023-04-17,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,4,0.0,0.0,0.0,
+4,2023-04-17,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,27,13,23.0,4.0,493.0,21.434783
+4,2023-04-17,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,33,17,30.0,9.0,801.0,26.7
+4,2023-04-18,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+4,2023-04-18,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,3,0.0,0.0,0.0,
+4,2023-04-18,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,61,24,49.0,9.0,1250.0,25.510204
+4,2023-04-18,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,5,12,0.0,0.0,0.0,
+4,2023-04-19,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,2,1.0,2.0,6.0,6.0
+4,2023-04-23,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,3,4,3.0,3.0,58.0,19.333333
+4,2023-04-23,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,15,11,5.0,5.0,108.0,21.6
+4,2023-04-23,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,35,14,27.0,11.0,732.0,27.111111
+4,2023-04-24,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,2,2.0,0.0,52.0,26.0
+4,2023-04-24,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,33,16,16.0,6.0,415.0,25.9375
+4,2023-04-24,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,31,16,18.0,4.0,383.0,21.277778
+4,2023-04-25,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,5,6,0.0,0.0,0.0,
+4,2023-04-25,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,1,1.0,0.0,24.0,24.0
+4,2023-04-25,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-25,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,25,12,15.0,8.0,346.0,23.066667
+4,2023-04-25,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,17,11,13.0,8.0,351.0,27.0
+4,2023-04-26,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,4,0.0,0.0,0.0,
+4,2023-04-26,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,6,5,2.0,1.0,63.0,31.5
+4,2023-04-19,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,61,23,43.0,11.0,964.0,22.418605
+4,2023-04-19,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,6,10,11.0,2.0,281.0,25.545455
+4,2023-04-20,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,2,1.0,1.0,30.0,30.0
+4,2023-04-20,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,4,1.0,0.0,24.0,24.0
+4,2023-04-20,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,70,20,33.0,8.0,890.0,26.969697
+4,2023-04-20,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,2,7,2.0,1.0,52.0,26.0
+4,2023-04-21,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,4,4,4.0,1.0,54.0,13.5
+4,2023-04-21,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,75,22,44.0,23.0,1092.0,24.818182
+4,2023-04-21,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,2,7,3.0,0.0,79.0,26.333333
+4,2023-04-22,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,2,1.0,1.0,7.0,7.0
+4,2023-04-22,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,2,3,0.0,3.0,0.0,
+4,2023-04-22,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+4,2023-04-22,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+4,2023-04-22,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,78,22,52.0,14.0,1266.0,24.346154
+4,2023-04-22,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,10,6,4.0,1.0,99.0,24.75
+4,2023-04-23,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+4,2023-04-23,edp,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,3,3,1.0,3.0,8.0,8.0
+4,2023-04-26,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,55,16,29.0,8.0,696.0,24.0
+4,2023-04-26,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,3,5,4.0,1.0,84.0,21.0
+4,2023-04-27,edp,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,3,2.0,0.0,46.0,23.0
+4,2023-04-27,Purdue Global,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,4,4,2.0,4.0,31.0,15.5
+4,2023-04-27,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,55,19,38.0,8.0,850.0,22.368421
+4,2023-04-27,white_g,google,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,7,10,1.0,0.0,13.0,13.0
+4,2023-04-28,white_g,google,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,4,2.0,1.0,53.0,26.5
+4,2023-04-27,edp,google,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,2,7,0.0,0.0,0.0,
+4,2023-04-27,edp,google,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,4,8,3.0,0.0,77.0,25.666667
+4,2023-04-27,Purdue Global,google,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-16,edp,google,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,3,6,0.0,0.0,0.0,
+4,2023-04-16,edp,google,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,2,8,5.0,1.0,122.0,24.4
+4,2023-04-16,edp,google,18796324068,SUP0101,edu,648955918998,149079977409.0,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+4,2023-04-17,edp,google,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,7,12,8.0,0.0,172.0,21.5
+4,2023-04-17,edp,google,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-18,edp,google,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,9,12,2.0,0.0,22.0,11.0
+4,2023-04-18,edp,google,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,4,11,0.0,0.0,0.0,
+4,2023-04-18,edp,google,18796324068,SUP0101,edu,632560918681,148291378292.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-18,Purdue Global,google,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,1,6,0.0,0.0,0.0,
+4,2023-04-19,edp,google,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,7,9,6.0,1.0,172.0,28.666667
+4,2023-04-20,edp,google,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,15,18,4.0,3.0,103.0,25.75
+4,2023-04-20,edp,google,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,1,5,2.0,0.0,65.0,32.5
+4,2023-04-20,edp,google,18796324068,SUP0101,edu,648955918998,149079977409.0,Educationdirectory.org,,1,5,3.0,0.0,71.0,23.666667
+4,2023-04-20,Purdue Global,google,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,1,4,3.0,0.0,43.0,14.333333
+4,2023-04-21,edp,google,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,3,6,0.0,0.0,0.0,
+4,2023-04-21,edp,google,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,6,11,0.0,0.0,0.0,
+4,2023-04-22,edp,google,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,1,1,,,0.0,
+4,2023-04-22,edp,google,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,4,6,2.0,0.0,47.0,23.5
+4,2023-04-23,edp,google,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,5,6,0.0,0.0,0.0,
+4,2023-04-23,edp,google,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,3,6,0.0,0.0,0.0,
+4,2023-04-24,edp,google,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,11,9,4.0,2.0,98.0,24.5
+4,2023-04-24,edp,google,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,11,9,6.0,2.0,135.0,22.5
+4,2023-04-25,edp,google,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,2,6,0.0,0.0,0.0,
+4,2023-04-25,edp,google,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,10,12,4.0,1.0,101.0,25.25
+4,2023-04-26,edp,google,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,11,10,8.0,2.0,158.0,19.75
+4,2023-04-26,edp,google,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,3,8,4.0,1.0,70.0,17.5
+4,2023-04-26,edp,google,18796324068,SUP0101,edu,632560918684,148291378292.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+4,2023-04-24,white,google,19113255320,SUP0101,edu,640797622555,145155623460.0,Educationdirectory.org,,1,3,3.0,0.0,56.0,18.666667
+4,2023-04-25,edp,google,19113255320,SUP0101,edu,640797622558,145155623460.0,Educationdirectory.org,,3,1,,,0.0,
+4,2023-04-25,white,google,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,3,8,0.0,1.0,0.0,
+4,2023-04-25,white,google,19113255320,SUP0101,edu,640797622558,145155623460.0,Educationdirectory.org,,3,2,2.0,0.0,43.0,21.5
+5,2023-05-25,Purdue Global,google,19113255320,SUP0101,edu,640797622555,145155623460.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-20,white,google,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-17,white,google,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+4,2023-04-17,white,google,19113255320,SUP0101,edu,638753895299,142702195103.0,Educationdirectory.org,,2,3,3.0,0.0,76.0,25.333333
+4,2023-04-18,white,google,19113255320,SUP0101,edu,638753895302,142702195103.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+4,2023-04-19,edp,google,19113255320,SUP0101,edu,638753895302,142702195103.0,Educationdirectory.org,,1,4,0.0,0.0,0.0,
+4,2023-04-19,white,google,19113255320,SUP0101,edu,640797622558,145155623460.0,Educationdirectory.org,,2,0,,,0.0,
+4,2023-04-24,edp,google,19727330564,SUP0101,edu,649064479580,151937976888.0,Educationdirectory.org,,1,2,2.0,0.0,43.0,21.5
+4,2023-04-23,Purdue Global,google,19743484261,SUP0101,education,,147228770835.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+4,2023-04-24,edp,google,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,4,4,0.0,0.0,0.0,
+4,2023-04-25,edp,google,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+4,2023-04-25,edp,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,2,1,1.0,0.0,30.0,30.0
+4,2023-04-25,edp,google,19743484261,SUP0101,education,,147228770835.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+4,2023-04-26,edp,google,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,1,9,3.0,0.0,106.0,35.333333
+4,2023-04-26,edp,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,2,5,0.0,0.0,0.0,
+4,2023-04-26,edp,google,19743484261,SUP0101,education,,147228770835.0,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+4,2023-04-18,edp,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+4,2023-04-19,edp,google,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,2,5,3.0,1.0,71.0,23.666667
+4,2023-04-27,edp,google,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-27,edp,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,4,8,6.0,1.0,189.0,31.5
+4,2023-04-27,edp,google,19743484261,SUP0101,education,,147228770835.0,Educationdirectory.org,,4,7,5.0,2.0,109.0,21.8
+4,2023-04-27,Purdue Global,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,2,0,,,0.0,
+4,2023-04-28,edp,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,2,3,0.0,0.0,0.0,
+4,2023-04-28,edp,google,19743484261,SUP0101,education,,147228770835.0,Educationdirectory.org,,3,1,1.0,0.0,30.0,30.0
+4,2023-04-28,Purdue Global,google,19743484261,SUP0101,education,,147228770835.0,Educationdirectory.org,,4,4,0.0,0.0,0.0,
+4,2023-04-29,edp,google,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+4,2023-04-29,edp,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,8,6,4.0,0.0,102.0,25.5
+4,2023-04-29,edp,google,19743484261,SUP0101,education,,147228770835.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-29,Purdue Global,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+4,2023-04-30,edp,google,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,2,0,,,0.0,
+4,2023-04-30,edp,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,3,3,0.0,0.0,0.0,
+5,2023-05-11,edp,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,1,1,,,0.0,
+4,2023-04-30,Purdue Global,google,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-01,edp,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,5,8,3.0,1.0,53.0,17.666667
+5,2023-05-01,edp,google,19743484261,SUP0101,education,,147228770835.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-01,Purdue Global,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,1,1,1.0,0.0,11.0,11.0
+4,2023-04-20,edp,google,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,4,7,5.0,1.0,82.0,16.4
+4,2023-04-20,edp,google,19743484261,SUP0101,education,,147228770835.0,Educationdirectory.org,,1,4,0.0,0.0,0.0,
+4,2023-04-20,Purdue Global,google,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,3,3,0.0,3.0,0.0,
+4,2023-04-20,Purdue Global,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,1,7,0.0,0.0,0.0,
+4,2023-04-21,edp,google,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-21,edp,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,2,1,1.0,0.0,30.0,30.0
+4,2023-04-21,edp,google,19743484261,SUP0101,education,,147228770835.0,Educationdirectory.org,,2,0,,,0.0,
+4,2023-04-21,Purdue Global,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,2,2,0.0,0.0,0.0,
+4,2023-04-22,edp,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,2,0,,,0.0,
+4,2023-04-22,Purdue Global,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-23,edp,google,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+4,2023-04-23,edp,google,19743484261,SUP0101,education,,147228770835.0,Educationdirectory.org,,4,3,3.0,0.0,69.0,23.0
+4,2023-04-20,white,google,20003200744,SUP0101,edu,640797622558,146854527343.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-21,white,google,20003200744,SUP0101,edu,638684611645,146854527303.0,Educationdirectory.org,,1,2,0.0,2.0,0.0,
+4,2023-04-21,white,google,20003200744,SUP0101,edu,640797622555,146854527343.0,Educationdirectory.org,,1,3,2.0,0.0,35.0,17.5
+4,2023-04-19,white,google,20003200744,SUP0101,edu,640797622555,146854527343.0,Educationdirectory.org,,1,2,2.0,0.0,60.0,30.0
+4,2023-04-23,white,google,20003200744,SUP0101,edu,640797622555,146854527343.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+4,2023-04-24,white,google,20003200744,SUP0101,edu,638684611645,146854527303.0,Educationdirectory.org,,2,3,0.0,1.0,0.0,
+4,2023-04-25,white,google,20003200744,SUP0101,edu,638684611645,146854527303.0,Educationdirectory.org,,3,8,6.0,1.0,99.0,16.5
+4,2023-04-26,white,google,20003200744,SUP0101,edu,638684611645,146854527303.0,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+4,2023-04-27,edp,google,20003200744,SUP0101,edu,638753895299,146854527103.0,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+4,2023-04-27,white,google,20003200744,SUP0101,edu,638684611645,146854527303.0,Educationdirectory.org,,5,6,2.0,1.0,53.0,26.5
+4,2023-04-26,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,58,14,18.0,2.0,264.0,14.666667
+4,2023-04-27,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,175,27,57.0,4.0,1015.0,17.807018
+4,2023-04-28,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,182,20,53.0,3.0,849.0,16.018868
+4,2023-04-29,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,191,16,30.0,4.0,395.0,13.166667
+5,2023-05-20,white_g,Path,,SUP0104,job_grant,grant2,,Educationdirectory.org,,203,32,130.0,29.0,2332.0,17.938462
+5,2023-05-21,white_g,Path,,SUP0104,job_grant,grant2,,Educationdirectory.org,,193,25,89.0,22.0,1647.0,18.505618
+5,2023-05-22,white_g,Path,,SUP0104,job_grant,grant2,,Educationdirectory.org,,212,27,118.0,17.0,1935.0,16.398305
+5,2023-05-23,white_g,Path,,SUP0104,job_grant,grant2,,Educationdirectory.org,,202,31,133.0,27.0,2263.0,17.015038
+5,2023-05-03,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,169,32,116.0,36.0,1991.0,17.163793
+5,2023-05-04,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,179,30,91.0,36.0,1595.0,17.527473
+5,2023-05-05,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,118,25,61.0,28.0,1110.0,18.196721
+5,2023-05-06,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,192,25,112.0,37.0,2094.0,18.696429
+5,2023-05-07,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,206,30,143.0,50.0,2743.0,19.181818
+5,2023-05-08,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,152,31,91.0,33.0,1635.0,17.967033
+5,2023-05-09,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,133,27,82.0,32.0,1561.0,19.036585
+5,2023-05-10,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,136,26,68.0,25.0,1217.0,17.897059
+5,2023-05-16,white_g,Path,,SUP0104,job_grant,grant2,,Educationdirectory.org,,106,15,47.0,5.0,781.0,16.617021
+5,2023-05-17,white_g,Path,,SUP0104,job_grant,grant2,,Educationdirectory.org,,185,28,136.0,36.0,2559.0,18.816176
+5,2023-05-18,white_g,Path,,SUP0104,job_grant,grant2,,Educationdirectory.org,,185,27,80.0,29.0,1481.0,18.5125
+5,2023-05-19,white_g,Path,,SUP0104,job_grant,grant2,,Educationdirectory.org,,185,23,108.0,35.0,1922.0,17.796296
+4,2023-04-30,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,180,18,18.0,1.0,292.0,16.222222
+5,2023-05-01,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,190,30,133.0,26.0,2313.0,17.390977
+5,2023-05-02,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,185,34,110.0,37.0,2004.0,18.218182
+5,2023-05-24,white_g,Path,,SUP0104,job_grant,grant2,,Educationdirectory.org,,190,21,74.0,12.0,1156.0,15.621622
+5,2023-05-25,white_g,Path,,SUP0104,job_grant,grant2,,Educationdirectory.org,,64,13,34.0,13.0,673.0,19.794118
+5,2023-05-11,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,174,28,93.0,22.0,1630.0,17.526882
+5,2023-05-12,white_g,Path,,SUP0104,job_grant,grant1,,Educationdirectory.org,,93,19,45.0,16.0,895.0,19.888889
+5,2023-05-11,Purdue Global,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,5,2,3.0,1.0,73.0,24.333333
+5,2023-05-11,Purdue Global,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-11,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,51,17,39.0,8.0,980.0,25.128205
+5,2023-05-11,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,22,14,22.0,1.0,584.0,26.545455
+5,2023-05-11,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,10,10,9.0,0.0,233.0,25.888889
+5,2023-05-11,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,70,19,31.0,13.0,835.0,26.935484
+5,2023-05-11,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,35,14,25.0,7.0,591.0,23.64
+5,2023-05-11,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,22,15,16.0,5.0,504.0,31.5
+5,2023-05-12,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-12,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,4,2.0,1.0,37.0,18.5
+5,2023-05-12,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,3,1.0,2.0,30.0,30.0
+5,2023-05-12,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-12,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+5,2023-05-12,Purdue Global,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,2,2,1.0,1.0,13.0,13.0
+5,2023-05-12,Purdue Global,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+5,2023-05-12,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,46,20,29.0,10.0,698.0,24.068966
+5,2023-05-12,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,27,16,22.0,1.0,576.0,26.181818
+5,2023-05-12,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,15,12,13.0,7.0,333.0,25.615385
+5,2023-05-12,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,69,21,56.0,12.0,1485.0,26.517857
+5,2023-05-12,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,38,14,29.0,13.0,836.0,28.827586
+5,2023-05-12,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,15,13,8.0,2.0,158.0,19.75
+5,2023-05-12,white_g,search,17636347892,SUP0101,edu_grant,656942504284,145439391781.0,Educationdirectory.org,,2,2,1.0,0.0,40.0,40.0
+5,2023-05-13,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,4,3.0,0.0,76.0,25.333333
+5,2023-05-13,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,4,0.0,2.0,0.0,
+5,2023-05-13,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,2,6,2.0,0.0,61.0,30.5
+5,2023-05-13,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,51,18,33.0,10.0,844.0,25.575758
+5,2023-05-13,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,32,15,35.0,6.0,962.0,27.485714
+5,2023-05-13,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,6,6,5.0,0.0,114.0,22.8
+5,2023-05-13,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,52,20,33.0,13.0,819.0,24.818182
+5,2023-05-13,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,20,12,13.0,7.0,364.0,28.0
+5,2023-05-13,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,21,14,13.0,3.0,319.0,24.538462
+5,2023-05-14,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,1,1.0,0.0,11.0,11.0
+5,2023-05-14,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-14,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,44,14,17.0,8.0,388.0,22.823529
+5,2023-05-14,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,24,17,17.0,3.0,492.0,28.941176
+5,2023-05-14,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,35,12,17.0,12.0,452.0,26.588235
+5,2023-05-14,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,43,21,43.0,6.0,1224.0,28.465116
+5,2023-05-14,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,37,19,24.0,4.0,649.0,27.041667
+5,2023-05-14,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,7,9,5.0,0.0,118.0,23.6
+5,2023-05-14,white_g,search,17636347892,SUP0101,edu_grant,656942504284,145439391781.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-15,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,3,6,2.0,0.0,43.0,21.5
+5,2023-05-15,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,2,2,0.0,0.0,0.0,
+5,2023-05-15,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,3,1,1.0,1.0,30.0,30.0
+5,2023-05-15,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,5,1.0,0.0,22.0,22.0
+5,2023-05-15,Purdue Global,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-15,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,112,32,85.0,20.0,2184.0,25.694118
+5,2023-05-15,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,58,20,37.0,14.0,849.0,22.945946
+5,2023-05-15,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,27,10,6.0,2.0,138.0,23.0
+5,2023-05-15,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,91,26,43.0,26.0,1077.0,25.046512
+5,2023-05-07,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,40,19,22.0,4.0,585.0,26.590909
+5,2023-05-07,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,18,11,15.0,4.0,379.0,25.266667
+5,2023-05-07,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,19,8,14.0,1.0,356.0,25.428571
+5,2023-05-07,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,53,19,38.0,8.0,979.0,25.763158
+5,2023-05-07,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,21,11,13.0,3.0,352.0,27.076923
+5,2023-05-07,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,36,10,27.0,7.0,714.0,26.444444
+5,2023-05-08,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,5,0.0,0.0,0.0,
+5,2023-05-08,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,3,3.0,0.0,63.0,21.0
+5,2023-05-08,Purdue Global,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,3,0,,,0.0,
+5,2023-05-08,Purdue Global,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-08,Purdue Global,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-08,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,54,26,33.0,8.0,857.0,25.969697
+5,2023-05-08,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,35,15,16.0,2.0,422.0,26.375
+5,2023-05-08,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,13,14,10.0,1.0,222.0,22.2
+5,2023-05-08,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,41,15,24.0,6.0,569.0,23.708333
+5,2023-05-08,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,34,18,29.0,12.0,639.0,22.034483
+5,2023-05-08,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,16,15,16.0,0.0,414.0,25.875
+5,2023-05-09,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,6,4.0,2.0,89.0,22.25
+5,2023-05-09,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,4,2,2.0,0.0,52.0,26.0
+5,2023-05-09,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,4,2.0,0.0,46.0,23.0
+5,2023-05-09,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,7,3.0,0.0,94.0,31.333333
+5,2023-05-09,Purdue Global,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,6,1,1.0,1.0,30.0,30.0
+5,2023-05-09,Purdue Global,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,1,0.0,2.0,0.0,
+5,2023-05-09,Purdue Global,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,6,2,1.0,0.0,30.0,30.0
+5,2023-05-09,Purdue Global,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-09,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,82,26,43.0,10.0,1114.0,25.906977
+5,2023-05-09,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,29,14,21.0,7.0,573.0,27.285714
+5,2023-05-09,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,19,14,10.0,3.0,315.0,31.5
+5,2023-05-09,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,70,21,53.0,9.0,1382.0,26.075472
+5,2023-05-09,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,47,22,36.0,12.0,891.0,24.75
+5,2023-05-09,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,32,20,20.0,3.0,508.0,25.4
+5,2023-05-10,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,4,0.0,0.0,0.0,
+5,2023-05-10,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,3,1.0,2.0,24.0,24.0
+5,2023-05-10,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-10,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,4,4,4.0,0.0,106.0,26.5
+5,2023-05-10,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,4,3.0,0.0,69.0,23.0
+5,2023-05-10,Purdue Global,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,3,1,0.0,1.0,0.0,
+5,2023-05-10,Purdue Global,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,3,1,0.0,1.0,0.0,
+5,2023-05-10,Purdue Global,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-10,Purdue Global,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-10,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,75,24,56.0,12.0,1488.0,26.571429
+5,2023-05-10,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,39,18,26.0,11.0,674.0,25.923077
+5,2023-05-10,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,13,13,13.0,3.0,306.0,23.538462
+5,2023-05-10,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,69,25,52.0,10.0,1332.0,25.615385
+5,2023-05-10,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,41,17,25.0,9.0,605.0,24.2
+5,2023-05-10,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,37,19,30.0,10.0,756.0,25.2
+5,2023-05-10,white_g,search,17636347892,SUP0101,edu_grant,656942504284,145439391781.0,Educationdirectory.org,,3,4,2.0,1.0,54.0,27.0
+5,2023-05-11,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,6,5,3.0,1.0,51.0,17.0
+5,2023-05-11,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,5,3.0,0.0,94.0,31.333333
+5,2023-05-11,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,4,2.0,1.0,54.0,27.0
+5,2023-05-20,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,2,0,,,0.0,
+5,2023-05-20,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,4,4,3.0,2.0,72.0,24.0
+5,2023-05-20,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,55,21,53.0,11.0,1332.0,25.132075
+5,2023-05-20,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,38,11,28.0,2.0,707.0,25.25
+5,2023-05-20,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,30,17,17.0,4.0,428.0,25.176471
+5,2023-05-20,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,43,16,24.0,6.0,619.0,25.791667
+5,2023-05-20,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,32,17,17.0,3.0,389.0,22.882353
+5,2023-05-20,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,31,12,18.0,8.0,469.0,26.055556
+5,2023-05-21,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-21,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,4,7,2.0,1.0,50.0,25.0
+5,2023-05-21,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,79,16,32.0,5.0,857.0,26.78125
+5,2023-05-21,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,32,13,21.0,3.0,545.0,25.952381
+5,2023-05-21,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,14,10,10.0,3.0,286.0,28.6
+5,2023-05-21,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,68,13,35.0,9.0,931.0,26.6
+5,2023-05-21,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,54,18,24.0,4.0,606.0,25.25
+5,2023-05-21,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,41,15,16.0,4.0,428.0,26.75
+5,2023-05-22,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-22,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,3,5,1.0,1.0,22.0,22.0
+5,2023-05-22,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,3,3,1.0,0.0,30.0,30.0
+5,2023-05-22,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,3,0,,,0.0,
+5,2023-05-22,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,53,19,35.0,8.0,840.0,24.0
+5,2023-05-22,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,55,16,27.0,10.0,727.0,26.925926
+5,2023-05-22,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,35,14,19.0,6.0,481.0,25.315789
+5,2023-05-22,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,75,21,38.0,4.0,891.0,23.447368
+5,2023-05-22,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,51,16,25.0,8.0,530.0,21.2
+5,2023-05-22,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,68,23,38.0,9.0,857.0,22.552632
+5,2023-05-23,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,3,0,,,0.0,
+5,2023-05-23,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,4,2.0,0.0,49.0,24.5
+5,2023-05-23,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-23,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,36,16,24.0,5.0,531.0,22.125
+5,2023-05-23,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,31,11,15.0,9.0,349.0,23.266667
+5,2023-05-23,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,29,14,17.0,5.0,467.0,27.470588
+5,2023-05-23,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,52,20,37.0,7.0,883.0,23.864865
+5,2023-05-23,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,30,18,21.0,5.0,523.0,24.904762
+5,2023-05-23,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,29,11,17.0,2.0,445.0,26.176471
+5,2023-05-03,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,47,20,31.0,7.0,805.0,25.967742
+5,2023-05-03,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,21,16,15.0,5.0,454.0,30.266667
+5,2023-05-03,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,10,13,9.0,4.0,236.0,26.222222
+5,2023-05-03,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,43,20,25.0,5.0,696.0,27.84
+5,2023-05-03,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,37,23,29.0,6.0,787.0,27.137931
+5,2023-05-03,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,29,18,15.0,3.0,374.0,24.933333
+5,2023-05-04,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+5,2023-05-04,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-04,Purdue Global,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,2,1.0,2.0,13.0,13.0
+5,2023-05-04,Purdue Global,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+5,2023-05-04,Purdue Global,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,2,0,,,0.0,
+5,2023-05-04,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,50,22,29.0,8.0,708.0,24.413793
+5,2023-05-04,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,24,9,14.0,1.0,363.0,25.928571
+5,2023-05-04,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,8,11,8.0,0.0,188.0,23.5
+5,2023-05-04,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,50,24,38.0,6.0,952.0,25.052632
+5,2023-05-04,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,31,24,19.0,2.0,556.0,29.263158
+5,2023-05-04,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,24,22,15.0,1.0,414.0,27.6
+5,2023-05-05,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,1,,,0.0,
+5,2023-05-05,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,1,1.0,0.0,30.0,30.0
+5,2023-05-05,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,3,2.0,1.0,46.0,23.0
+5,2023-05-05,Purdue Global,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-05,Purdue Global,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-05,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,64,20,32.0,11.0,826.0,25.8125
+5,2023-05-05,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,25,16,9.0,2.0,240.0,26.666667
+5,2023-05-05,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,15,18,14.0,3.0,338.0,24.142857
+5,2023-05-05,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,61,23,29.0,15.0,832.0,28.689655
+5,2023-05-05,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,34,19,26.0,5.0,668.0,25.692308
+5,2023-05-05,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,15,16,15.0,3.0,438.0,29.2
+5,2023-05-06,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,4,2.0,1.0,55.0,27.5
+5,2023-05-06,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,1,1,,,0.0,
+5,2023-05-06,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,2,2.0,0.0,44.0,22.0
+5,2023-05-06,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,2,0.0,1.0,0.0,
+5,2023-05-06,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,1,,,0.0,
+5,2023-05-06,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,5,2.0,1.0,49.0,24.5
+5,2023-05-06,Purdue Global,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,5,1,0.0,2.0,0.0,
+5,2023-05-06,Purdue Global,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,5,2,2.0,2.0,43.0,21.5
+5,2023-05-06,Purdue Global,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+5,2023-05-06,Purdue Global,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,3,1,0.0,3.0,0.0,
+5,2023-05-06,Purdue Global,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,1,1.0,0.0,30.0,30.0
+5,2023-05-06,Purdue Global,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,3,3,1.0,1.0,0.0,0.0
+5,2023-05-06,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,65,20,41.0,16.0,1060.0,25.853659
+5,2023-05-06,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,24,13,16.0,4.0,453.0,28.3125
+5,2023-05-06,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,13,9,7.0,3.0,180.0,25.714286
+5,2023-05-06,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,34,13,31.0,5.0,816.0,26.322581
+5,2023-05-06,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,22,15,15.0,5.0,387.0,25.8
+5,2023-05-06,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,30,16,19.0,4.0,447.0,23.526316
+5,2023-05-07,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+5,2023-05-07,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,3,5,3.0,2.0,86.0,28.666667
+5,2023-05-07,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,2,1.0,1.0,30.0,30.0
+5,2023-05-07,Purdue Global,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+5,2023-05-07,Purdue Global,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+5,2023-05-07,Purdue Global,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-27,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-27,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,13,6,2.0,0.0,35.0,17.5
+5,2023-05-27,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,10,5,6.0,0.0,120.0,20.0
+5,2023-05-27,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,5,3,3.0,1.0,70.0,23.333333
+5,2023-05-27,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,19,6,11.0,0.0,244.0,22.181818
+5,2023-05-27,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,13,5,0.0,1.0,0.0,
+5,2023-05-27,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,17,8,6.0,1.0,103.0,17.166667
+5,2023-05-28,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-28,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,2,2.0,0.0,46.0,23.0
+5,2023-05-28,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,19,7,10.0,7.0,226.0,22.6
+5,2023-05-28,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,11,4,2.0,0.0,61.0,30.5
+5,2023-05-28,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,19,7,9.0,1.0,143.0,15.888889
+5,2023-05-28,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,29,13,16.0,2.0,351.0,21.9375
+5,2023-05-28,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,10,6,8.0,1.0,122.0,15.25
+5,2023-05-28,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,17,8,14.0,2.0,248.0,17.714286
+5,2023-05-29,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-29,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-29,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-29,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,16,9,9.0,1.0,245.0,27.222222
+5,2023-05-29,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,28,9,20.0,3.0,511.0,25.55
+5,2023-05-29,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,14,9,12.0,1.0,239.0,19.916667
+5,2023-05-29,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,23,10,14.0,0.0,319.0,22.785714
+5,2023-05-29,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,14,6,6.0,2.0,157.0,26.166667
+5,2023-05-29,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,19,10,11.0,6.0,284.0,25.818182
+5,2023-05-30,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,2,2.0,0.0,39.0,19.5
+5,2023-05-30,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-30,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-30,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,2,2.0,0.0,39.0,19.5
+5,2023-05-30,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,27,11,22.0,3.0,442.0,20.090909
+5,2023-05-30,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,19,8,8.0,2.0,131.0,16.375
+5,2023-05-30,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,2,2,1.0,0.0,20.0,20.0
+5,2023-05-30,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,20,12,27.0,1.0,554.0,20.518519
+5,2023-05-30,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,16,15,11.0,1.0,258.0,23.454545
+5,2023-05-30,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,12,12,12.0,2.0,233.0,19.416667
+5,2023-05-24,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-24,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+5,2023-05-24,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,37,12,13.0,7.0,302.0,23.230769
+5,2023-05-24,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,14,14,15.0,1.0,418.0,27.866667
+5,2023-05-24,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,22,11,14.0,2.0,302.0,21.571429
+5,2023-05-24,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,44,14,20.0,3.0,554.0,27.7
+5,2023-05-24,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,33,13,17.0,7.0,436.0,25.647059
+5,2023-05-24,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,30,11,21.0,3.0,563.0,26.809524
+5,2023-05-25,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,4,3.0,2.0,62.0,20.666667
+5,2023-05-25,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-25,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,44,15,22.0,5.0,510.0,23.181818
+5,2023-05-25,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,21,11,10.0,2.0,267.0,26.7
+5,2023-05-25,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,18,15,20.0,3.0,508.0,25.4
+5,2023-05-25,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,55,15,26.0,3.0,609.0,23.423077
+5,2023-05-25,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,34,15,15.0,1.0,339.0,22.6
+5,2023-05-25,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,25,13,10.0,3.0,202.0,20.2
+5,2023-05-26,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,2,0.0,0.0,0.0,
+5,2023-05-26,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-26,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,1,1.0,0.0,8.0,8.0
+5,2023-05-26,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,2,6,3.0,0.0,75.0,25.0
+5,2023-05-26,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,46,15,38.0,6.0,659.0,17.342105
+5,2023-05-26,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,12,4,3.0,1.0,30.0,10.0
+5,2023-05-26,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,14,6,9.0,9.0,172.0,19.111111
+5,2023-05-26,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,31,9,13.0,3.0,246.0,18.923077
+5,2023-05-26,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,21,13,18.0,3.0,313.0,17.388889
+5,2023-05-26,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,18,12,18.0,1.0,397.0,22.055556
+5,2023-05-15,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,49,19,36.0,13.0,978.0,27.166667
+5,2023-05-15,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,26,19,19.0,1.0,493.0,25.947368
+5,2023-05-16,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,3,3,2.0,1.0,54.0,27.0
+5,2023-05-16,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,3,0,,,0.0,
+5,2023-05-16,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,2,1,0.0,2.0,0.0,
+5,2023-05-16,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,2,2.0,0.0,52.0,26.0
+5,2023-05-16,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,2,1.0,0.0,30.0,30.0
+5,2023-05-16,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,78,27,43.0,12.0,1069.0,24.860465
+5,2023-05-16,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,30,20,25.0,3.0,643.0,25.72
+5,2023-05-16,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,24,15,12.0,2.0,298.0,24.833333
+5,2023-05-16,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,90,23,59.0,10.0,1470.0,24.915254
+5,2023-05-16,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,58,23,42.0,12.0,957.0,22.785714
+5,2023-05-16,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,33,20,22.0,3.0,580.0,26.363636
+5,2023-05-17,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,5,2.0,1.0,64.0,32.0
+5,2023-05-17,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,2,2,1.0,0.0,30.0,30.0
+5,2023-05-17,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,4,10,0.0,0.0,0.0,
+5,2023-05-17,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,3,4,2.0,0.0,45.0,22.5
+5,2023-05-17,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,100,26,43.0,9.0,1040.0,24.186047
+5,2023-05-17,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,62,20,55.0,11.0,1467.0,26.672727
+5,2023-05-17,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,31,16,21.0,7.0,457.0,21.761905
+5,2023-05-17,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,82,25,54.0,11.0,1277.0,23.648148
+5,2023-05-17,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,66,23,37.0,11.0,914.0,24.702703
+5,2023-05-17,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,41,21,30.0,9.0,750.0,25.0
+5,2023-05-17,white_g,search,17636347892,SUP0101,edu_grant,656942504284,145439391781.0,Educationdirectory.org,,3,5,3.0,0.0,66.0,22.0
+5,2023-05-18,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,2,1.0,1.0,30.0,30.0
+5,2023-05-18,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,2,5,3.0,0.0,71.0,23.666667
+5,2023-05-18,edp,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,3,1,1.0,1.0,30.0,30.0
+5,2023-05-18,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,4,3,4.0,1.0,107.0,26.75
+5,2023-05-18,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,2,2.0,0.0,43.0,21.5
+5,2023-05-18,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,55,20,38.0,8.0,1100.0,28.947368
+5,2023-05-18,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,29,14,13.0,4.0,380.0,29.230769
+5,2023-05-18,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,51,20,37.0,8.0,961.0,25.972973
+5,2023-05-18,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,72,21,38.0,6.0,958.0,25.210526
+5,2023-05-18,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,40,15,19.0,10.0,479.0,25.210526
+5,2023-05-18,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,68,24,41.0,12.0,1028.0,25.073171
+5,2023-05-19,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,1,,,0.0,
+5,2023-05-19,edp,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+5,2023-05-19,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,2,1,,,0.0,
+5,2023-05-19,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,72,19,35.0,10.0,835.0,23.857143
+5,2023-05-19,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,32,13,34.0,9.0,897.0,26.382353
+5,2023-05-19,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,24,12,12.0,4.0,344.0,28.666667
+5,2023-05-19,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,75,17,45.0,9.0,1143.0,25.4
+5,2023-05-19,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,34,17,20.0,3.0,580.0,29.0
+5,2023-05-19,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,77,20,34.0,9.0,963.0,28.323529
+5,2023-05-20,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,4,2,1.0,0.0,23.0,23.0
+5,2023-05-01,white_g,search,17636347892,SUP0101,edu_grant,656942504284,145439391781.0,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+5,2023-05-02,edp,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+5,2023-05-02,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,5,5,3.0,1.0,76.0,25.333333
+5,2023-05-02,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-02,edp,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+5,2023-05-02,Purdue Global,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,2,1,1.0,0.0,30.0,30.0
+5,2023-05-02,Purdue Global,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,3,0,,,0.0,
+5,2023-05-02,Purdue Global,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+5,2023-05-02,Purdue Global,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-02,white_g,search,17636347892,SUP0101,edu_grant,607713435568,141341628147.0,Educationdirectory.org,,58,19,42.0,13.0,992.0,23.619048
+5,2023-05-02,white_g,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,35,21,27.0,6.0,652.0,24.148148
+5,2023-05-02,white_g,search,17636347892,SUP0101,edu_grant,649118698063,149928081241.0,Educationdirectory.org,,7,11,4.0,2.0,138.0,34.5
+5,2023-05-02,white_g,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,61,32,50.0,14.0,1309.0,26.18
+5,2023-05-02,white_g,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,43,27,51.0,4.0,1361.0,26.686275
+5,2023-05-02,white_g,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,31,17,22.0,7.0,500.0,22.727273
+5,2023-05-03,edp,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,2,2,0.0,0.0,0.0,
+5,2023-05-03,edp,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,2,2,0.0,2.0,0.0,
+5,2023-05-03,Purdue Global,search,17636347892,SUP0101,edu_grant,620702930077,141341628187.0,Educationdirectory.org,,2,0,,,0.0,
+5,2023-05-03,Purdue Global,search,17636347892,SUP0101,edu_grant,650026762788,141341628147.0,Educationdirectory.org,,10,1,1.0,2.0,30.0,30.0
+5,2023-05-03,Purdue Global,search,17636347892,SUP0101,edu_grant,650931252223,141341628187.0,Educationdirectory.org,,4,2,0.0,1.0,0.0,
+5,2023-05-03,Purdue Global,search,17636347892,SUP0101,edu_grant,651015491880,149928081241.0,Educationdirectory.org,,2,0,,,0.0,
+5,2023-05-27,white_g,search,17688909278,SUP0101,edu_grant,608965270997,138308182973.0,Educationdirectory.org,,1,2,0.0,2.0,0.0,
+5,2023-05-27,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,3,3,2.0,1.0,49.0,24.5
+5,2023-05-27,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,50,11,19.0,2.0,344.0,18.105263
+5,2023-05-27,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,1,1.0,0.0,13.0,13.0
+5,2023-05-28,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,2,2.0,1.0,31.0,15.5
+5,2023-05-28,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,62,13,18.0,3.0,312.0,17.333333
+5,2023-05-29,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,3,1.0,0.0,30.0,30.0
+5,2023-05-29,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,48,13,24.0,8.0,600.0,25.0
+5,2023-05-29,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-03,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+5,2023-05-03,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,31,24,17.0,9.0,478.0,28.117647
+5,2023-05-03,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,31,17,25.0,5.0,647.0,25.88
+5,2023-05-04,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,3,5,1.0,1.0,13.0,13.0
+5,2023-05-04,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,2,4,2.0,1.0,46.0,23.0
+5,2023-05-04,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+5,2023-05-04,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,44,24,27.0,7.0,678.0,25.111111
+5,2023-05-04,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,21,15,19.0,4.0,484.0,25.473684
+5,2023-05-05,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,4,0.0,0.0,0.0,
+5,2023-05-05,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,3,0,,,0.0,
+5,2023-05-05,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-05,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,55,21,25.0,14.0,623.0,24.92
+5,2023-05-05,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,11,15,5.0,6.0,128.0,25.6
+5,2023-05-06,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,4,1.0,2.0,24.0,24.0
+5,2023-05-06,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+5,2023-05-06,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,52,25,23.0,3.0,584.0,25.391304
+5,2023-05-06,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,4,7,3.0,0.0,83.0,27.666667
+5,2023-05-07,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,3,1,,,0.0,
+5,2023-05-11,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,0,,,0.0,
+5,2023-05-11,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,41,18,14.0,4.0,366.0,26.142857
+5,2023-05-11,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,27,13,18.0,4.0,478.0,26.555556
+5,2023-05-12,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,5,3.0,0.0,94.0,31.333333
+5,2023-05-12,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,51,20,29.0,6.0,673.0,23.206897
+5,2023-05-12,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,16,12,12.0,1.0,286.0,23.833333
+5,2023-05-13,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,3,6,2.0,0.0,31.0,15.5
+5,2023-05-13,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,50,15,30.0,9.0,737.0,24.566667
+5,2023-05-13,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,2,7,1.0,1.0,13.0,13.0
+5,2023-05-14,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-14,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,51,20,33.0,10.0,902.0,27.333333
+5,2023-05-14,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,7,6,5.0,1.0,120.0,24.0
+5,2023-05-15,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-30,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,76,18,45.0,6.0,870.0,19.333333
+5,2023-05-30,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,7,4,4.0,0.0,65.0,16.25
+4,2023-04-28,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-28,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,3,2.0,1.0,31.0,15.5
+4,2023-04-28,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,5,5,5.0,2.0,75.0,15.0
+4,2023-04-28,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,40,13,15.0,3.0,327.0,21.8
+4,2023-04-28,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,11,7,5.0,1.0,111.0,22.2
+4,2023-04-29,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,0,,,0.0,
+4,2023-04-29,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-29,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,1,1.0,0.0,22.0,22.0
+4,2023-04-29,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,4,0,,,0.0,
+4,2023-04-29,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,22,6,3.0,0.0,60.0,20.0
+4,2023-04-29,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,33,10,24.0,3.0,518.0,21.583333
+4,2023-04-30,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,1,1.0,0.0,25.0,25.0
+4,2023-04-30,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,1,1.0,0.0,19.0,19.0
+5,2023-05-20,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,61,21,40.0,3.0,1040.0,26.0
+5,2023-05-20,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,4,6,4.0,0.0,91.0,22.75
+5,2023-05-21,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,6,4,2.0,0.0,52.0,26.0
+5,2023-05-21,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,59,15,41.0,6.0,1095.0,26.707317
+5,2023-05-21,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,2,8,3.0,0.0,76.0,25.333333
+5,2023-05-22,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,2,2.0,0.0,40.0,20.0
+5,2023-05-22,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,74,27,33.0,12.0,869.0,26.333333
+5,2023-05-22,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,4,3.0,0.0,56.0,18.666667
+5,2023-05-23,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,3,4,0.0,0.0,0.0,
+5,2023-05-23,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,60,18,49.0,10.0,1233.0,25.163265
+5,2023-05-23,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,6,8,7.0,1.0,171.0,24.428571
+5,2023-05-07,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,44,17,28.0,11.0,802.0,28.642857
+5,2023-05-07,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,16,10,9.0,8.0,266.0,29.555556
+5,2023-05-08,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,2,2.0,0.0,55.0,27.5
+5,2023-05-08,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-08,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,54,20,32.0,11.0,831.0,25.96875
+5,2023-05-08,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,26,16,19.0,2.0,515.0,27.105263
+5,2023-05-09,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-09,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,0,,,0.0,
+5,2023-05-09,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,46,19,32.0,12.0,823.0,25.71875
+5,2023-05-09,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,4,9,1.0,0.0,30.0,30.0
+5,2023-05-10,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,3,0.0,0.0,0.0,
+5,2023-05-10,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-10,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,1,0.0,1.0,0.0,
+5,2023-05-10,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,63,26,42.0,19.0,1102.0,26.238095
+5,2023-05-10,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,11,13,4.0,1.0,106.0,26.5
+5,2023-05-11,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,2,2.0,1.0,64.0,32.0
+5,2023-05-11,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+4,2023-04-30,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,0,,,0.0,
+4,2023-04-30,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+4,2023-04-30,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,20,6,8.0,1.0,171.0,21.375
+4,2023-04-30,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,24,5,7.0,1.0,145.0,20.714286
+5,2023-05-01,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,2,7,4.0,1.0,47.0,11.75
+5,2023-05-01,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,10,0.0,1.0,0.0,
+5,2023-05-01,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-01,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,33,24,24.0,7.0,647.0,26.958333
+5,2023-05-01,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,47,20,37.0,5.0,890.0,24.054054
+5,2023-05-02,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,4,6,3.0,0.0,58.0,19.333333
+5,2023-05-02,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-02,Purdue Global,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,2,1,0.0,0.0,0.0,
+5,2023-05-02,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,30,21,30.0,5.0,747.0,24.9
+5,2023-05-02,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,36,19,19.0,7.0,428.0,22.526316
+5,2023-05-03,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-15,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,54,23,36.0,5.0,893.0,24.805556
+5,2023-05-15,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,23,19,16.0,7.0,419.0,26.1875
+5,2023-05-16,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,1,0.0,2.0,0.0,
+5,2023-05-16,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,53,25,31.0,7.0,738.0,23.806452
+5,2023-05-16,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,4,7,4.0,1.0,95.0,23.75
+5,2023-05-17,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,60,19,34.0,9.0,905.0,26.617647
+5,2023-05-17,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,5,6,2.0,0.0,64.0,32.0
+5,2023-05-18,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-18,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,36,21,10.0,5.0,256.0,25.6
+5,2023-05-18,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,28,11,9.0,3.0,229.0,25.444444
+5,2023-05-19,edp,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+5,2023-05-19,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,46,18,26.0,4.0,722.0,27.769231
+5,2023-05-19,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,12,16,13.0,1.0,309.0,23.769231
+5,2023-05-24,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,2,4,0.0,0.0,0.0,
+5,2023-05-24,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,59,15,25.0,8.0,550.0,22.0
+5,2023-05-25,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,63,14,33.0,6.0,716.0,21.69697
+5,2023-05-25,white_g,search,18463616520,SUP0101,edu_grant,624999155494,142099046299.0,Educationdirectory.org,,2,4,1.0,2.0,11.0,11.0
+5,2023-05-26,edp,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-26,white_g,search,18463616520,SUP0101,edu_grant,624999155488,142099046299.0,Educationdirectory.org,,50,16,24.0,6.0,385.0,16.041667
+5,2023-05-24,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,5,5,1.0,1.0,40.0,40.0
+5,2023-05-24,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,7,8,6.0,1.0,181.0,30.166667
+5,2023-05-25,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,10,7,3.0,1.0,62.0,20.666667
+5,2023-05-25,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,4,7,1.0,2.0,40.0,40.0
+5,2023-05-26,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,4,1,0.0,0.0,0.0,
+5,2023-05-26,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,8,5,1.0,0.0,7.0,7.0
+5,2023-05-20,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,6,7,3.0,2.0,69.0,23.0
+5,2023-05-20,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,8,12,2.0,0.0,62.0,31.0
+5,2023-05-21,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,2,5,0.0,0.0,0.0,
+5,2023-05-21,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,4,8,0.0,0.0,0.0,
+5,2023-05-22,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,6,7,5.0,1.0,125.0,25.0
+5,2023-05-22,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,4,8,3.0,1.0,78.0,26.0
+5,2023-05-23,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,5,6,3.0,0.0,70.0,23.333333
+5,2023-05-23,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,5,6,0.0,0.0,0.0,
+5,2023-05-11,Purdue Global,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-12,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,5,9,2.0,1.0,70.0,35.0
+5,2023-05-12,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,5,9,3.0,0.0,77.0,25.666667
+5,2023-05-12,edp,search,18796324068,SUP0101,edu,648955918998,149079977409.0,Educationdirectory.org,,1,4,3.0,0.0,94.0,31.333333
+5,2023-05-13,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,3,7,4.0,2.0,76.0,19.0
+5,2023-05-13,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,5,10,2.0,1.0,70.0,35.0
+5,2023-05-13,edp,search,18796324068,SUP0101,edu,648955918998,149079977409.0,Educationdirectory.org,,1,4,0.0,0.0,0.0,
+5,2023-05-14,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,6,10,4.0,1.0,116.0,29.0
+5,2023-05-14,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,10,12,6.0,0.0,157.0,26.166667
+5,2023-05-15,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,7,11,3.0,0.0,76.0,25.333333
+5,2023-05-15,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,4,12,0.0,0.0,0.0,
+5,2023-05-27,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,5,3,2.0,0.0,35.0,17.5
+5,2023-05-27,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,6,4,3.0,1.0,61.0,20.333333
+5,2023-05-28,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,6,3,5.0,0.0,86.0,17.2
+5,2023-05-28,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,5,4,4.0,0.0,78.0,19.5
+5,2023-05-29,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,3,5,0.0,0.0,0.0,
+5,2023-05-29,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,9,5,2.0,2.0,60.0,30.0
+5,2023-05-29,edp,search,18796324068,SUP0101,edu,632560918681,148291378292.0,Educationdirectory.org,,1,1,,,0.0,
+5,2023-05-30,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,8,10,3.0,0.0,47.0,15.666667
+5,2023-05-30,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-04,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,7,16,5.0,1.0,166.0,33.2
+5,2023-05-04,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,3,6,3.0,0.0,74.0,24.666667
+5,2023-05-05,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,4,10,3.0,0.0,87.0,29.0
+5,2023-05-05,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,2,8,0.0,0.0,0.0,
+5,2023-05-06,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,3,7,0.0,0.0,0.0,
+5,2023-05-06,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+5,2023-05-06,Purdue Global,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,1,1,,,0.0,
+5,2023-05-07,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,7,10,4.0,1.0,117.0,29.25
+5,2023-05-07,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,10,11,5.0,2.0,125.0,25.0
+5,2023-05-07,edp,search,18796324068,SUP0101,edu,648955918998,149079977409.0,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+4,2023-04-28,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,6,7,8.0,0.0,193.0,24.125
+4,2023-04-29,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,8,5,5.0,0.0,101.0,20.2
+4,2023-04-29,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,6,5,4.0,2.0,121.0,30.25
+5,2023-05-16,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,12,12,4.0,1.0,132.0,33.0
+5,2023-05-16,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,5,8,3.0,1.0,73.0,24.333333
+5,2023-05-17,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,6,9,2.0,1.0,29.0,14.5
+5,2023-05-17,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,5,9,5.0,1.0,157.0,31.4
+5,2023-05-18,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,6,10,2.0,1.0,52.0,26.0
+5,2023-05-18,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,2,7,2.0,0.0,70.0,35.0
+5,2023-05-19,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,9,10,5.0,1.0,114.0,22.8
+5,2023-05-19,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,11,12,4.0,1.0,109.0,27.25
+5,2023-05-08,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,12,13,6.0,4.0,159.0,26.5
+5,2023-05-08,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,2,9,1.0,0.0,22.0,22.0
+5,2023-05-09,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,7,9,5.0,1.0,148.0,29.6
+5,2023-05-09,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,5,7,0.0,0.0,0.0,
+5,2023-05-10,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,11,15,5.0,0.0,157.0,31.4
+5,2023-05-10,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,4,10,1.0,0.0,30.0,30.0
+5,2023-05-11,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,6,9,5.0,0.0,141.0,28.2
+5,2023-05-11,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,2,7,0.0,0.0,0.0,
+4,2023-04-30,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,2,1,0.0,0.0,0.0,
+4,2023-04-30,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,6,3,4.0,1.0,111.0,27.75
+5,2023-05-01,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,8,15,3.0,0.0,94.0,31.333333
+5,2023-05-01,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,2,7,0.0,0.0,0.0,
+5,2023-05-01,Purdue Global,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-02,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,9,15,1.0,0.0,30.0,30.0
+5,2023-05-02,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,6,13,3.0,2.0,103.0,34.333333
+5,2023-05-03,edp,search,18796324068,SUP0101,edu,632560918534,148291378212.0,Educationdirectory.org,,4,10,0.0,0.0,0.0,
+5,2023-05-03,edp,search,18796324068,SUP0101,edu,632560918552,148291378212.0,Educationdirectory.org,,5,10,9.0,1.0,244.0,27.111111
+5,2023-05-01,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-04,white,search,19113255320,SUP0101,edu,638753895299,142702195103.0,Educationdirectory.org,,1,4,0.0,0.0,0.0,
+5,2023-05-06,white,search,19113255320,SUP0101,edu,638753895302,142702195103.0,Educationdirectory.org,,1,4,1.0,1.0,24.0,24.0
+5,2023-05-06,white,search,19113255320,SUP0101,edu,640797622681,145155623460.0,Educationdirectory.org,,1,3,3.0,0.0,67.0,22.333333
+5,2023-05-07,white,search,19113255320,SUP0101,edu,640797622558,145155623460.0,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+5,2023-05-12,edp,search,19113255320,SUP0101,edu,638684611642,144964042998.0,Educationdirectory.org,,1,7,0.0,0.0,0.0,
+5,2023-05-12,edp,search,19113255320,SUP0101,edu,638753895296,142702195103.0,Educationdirectory.org,,1,7,0.0,0.0,0.0,
+5,2023-05-12,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,3,5,1.0,1.0,30.0,30.0
+5,2023-05-12,white,search,19113255320,SUP0101,edu,638753895299,142702195103.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-13,edp,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+5,2023-05-13,edp,search,19113255320,SUP0101,edu,640797622681,145155623460.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-13,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,2,4,2.0,0.0,64.0,32.0
+5,2023-05-13,white,search,19113255320,SUP0101,edu,638753895299,142702195103.0,Educationdirectory.org,,1,4,3.0,0.0,76.0,25.333333
+5,2023-05-14,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,1,4,0.0,0.0,0.0,
+5,2023-05-15,white,search,19113255320,SUP0101,edu,638753895299,142702195103.0,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-24,edp,search,19113255320,SUP0101,edu,638684611642,144964042998.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-24,Purdue Global,search,19113255320,SUP0101,edu,640797622558,145155623460.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-24,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,2,5,0.0,0.0,0.0,
+5,2023-05-24,white,search,19113255320,SUP0101,edu,638753895302,142702195103.0,Educationdirectory.org,,1,2,2.0,0.0,25.0,12.5
+5,2023-05-24,white,search,19113255320,SUP0101,edu,640797622555,145155623460.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-24,white,search,19113255320,SUP0101,edu,640797622558,145155623460.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-25,Purdue Global,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-25,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,7,4,4.0,0.0,67.0,16.75
+5,2023-05-25,white,search,19113255320,SUP0101,edu,638753895299,142702195103.0,Educationdirectory.org,,2,3,1.0,2.0,30.0,30.0
+5,2023-05-25,white,search,19113255320,SUP0101,edu,638753895302,142702195103.0,Educationdirectory.org,,1,2,1.0,0.0,13.0,13.0
+5,2023-05-25,white,search,19113255320,SUP0101,edu,640797622681,145155623460.0,Educationdirectory.org,,1,3,2.0,1.0,64.0,32.0
+5,2023-05-26,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,2,1,1.0,0.0,18.0,18.0
+5,2023-05-26,white,search,19113255320,SUP0101,edu,638753895299,142702195103.0,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-26,white,search,19113255320,SUP0101,edu,640797622558,145155623460.0,Educationdirectory.org,,1,2,2.0,0.0,21.0,10.5
+5,2023-05-26,white,search,19113255320,SUP0101,edu,640797622681,145155623460.0,Educationdirectory.org,,3,2,0.0,0.0,0.0,
+5,2023-05-20,Purdue Global,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-20,Purdue Global,search,19113255320,SUP0101,edu,640797622555,145155623460.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-20,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,2,7,2.0,0.0,62.0,31.0
+5,2023-05-22,edp,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,2,1,0.0,2.0,0.0,
+5,2023-05-22,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,2,5,0.0,0.0,0.0,
+5,2023-05-22,white,search,19113255320,SUP0101,edu,638753895299,142702195103.0,Educationdirectory.org,,1,1,1.0,0.0,22.0,22.0
+5,2023-05-23,edp,search,19113255320,SUP0101,edu,638753895299,142702195103.0,Educationdirectory.org,,2,1,1.0,0.0,30.0,30.0
+5,2023-05-23,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,2,5,2.0,1.0,41.0,20.5
+5,2023-05-23,white,search,19113255320,SUP0101,edu,638753895296,142702195103.0,Educationdirectory.org,,2,3,3.0,0.0,81.0,27.0
+5,2023-05-23,white,search,19113255320,SUP0101,edu,638753895299,142702195103.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-23,white,search,19113255320,SUP0101,edu,638753895302,142702195103.0,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-23,white,search,19113255320,SUP0101,edu,640797622555,145155623460.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-23,white,search,19113255320,SUP0101,edu,640797622681,145155623460.0,Educationdirectory.org,,1,4,3.0,0.0,96.0,32.0
+5,2023-05-27,Purdue Global,search,19113255320,SUP0101,edu,638684611639,144964042998.0,Educationdirectory.org,,1,1,1.0,0.0,13.0,13.0
+5,2023-05-27,white,search,19113255320,SUP0101,edu,638684611639,144964042998.0,Educationdirectory.org,,1,2,1.0,0.0,34.0,34.0
+5,2023-05-27,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,3,5,2.0,0.0,32.0,16.0
+5,2023-05-27,white,search,19113255320,SUP0101,edu,638753895302,142702195103.0,Educationdirectory.org,,1,4,0.0,0.0,0.0,
+5,2023-05-28,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,1,1,1.0,0.0,21.0,21.0
+5,2023-05-28,white,search,19113255320,SUP0101,edu,638753895299,142702195103.0,Educationdirectory.org,,2,4,0.0,0.0,0.0,
+5,2023-05-29,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-29,white,search,19113255320,SUP0101,edu,638753895302,142702195103.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-30,white,search,19113255320,SUP0101,edu,638753895299,142702195103.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-30,white,search,19113255320,SUP0101,edu,638753895302,142702195103.0,Educationdirectory.org,,1,4,0.0,0.0,0.0,
+5,2023-05-08,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,1,5,3.0,0.0,103.0,34.333333
+5,2023-05-08,white,search,19113255320,SUP0101,edu,640797622681,145155623460.0,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+5,2023-05-09,Purdue Global,search,19113255320,SUP0101,edu,640797622681,145155623460.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+5,2023-05-09,white,search,19113255320,SUP0101,edu,640797622681,145155623460.0,Educationdirectory.org,,2,2,2.0,1.0,46.0,23.0
+5,2023-05-10,edp,search,19113255320,SUP0101,edu,640797622555,145155623460.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-10,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,2,5,0.0,0.0,0.0,
+5,2023-05-10,white,search,19113255320,SUP0101,edu,640797622555,145155623460.0,Educationdirectory.org,,3,9,1.0,2.0,40.0,40.0
+5,2023-05-10,white,search,19113255320,SUP0101,edu,640797622681,145155623460.0,Educationdirectory.org,,1,5,2.0,1.0,60.0,30.0
+5,2023-05-16,Purdue Global,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,3,0,,,0.0,
+5,2023-05-16,Purdue Global,search,19113255320,SUP0101,edu,640797622681,145155623460.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-16,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,5,8,3.0,0.0,82.0,27.333333
+5,2023-05-16,white,search,19113255320,SUP0101,edu,638753895299,142702195103.0,Educationdirectory.org,,2,3,0.0,0.0,0.0,
+5,2023-05-16,white,search,19113255320,SUP0101,edu,638753895302,142702195103.0,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+5,2023-05-16,white,search,19113255320,SUP0101,edu,640797622681,145155623460.0,Educationdirectory.org,,4,5,4.0,0.0,83.0,20.75
+5,2023-05-17,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,4,1,1.0,0.0,30.0,30.0
+5,2023-05-17,white,search,19113255320,SUP0101,edu,638753895299,142702195103.0,Educationdirectory.org,,1,6,3.0,0.0,71.0,23.666667
+5,2023-05-17,white,search,19113255320,SUP0101,edu,638753895302,142702195103.0,Educationdirectory.org,,1,6,0.0,0.0,0.0,
+5,2023-05-17,white,search,19113255320,SUP0101,edu,640797622681,145155623460.0,Educationdirectory.org,,1,2,2.0,0.0,64.0,32.0
+5,2023-05-18,edp,search,19113255320,SUP0101,edu,640797622555,145155623460.0,Educationdirectory.org,,1,5,2.0,1.0,62.0,31.0
+5,2023-05-18,Purdue Global,search,19113255320,SUP0101,edu,640797622555,145155623460.0,Educationdirectory.org,,1,2,2.0,0.0,30.0,15.0
+5,2023-05-18,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,2,6,2.0,0.0,43.0,21.5
+5,2023-05-18,white,search,19113255320,SUP0101,edu,640797622555,145155623460.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-18,white,search,19113255320,SUP0101,edu,640797622681,145155623460.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-19,white,search,19113255320,SUP0101,edu,638684611645,144964042998.0,Educationdirectory.org,,3,6,4.0,0.0,105.0,26.25
+5,2023-05-19,white,search,19113255320,SUP0101,edu,640797622681,145155623460.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+4,2023-04-30,Purdue Global,search,19727330564,SUP0101,edu,649064479580,151937976888.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-02,edp,search,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,3,3,0.0,0.0,0.0,
+5,2023-05-02,edp,search,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,3,8,3.0,2.0,49.0,16.333333
+5,2023-05-03,edp,search,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,3,9,3.0,0.0,54.0,18.0
+5,2023-05-03,edp,search,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,4,10,2.0,0.0,57.0,28.5
+5,2023-05-11,Purdue Global,search,19743484261,SUP0101,edu,649484051649,147228770835.0,Educationdirectory.org,,3,0,,,0.0,
+5,2023-05-12,edp,search,19743484261,SUP0101,edu,649484051649,147228770835.0,Educationdirectory.org,,1,6,0.0,0.0,0.0,
+5,2023-05-12,edp,search,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,2,2,1.0,0.0,9.0,9.0
+5,2023-05-12,edp,search,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-13,edp,search,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,1,2,2.0,0.0,33.0,16.5
+5,2023-05-14,edp,search,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-15,edp,search,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,4,4,1.0,4.0,30.0,30.0
+5,2023-05-03,Purdue Global,search,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,3,2,2.0,0.0,43.0,21.5
+5,2023-05-04,edp,search,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,3,5,3.0,0.0,76.0,25.333333
+5,2023-05-05,edp,search,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,3,5,3.0,2.0,82.0,27.333333
+5,2023-05-05,edp,search,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,4,7,2.0,1.0,52.0,26.0
+5,2023-05-05,Purdue Global,search,19743484261,SUP0101,edu,649484051649,147228770835.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-06,edp,search,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-06,edp,search,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,1,1,1.0,0.0,25.0,25.0
+5,2023-05-07,edp,search,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,2,3,3.0,0.0,95.0,31.666667
+5,2023-05-07,edp,search,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,2,4,3.0,0.0,68.0,22.666667
+5,2023-05-08,edp,search,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,1,3,0.0,1.0,0.0,
+5,2023-05-08,edp,search,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,3,11,1.0,0.0,14.0,14.0
+5,2023-05-09,edp,search,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,3,9,2.0,2.0,47.0,23.5
+5,2023-05-10,edp,search,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-10,edp,search,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,2,5,3.0,0.0,104.0,34.666667
+5,2023-05-11,edp,search,19743484261,SUP0101,edu,649484051649,147228770835.0,Educationdirectory.org,,2,3,1.0,1.0,24.0,24.0
+5,2023-05-11,edp,search,19743484261,SUP0101,edu,649484051652,147228770835.0,Educationdirectory.org,,2,5,0.0,0.0,0.0,
+5,2023-05-11,edp,search,19743484261,SUP0101,edu,652873189345,147228770835.0,Educationdirectory.org,,4,3,0.0,0.0,0.0,
+4,2023-04-30,white,search,20003200744,SUP0101,edu,638753895299,146854527103.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-02,white,search,20003200744,SUP0101,edu,638684611645,146854527303.0,Educationdirectory.org,,1,5,2.0,0.0,21.0,10.5
+5,2023-05-02,white,search,20003200744,SUP0101,edu,638753895296,146854527103.0,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+5,2023-05-06,white,search,20003200744,SUP0101,edu,638684611645,146854527303.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+4,2023-04-28,white,search,20003200744,SUP0101,edu,638684611645,146854527303.0,Educationdirectory.org,,2,1,,,0.0,
+4,2023-04-28,white,search,20003200744,SUP0101,edu,638753895302,146854527103.0,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+4,2023-04-29,white,search,20003200744,SUP0101,edu,638684611645,146854527303.0,Educationdirectory.org,,2,3,3.0,0.0,67.0,22.333333
+5,2023-05-30,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,7,8,2.0,1.0,23.0,11.5
+5,2023-05-07,white_g,search,20058834687,SUP0101,edu_grant,656902265424,145439163541.0,Educationdirectory.org,,4,7,1.0,0.0,21.0,21.0
+5,2023-05-08,white_g,search,20058834687,SUP0101,edu_grant,656902265424,145439163541.0,Educationdirectory.org,,3,2,2.0,0.0,70.0,35.0
+5,2023-05-09,white_g,search,20058834687,SUP0101,edu_grant,656902265424,145439163541.0,Educationdirectory.org,,1,6,2.0,1.0,56.0,28.0
+5,2023-05-12,Purdue Global,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-12,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,6,3,2.0,0.0,52.0,26.0
+5,2023-05-13,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-14,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,7,7,2.0,2.0,37.0,18.5
+5,2023-05-20,edp,search,20058834687,SUP0101,education,658212984871,150404594833.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-20,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,6,6,2.0,0.0,57.0,28.5
+5,2023-05-21,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,7,6,4.0,2.0,134.0,33.5
+5,2023-05-22,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,12,7,4.0,0.0,106.0,26.5
+5,2023-05-23,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,13,8,3.0,2.0,73.0,24.333333
+5,2023-05-15,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,2,3,2.0,0.0,43.0,21.5
+5,2023-05-16,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,4,5,3.0,3.0,79.0,26.333333
+5,2023-05-17,edp,search,20058834687,SUP0101,education,658212984871,150404594833.0,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+5,2023-05-17,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,7,8,3.0,1.0,39.0,13.0
+5,2023-05-18,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,14,11,9.0,3.0,208.0,23.111111
+5,2023-05-19,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,6,8,4.0,3.0,115.0,28.75
+5,2023-05-24,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,11,9,1.0,0.0,30.0,30.0
+5,2023-05-25,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,9,8,1.0,0.0,40.0,40.0
+5,2023-05-26,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,9,4,1.0,0.0,20.0,20.0
+5,2023-05-04,white_g,search,20058834687,SUP0101,edu_grant,656902265424,145439163541.0,Educationdirectory.org,,4,5,1.0,2.0,11.0,11.0
+5,2023-05-06,white_g,search,20058834687,SUP0101,edu_grant,656902265424,145439163541.0,Educationdirectory.org,,6,4,1.0,3.0,40.0,40.0
+5,2023-05-01,white_g,search,20058834687,SUP0101,edu_grant,656902265424,145439163541.0,Educationdirectory.org,,4,7,0.0,0.0,0.0,
+5,2023-05-02,white_g,search,20058834687,SUP0101,edu_grant,656902265424,145439163541.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-27,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,8,4,1.0,0.0,24.0,24.0
+5,2023-05-28,edp,search,20058834687,SUP0101,education,658212984871,150404594833.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-28,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,12,9,4.0,4.0,80.0,20.0
+5,2023-05-29,white_g,search,20058834687,SUP0101,edu_grant,658212984868,150404594833.0,Educationdirectory.org,,11,4,3.0,1.0,92.0,30.666667
+5,2023-05-27,edp,search,20187299899,SUP0101,edu_grant,649118698063,148862627185.0,Educationdirectory.org,,2,1,1.0,0.0,13.0,13.0
+5,2023-05-27,edp,search,20187299899,SUP0101,edu_grant,651015491880,148862627185.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-27,white_g,search,20187299899,SUP0101,edu_grant,620702930077,148862626745.0,Educationdirectory.org,,2,3,1.0,2.0,14.0,14.0
+5,2023-05-27,white_g,search,20187299899,SUP0101,edu_grant,649118698063,148862627185.0,Educationdirectory.org,,29,6,9.0,1.0,130.0,14.444444
+5,2023-05-27,white_g,search,20187299899,SUP0101,edu_grant,650026762788,148862626705.0,Educationdirectory.org,,2,2,2.0,0.0,46.0,23.0
+5,2023-05-27,white_g,search,20187299899,SUP0101,edu_grant,650931252223,148862626745.0,Educationdirectory.org,,9,5,2.0,2.0,56.0,28.0
+5,2023-05-27,white_g,search,20187299899,SUP0101,edu_grant,651015491880,148862627185.0,Educationdirectory.org,,68,11,22.0,5.0,470.0,21.363636
+5,2023-05-28,edp,search,20187299899,SUP0101,edu_grant,650931252223,148862626745.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-28,edp,search,20187299899,SUP0101,edu_grant,651015491880,148862627185.0,Educationdirectory.org,,2,3,0.0,0.0,0.0,
+5,2023-05-28,white_g,search,20187299899,SUP0101,edu_grant,620702930077,148862626745.0,Educationdirectory.org,,3,3,0.0,0.0,0.0,
+5,2023-05-28,white_g,search,20187299899,SUP0101,edu_grant,649118698063,148862627185.0,Educationdirectory.org,,31,8,10.0,5.0,160.0,16.0
+5,2023-05-28,white_g,search,20187299899,SUP0101,edu_grant,650026762788,148862626705.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-28,white_g,search,20187299899,SUP0101,edu_grant,650931252223,148862626745.0,Educationdirectory.org,,6,5,0.0,1.0,0.0,
+5,2023-05-28,white_g,search,20187299899,SUP0101,edu_grant,651015491880,148862627185.0,Educationdirectory.org,,60,13,26.0,3.0,503.0,19.346154
+5,2023-05-29,edp,search,20187299899,SUP0101,edu_grant,649118698063,148862627185.0,Educationdirectory.org,,3,1,0.0,0.0,0.0,
+5,2023-05-29,white_g,search,20187299899,SUP0101,edu_grant,620702930077,148862626745.0,Educationdirectory.org,,8,2,4.0,0.0,118.0,29.5
+5,2023-05-29,white_g,search,20187299899,SUP0101,edu_grant,649118698063,148862627185.0,Educationdirectory.org,,27,12,17.0,3.0,425.0,25.0
+5,2023-05-29,white_g,search,20187299899,SUP0101,edu_grant,650026762788,148862626705.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-29,white_g,search,20187299899,SUP0101,edu_grant,650931252223,148862626745.0,Educationdirectory.org,,7,8,3.0,1.0,64.0,21.333333
+5,2023-05-29,white_g,search,20187299899,SUP0101,edu_grant,651015491880,148862627185.0,Educationdirectory.org,,80,18,56.0,3.0,1277.0,22.803571
+5,2023-05-29,white_g,search,20187299899,SUP0101,edu_grant,656942504284,148862626985.0,Educationdirectory.org,,2,2,1.0,0.0,30.0,30.0
+5,2023-05-30,edp,search,20187299899,SUP0101,edu_grant,651015491880,148862627185.0,Educationdirectory.org,,5,3,2.0,1.0,24.0,12.0
+5,2023-05-30,white_g,search,20187299899,SUP0101,edu_grant,607713435568,148862626705.0,Educationdirectory.org,,4,4,5.0,0.0,102.0,20.4
+5,2023-05-30,white_g,search,20187299899,SUP0101,edu_grant,620702930077,148862626745.0,Educationdirectory.org,,2,6,4.0,0.0,72.0,18.0
+5,2023-05-30,white_g,search,20187299899,SUP0101,edu_grant,649118698063,148862627185.0,Educationdirectory.org,,35,11,23.0,2.0,450.0,19.565217
+5,2023-05-30,white_g,search,20187299899,SUP0101,edu_grant,650026762788,148862626705.0,Educationdirectory.org,,2,7,0.0,0.0,0.0,
+5,2023-05-30,white_g,search,20187299899,SUP0101,edu_grant,650931252223,148862626745.0,Educationdirectory.org,,11,11,5.0,1.0,120.0,24.0
+5,2023-05-30,white_g,search,20187299899,SUP0101,edu_grant,651015491880,148862627185.0,Educationdirectory.org,,161,24,103.0,10.0,2028.0,19.68932
+5,2023-05-30,white_g,search,20187299899,SUP0101,edu_grant,656942504284,148862626985.0,Educationdirectory.org,,2,3,3.0,0.0,51.0,17.0
+5,2023-05-23,edp,search,20187299899,SUP0101,edu_grant,651015491880,148862627185.0,Educationdirectory.org,,3,4,1.0,1.0,22.0,22.0
+5,2023-05-23,white_g,search,20187299899,SUP0101,edu_grant,620702930077,148862626745.0,Educationdirectory.org,,8,7,6.0,1.0,162.0,27.0
+5,2023-05-23,white_g,search,20187299899,SUP0101,edu_grant,649118698063,148862627185.0,Educationdirectory.org,,64,17,48.0,11.0,1227.0,25.5625
+5,2023-05-23,white_g,search,20187299899,SUP0101,edu_grant,650026762788,148862626705.0,Educationdirectory.org,,4,4,4.0,1.0,105.0,26.25
+5,2023-05-23,white_g,search,20187299899,SUP0101,edu_grant,650931252223,148862626745.0,Educationdirectory.org,,3,4,0.0,0.0,0.0,
+5,2023-05-23,white_g,search,20187299899,SUP0101,edu_grant,651015491880,148862627185.0,Educationdirectory.org,,87,26,60.0,9.0,1476.0,24.6
+5,2023-05-23,white_g,search,20187299899,SUP0101,edu_grant,656942504284,148862626985.0,Educationdirectory.org,,2,3,0.0,0.0,0.0,
+5,2023-05-24,edp,search,20187299899,SUP0101,edu_grant,649118698063,148862627185.0,Educationdirectory.org,,1,1,,,0.0,
+5,2023-05-24,edp,search,20187299899,SUP0101,edu_grant,651015491880,148862627185.0,Educationdirectory.org,,2,2,2.0,0.0,38.0,19.0
+5,2023-05-24,white_g,search,20187299899,SUP0101,edu_grant,607713435568,148862626705.0,Educationdirectory.org,,7,5,4.0,5.0,108.0,27.0
+5,2023-05-24,white_g,search,20187299899,SUP0101,edu_grant,620702930077,148862626745.0,Educationdirectory.org,,8,7,5.0,0.0,143.0,28.6
+5,2023-05-24,white_g,search,20187299899,SUP0101,edu_grant,649118698063,148862627185.0,Educationdirectory.org,,109,17,57.0,15.0,1340.0,23.508772
+5,2023-05-24,white_g,search,20187299899,SUP0101,edu_grant,650026762788,148862626705.0,Educationdirectory.org,,2,2,0.0,0.0,0.0,
+5,2023-05-24,white_g,search,20187299899,SUP0101,edu_grant,650931252223,148862626745.0,Educationdirectory.org,,17,7,7.0,2.0,168.0,24.0
+5,2023-05-24,white_g,search,20187299899,SUP0101,edu_grant,651015491880,148862627185.0,Educationdirectory.org,,82,18,42.0,7.0,1063.0,25.309524
+5,2023-05-24,white_g,search,20187299899,SUP0101,edu_grant,656942504284,148862626985.0,Educationdirectory.org,,3,7,5.0,0.0,125.0,25.0
+5,2023-05-25,edp,search,20187299899,SUP0101,edu_grant,649118698063,148862627185.0,Educationdirectory.org,,3,4,2.0,1.0,50.0,25.0
+5,2023-05-25,edp,search,20187299899,SUP0101,edu_grant,650931252223,148862626745.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-25,white_g,search,20187299899,SUP0101,edu_grant,607713435568,148862626705.0,Educationdirectory.org,,2,3,3.0,0.0,64.0,21.333333
+5,2023-05-25,white_g,search,20187299899,SUP0101,edu_grant,620702930077,148862626745.0,Educationdirectory.org,,10,5,8.0,0.0,154.0,19.25
+5,2023-05-25,white_g,search,20187299899,SUP0101,edu_grant,649118698063,148862627185.0,Educationdirectory.org,,68,17,58.0,8.0,1425.0,24.568966
+5,2023-05-25,white_g,search,20187299899,SUP0101,edu_grant,650931252223,148862626745.0,Educationdirectory.org,,11,8,8.0,1.0,151.0,18.875
+5,2023-05-25,white_g,search,20187299899,SUP0101,edu_grant,651015491880,148862627185.0,Educationdirectory.org,,68,14,22.0,5.0,432.0,19.636364
+5,2023-05-25,white_g,search,20187299899,SUP0101,edu_grant,656942504284,148862626985.0,Educationdirectory.org,,2,0,,,0.0,
+5,2023-05-26,edp,search,20187299899,SUP0101,edu_grant,650931252223,148862626745.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-26,edp,search,20187299899,SUP0101,edu_grant,651015491880,148862627185.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-26,white_g,search,20187299899,SUP0101,edu_grant,607713435568,148862626705.0,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-26,white_g,search,20187299899,SUP0101,edu_grant,620702930077,148862626745.0,Educationdirectory.org,,4,1,0.0,0.0,0.0,
+5,2023-05-26,white_g,search,20187299899,SUP0101,edu_grant,649118698063,148862627185.0,Educationdirectory.org,,26,14,8.0,3.0,136.0,17.0
+5,2023-05-26,white_g,search,20187299899,SUP0101,edu_grant,650026762788,148862626705.0,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-26,white_g,search,20187299899,SUP0101,edu_grant,650931252223,148862626745.0,Educationdirectory.org,,16,8,6.0,0.0,105.0,17.5
+5,2023-05-26,white_g,search,20187299899,SUP0101,edu_grant,651015491880,148862627185.0,Educationdirectory.org,,66,14,35.0,9.0,605.0,17.285714
+5,2023-05-24,edp,social,,SUP0110,education,,,Educationdirectory.org,,14,10,17.0,0.0,414.0,24.352941
+5,2023-05-24,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,5,5,2.0,3.0,49.0,24.5
+5,2023-05-25,edp,social,,SUP0110,education,,,Educationdirectory.org,,38,12,49.0,5.0,1210.0,24.693878
+5,2023-05-25,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,15,9,13.0,0.0,318.0,24.461538
+5,2023-05-26,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,5,7,4.0,1.0,88.0,22.0
+5,2023-05-30,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,4,7,5.0,2.0,104.0,20.8
+5,2023-05-15,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,1,1,0.0,0.0,0.0,
+5,2023-05-27,edp,social,,SUP0110,education,,,Educationdirectory.org,,3,5,2.0,1.0,47.0,23.5
+5,2023-05-27,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,17,8,13.0,1.0,298.0,22.923077
+5,2023-05-28,edp,social,,SUP0110,education,,,Educationdirectory.org,,3,3,3.0,0.0,50.0,16.666667
+5,2023-05-28,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,6,3,4.0,0.0,58.0,14.5
+5,2023-05-29,edp,social,,SUP0110,education,,,Educationdirectory.org,,9,8,16.0,0.0,321.0,20.0625
+5,2023-05-29,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,17,3,8.0,2.0,232.0,29.0
+5,2023-05-30,edp,social,,SUP0110,education,,,Educationdirectory.org,,5,2,2.0,0.0,26.0,13.0
+5,2023-05-22,edp,social,,SUP0110,education,,,Educationdirectory.org,,22,13,25.0,2.0,643.0,25.72
+5,2023-05-22,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,11,8,11.0,0.0,311.0,28.272727
+5,2023-05-23,edp,social,,SUP0110,education,,,Educationdirectory.org,,11,10,6.0,1.0,137.0,22.833333
+5,2023-05-23,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,16,10,24.0,3.0,657.0,27.375
+5,2023-05-09,edp,social,,SUP0110,education,,,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-09,white_g,social,,SUP0110,edu_grant,,,Educationdirectory.org,,1,3,1.0,0.0,11.0,11.0
+5,2023-05-22,edp,social,28,SUP0110,education,,,Educationdirectory.org,,2,5,3.0,2.0,84.0,28.0
+5,2023-05-23,white_g,social,28,SUP0110,edu_grant,,,Educationdirectory.org,,2,4,3.0,0.0,64.0,21.333333
+5,2023-05-22,edp,social,35,SUP0110,education,,,Educationdirectory.org,,7,8,7.0,1.0,207.0,29.571429
+5,2023-05-22,white_g,social,35,SUP0110,edu_grant,,,Educationdirectory.org,,1,4,0.0,0.0,0.0,
+5,2023-05-23,edp,social,35,SUP0110,education,,,Educationdirectory.org,,9,11,10.0,7.0,281.0,28.1
+5,2023-05-23,white_g,social,35,SUP0110,edu_grant,,,Educationdirectory.org,,5,7,7.0,1.0,127.0,18.142857
+5,2023-05-24,edp,social,35,SUP0110,education,,,Educationdirectory.org,,11,11,12.0,0.0,300.0,25.0
+5,2023-05-24,white_g,social,35,SUP0110,edu_grant,,,Educationdirectory.org,,3,7,4.0,1.0,64.0,16.0
+5,2023-05-25,edp,social,35,SUP0110,education,,,Educationdirectory.org,,5,11,5.0,2.0,143.0,28.6
+5,2023-05-25,white_g,social,35,SUP0110,edu_grant,,,Educationdirectory.org,,4,4,3.0,1.0,93.0,31.0
+5,2023-05-26,edp,social,35,SUP0110,education,,,Educationdirectory.org,,3,6,4.0,2.0,94.0,23.5
+5,2023-05-30,white_g,social,35,SUP0110,edu_grant,,,Educationdirectory.org,,4,5,2.0,1.0,28.0,14.0
+5,2023-05-27,edp,social,35,SUP0110,education,,,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-29,edp,social,35,SUP0110,education,,,Educationdirectory.org,,2,2,4.0,0.0,77.0,19.25
+5,2023-05-29,white_g,social,35,SUP0110,edu_grant,,,Educationdirectory.org,,1,0,,,0.0,
+5,2023-05-30,edp,social,35,SUP0110,education,,,Educationdirectory.org,,3,9,6.0,0.0,121.0,20.166667
+5,2023-05-23,edp,social,38,SUP0110,education,,,Educationdirectory.org,,14,11,20.0,3.0,581.0,29.05
+5,2023-05-23,white_g,social,38,SUP0110,edu_grant,,,Educationdirectory.org,,4,7,2.0,0.0,35.0,17.5
+5,2023-05-16,edp,social,adhtest,SUP0110,education,,,Educationdirectory.org,,1,1,1.0,0.0,30.0,30.0
+5,2023-05-16,white_g,social,adhtest,SUP0110,edu_grant,,,Educationdirectory.org,,1,4,1.0,0.0,30.0,30.0
+5,2023-05-16,white_g,social,CustomVar5,SUP0110,edu_grant,,,Educationdirectory.org,,1,2,0.0,0.0,0.0,
+5,2023-05-25,white_g,social,search_mbL_highconverting||mbLhighconvert_school||medical billing and coding school online_b,SUP0110,edu_grant,,,Educationdirectory.org,,1,1,2.0,0.0,53.0,26.5
+5,2023-05-24,edp,social,search_mbL_highconverting||mbLhighconvert_training||accredited medical billing and coding training online_b,SUP0110,education,,,Educationdirectory.org,,1,5,0.0,0.0,0.0,
+5,2023-05-25,edp,social,search_mbL_highconverting||mbLhighconvert_training||accredited medical billing and coding training online_b,SUP0110,education,,,Educationdirectory.org,,1,3,0.0,0.0,0.0,
+5,2023-05-25,edp,social,search_mbL_highintent||mbLhighintent_healthcare||best online degree programs for healthcare_b,SUP0110,education,,,Educationdirectory.org,,1,2,1.0,1.0,9.0,9.0
+5,2023-05-26,edp,social,search_mbL_highintent||mbLhighintent_healthcare||best online degree programs for healthcare_b,SUP0110,education,,,Educationdirectory.org,,1,1,0.0,1.0,0.0,
+5,2023-05-30,edp,social,search_mbL_highintent||mbLhighintent_healthcare||best online degree programs for healthcare_b,SUP0110,education,,,Educationdirectory.org,,1,2,2.0,0.0,46.0,23.0
